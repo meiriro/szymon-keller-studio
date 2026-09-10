@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "09.09.2026",
+  "edition": "v7 · 10.09.2026",
   "references": [
     {
       "id": "marina",
@@ -49,6 +49,54 @@
       "name": "Laurids Gallée",
       "role": "Diseño",
       "fixedNote": "Resina pulida, efecto cristal/mineral, más futurista."
+    },
+    {
+      "id": "arper",
+      "name": "Arper",
+      "role": "Diseño",
+      "fixedNote": "Silla Catifa Carta: el objeto funcional se mide frente a un terreno, no solo frente a un interior."
+    },
+    {
+      "id": "archivo-aportado",
+      "name": "Archivo aportado por Rodrigo",
+      "role": "Referencia visual",
+      "fixedNote": "Material local incorporado para estudiar el desplazamiento del interior doméstico al espacio abierto. URL y créditos pendientes."
+    },
+    {
+      "id": "draft",
+      "name": "DAFT about DRAFT / Taiju Yamashita",
+      "role": "Diseño",
+      "fixedNote": "Mobiliario de líneas fluidas cuya presencia cambia al salir al terreno rocoso."
+    },
+    {
+      "id": "earth-to-people",
+      "name": "Earth To People",
+      "role": "Diseño",
+      "fixedNote": "Objetos construidos desde madera recuperada, resina de pino y metal reutilizado: material y paisaje forman una sola conversación."
+    },
+    {
+      "id": "lalique",
+      "name": "Lalique",
+      "role": "Objeto decorativo",
+      "fixedNote": "Terramineral confronta cristal pulido y suelo mineral para leer el objeto como una pequeña geología."
+    },
+    {
+      "id": "natan-moss",
+      "name": "Natan Moss Design",
+      "role": "Mobiliario",
+      "fixedNote": "Mesas y luminarias trasladadas al campo: el horizonte y la distancia redimensionan su uso doméstico."
+    },
+    {
+      "id": "inoxeart",
+      "name": "Inoxeart / Costanza Grandi",
+      "role": "Diseño",
+      "fixedNote": "Acero, vidrio y ladrillo convierten una pradera en una instalación temporal habitable."
+    },
+    {
+      "id": "francois-ollivier",
+      "name": "François Ollivier",
+      "role": "Fotografía",
+      "fixedNote": "Luz, transición horaria y paisaje cotidiano sostienen la lectura de Summer Daze y Memory Lapses."
     }
   ],
   "projects": [
@@ -2833,6 +2881,1418 @@
             {
               "number": "01",
               "text": "Objetos distintos comparten una regla y pasan a ser sistema.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light-horizon",
+      "title": "Light Horizon / Noor Riyadh",
+      "referenceId": "sabine",
+      "role": "Instalación lumínica",
+      "context": "Exterior / instalación / paisaje",
+      "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+      "operation": "Insertar planos de espejo bidireccional y LED en una topografía árida para que reflejo, color y horizonte se vuelvan una misma escena.",
+      "application": "Para Szymon: probar una pieza lumínica fuera del estudio y fotografiarla a distancia; el paisaje debe afectar el color y la lectura de sus bordes.",
+      "images": [
+        {
+          "id": "light-horizon-1",
+          "src": "assets/light-horizon-1.webp",
+          "url": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "originalUrl": "/Users/rodrigo/Downloads/Studio Sabine Marcelis/imgi_2_8ceb04ca8de08da326d4de486ba60187ed3cb9b3-9476x6317.webp",
+          "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "alt": "Instalación Light Horizon con paneles de espejo color ámbar y rosa entre rocas.",
+          "credit": "Fotografía © Rubén P. Bescós",
+          "caption": "Light Horizon: espejo, LED y relieve.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El panel no ilustra el paisaje: lo corta, lo refleja y crea un horizonte alternativo.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "catifa-carta",
+      "title": "Catifa Carta",
+      "referenceId": "arper",
+      "role": "Silla",
+      "context": "Objeto / paisaje",
+      "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+      "operation": "Aislar una silla negra sobre un montículo cubierto de hierba para desplazar la escala habitual del mobiliario y volver visible su silueta.",
+      "application": "Para Szymon: ensayar una pieza única contra un terreno continuo. El vacío alrededor y la altura del soporte pueden narrar uso sin mostrar un interior.",
+      "images": [
+        {
+          "id": "catifa-carta-1",
+          "src": "assets/catifa-carta-1.jpg",
+          "url": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "originalUrl": "/Users/rodrigo/Desktop/Azure-AZ-Awards-2025-Design-Furniture-Single-Piece-Arper-Catifa-Carta-Hero.jpg",
+          "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "alt": "Silla Catifa Carta negra centrada sobre un montículo de hierba en un espacio blanco.",
+          "credit": "Crédito de imagen pendiente",
+          "caption": "Catifa Carta: un objeto de asiento presentado como forma aislada.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silla funciona como figura y el montículo como pedestal paisajístico.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bee-house",
+      "title": "Bee House",
+      "referenceId": "sabine",
+      "role": "Arquitectura para insectos",
+      "context": "Exterior / instalación / paisaje",
+      "source": "https://sabinemarcelis.com/projects/bee-house",
+      "operation": "Agrupar módulos reflectantes verdes en el césped para que una infraestructura para abejas se lea también como señal, patrón y espejismo.",
+      "application": "Para Szymon: pensar una función pequeña con escala visual amplia. Repetir un módulo permite que la pieza actúe como arquitectura temporal.",
+      "images": [
+        {
+          "id": "bee-house-1",
+          "src": "assets/bee-house-1.webp",
+          "url": "https://sabinemarcelis.com/projects/bee-house",
+          "originalUrl": "/Users/rodrigo/Downloads/Studio Sabine Marcelis/imgi_2_6ba81027f75191e49ff1bcb398e2dc57353457ea-10742x9159.webp",
+          "source": "https://sabinemarcelis.com/projects/bee-house",
+          "alt": "Módulos verdes reflectantes de Bee House agrupados sobre césped.",
+          "credit": "Crédito de imagen pendiente",
+          "caption": "Bee House: módulo, reflejo y pradera.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La repetición transforma una necesidad funcional en una presencia de paisaje.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interior-provisional-exterior",
+      "title": "Interior provisional en exterior",
+      "referenceId": "archivo-aportado",
+      "role": "Instalación / espacio doméstico",
+      "context": "Exterior / instalación",
+      "source": "",
+      "operation": "Trasladar una pared de salón, mobiliario y luces al parque sin disimular apoyos, estructura ni condición efímera.",
+      "application": "Para Szymon: usar el objeto como parte de un set temporal en paisaje real. Dejar que los soportes y la construcción entren en la imagen.",
+      "images": [
+        {
+          "id": "interior-provisional-exterior-1",
+          "src": "assets/interior-provisional-exterior-1.jpg",
+          "url": "",
+          "originalUrl": "/Users/rodrigo/Downloads/kenyon_collegian.jpg",
+          "source": "",
+          "alt": "Instalación de una estancia doméstica provisional montada en un parque.",
+          "credit": "Archivo aportado por Rodrigo; URL y crédito pendiente.",
+          "caption": "Interior provisional: una escena doméstica desplazada al exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La fricción entre interior construido y parque vuelve la escena deliberadamente inestable.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daft-about-draft",
+      "title": "DAFT about DRAFT",
+      "referenceId": "draft",
+      "role": "Mobiliario",
+      "context": "Exterior / paisaje rocoso",
+      "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+      "operation": "Fotografiar asientos de líneas fluidas entre piedra y lava para contrastar superficie industrial, color y geología.",
+      "application": "Para Szymon: colocar una familia de objetos en una topografía áspera. La roca puede ser compañero material y no simple fondo.",
+      "images": [
+        {
+          "id": "daft-about-draft-1",
+          "src": "assets/daft-about-draft-1.webp",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_13_domus-daft-aboutdraft-08.jpg.foto.rmedium.webp",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "alt": "Silla DAFT about DRAFT sobre roca volcánica.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "DAFT about DRAFT: asiento y roca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La curva acolchada adquiere otra escala frente a una superficie geológica.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "daft-about-draft-2",
+          "src": "assets/daft-about-draft-2.webp",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_8_domus-daft-aboutdraft-03.jpg.foto.rmedium.webp",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "alt": "Vista trasera de una silla DAFT about DRAFT entre rocas.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "DAFT about DRAFT: reverso y terreno.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El reverso permite leer estructura y silueta contra la irregularidad.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "daft-about-draft-3",
+          "src": "assets/daft-about-draft-3.webp",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_4_domus-daft-aboutdraft-06.jpg.foto.rbig.webp",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "alt": "Tres sillas DAFT about DRAFT situadas en una formación rocosa.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "DAFT about DRAFT: grupo de objetos en la roca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La agrupación construye una escena de uso sin recurrir a interior.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "daft-about-draft-4",
+          "src": "assets/daft-about-draft-4.webp",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_9_domus-daft-aboutdraft-04.jpg.foto.rmedium.webp",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "alt": "Silla DAFT about DRAFT aislada sobre un suelo oscuro de piedra.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "DAFT about DRAFT: objeto aislado en topografía oscura.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La distancia vuelve la silla una señal en el paisaje.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "earth-to-people",
+      "title": "Salvage & Sap / exteriores",
+      "referenceId": "earth-to-people",
+      "role": "Objeto y luminaria",
+      "context": "Exterior / material / paisaje",
+      "source": "https://www.earthtopeople.studio/",
+      "operation": "Situar madera recuperada, metal y luz entre árboles, musgo y roca para que el objeto parezca un habitante temporal del lugar.",
+      "application": "Para Szymon: secuenciar primer plano, escala media y horizonte. El material puede tomar información de humedad, corteza y suelo.",
+      "images": [
+        {
+          "id": "earth-to-people-1",
+          "src": "assets/earth-to-people-1.png",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people1.png",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Pequeños muebles de madera y luminaria en una cavidad rocosa.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: objetos en una cavidad de roca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El grupo construye una escena mínima sin borrar el peso del terreno.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-2",
+          "src": "assets/earth-to-people-2.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people2.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Silla de madera colocada entre árboles.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: asiento entre troncos.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La pieza comparte verticalidad y textura con el bosque.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-3",
+          "src": "assets/earth-to-people-3.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people3.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Luminaria vertical de hormigón o piedra en un bosque.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: luz vertical en el bosque.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luz aparece como un marcador sobrio dentro de un entorno denso.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-4",
+          "src": "assets/earth-to-people-4.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people4.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Luminaria de pared instalada sobre un árbol.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: luz adherida al tronco.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El soporte natural pasa a formar parte de la lógica del objeto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-5",
+          "src": "assets/earth-to-people-5.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people5.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Luminaria cilíndrica baja en suelo cubierto de musgo.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: luz baja y musgo.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escala baja obliga a mirar el suelo como escenario.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-6",
+          "src": "assets/earth-to-people-6.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people6.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Lámpara cilíndrica y taburete de madera entre vegetación.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: muebles y vegetación.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena no busca domesticar el campo; sitúa usos mínimos dentro de él.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-7",
+          "src": "assets/earth-to-people-7.jpg",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/earth to people7.jpg",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Asiento o volumen de madera situado entre hierba y árboles.",
+          "credit": "Earth To People; crédito de imagen pendiente.",
+          "caption": "Earth To People: volumen de madera en exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La materia recuperada se lee por contraste con hojas, corteza y sombra.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "earth-to-people-8",
+          "src": "assets/earth-to-people-8.webp",
+          "url": "https://www.earthtopeople.studio/",
+          "originalUrl": "/Users/rodrigo/Downloads/Home _ Earth To People/imgi_8_E2P - 32 - JamesHan.webp",
+          "source": "https://www.earthtopeople.studio/",
+          "alt": "Detalle de objeto de madera y resina de la colección Salvage & Sap.",
+          "credit": "Fotografía James Han.",
+          "caption": "Earth To People: madera unida con resina de pino.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La unión material es parte de la forma y merece un acercamiento específico.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terramineral",
+      "title": "Terramineral Decorative Objects",
+      "referenceId": "lalique",
+      "role": "Objeto decorativo",
+      "context": "Exterior / objeto / paisaje",
+      "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+      "operation": "Enfrentar superficies de cristal y acabados minerales con roca, agua y suelo agrietado para que el objeto se lea como fragmento geológico.",
+      "application": "Para Szymon: usar el terreno como contraparte material. Buscar escalas ambiguas entre recipiente, piedra y reflejo antes de decidir el encuadre final.",
+      "images": [
+        {
+          "id": "terramineral-1",
+          "src": "assets/terramineral-1.webp",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/Terramineral Decorative Objects – Lalique France/lalique1.webp",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Objeto Terramineral de Lalique entre piedras y vegetación.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: cristal y piedra.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La transparencia no desaparece: captura los tonos y quiebres del entorno.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "terramineral-2",
+          "src": "assets/terramineral-2.webp",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/Terramineral Decorative Objects – Lalique France/lalique2.webp",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Objeto decorativo Terramineral fotografiado sobre suelo mineral.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: objeto sobre terreno mineral.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El suelo aporta una escala que el estudio no puede dar.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "terramineral-3",
+          "src": "assets/terramineral-3.webp",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/Terramineral Decorative Objects – Lalique France/lalique3.webp",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Pieza Terramineral de Lalique en paisaje exterior.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: objeto y horizonte.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La distancia deja que el objeto actúe como hallazgo antes que como producto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "terramineral-4",
+          "src": "assets/terramineral-4.webp",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/Terramineral Decorative Objects – Lalique France/lalique4.webp",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Detalle de objeto Terramineral en entorno natural.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: detalle y textura.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Un acercamiento puede confundir objeto y mineral sin perder la precisión del acabado.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "terramineral-5",
+          "src": "assets/terramineral-5.webp",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/Terramineral Decorative Objects – Lalique France/lalique5.webp",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Pieza decorativa Terramineral situada junto a roca.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: borde de cristal y roca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El contraste de borde pulido y superficie erosionada da estructura a la imagen.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "terramineral-6",
+          "src": "assets/terramineral-6.png",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/lalique.png",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Objeto Terramineral brillante sobre un fondo de tierra.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: brillo sobre materia seca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luz del objeto funciona como una alteración precisa del terreno.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "natan-moss-furniture",
+      "title": "Furniture",
+      "referenceId": "natan-moss",
+      "role": "Mobiliario y luminaria",
+      "context": "Exterior / puesta en paisaje",
+      "source": "https://www.natanmoss.com/",
+      "operation": "Sacar mesas, asientos y luminarias a praderas, caminos y horizontes abiertos para que el mobiliario opere como composición de escala.",
+      "application": "Para Szymon: probar agrupaciones en campo, carretera o paisaje seco. La cámara puede usar horizonte y distancia para organizar función, volumen y silencio.",
+      "images": [
+        {
+          "id": "natan-moss-furniture-1",
+          "src": "assets/natan-moss-furniture-1.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/NATAN MOSS DESIGN/NATAN MOSS DESIGN.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-2",
+          "src": "assets/natan-moss-furniture-2.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN1.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-3",
+          "src": "assets/natan-moss-furniture-3.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN2.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-4",
+          "src": "assets/natan-moss-furniture-4.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN3.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-5",
+          "src": "assets/natan-moss-furniture-5.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN4.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-6",
+          "src": "assets/natan-moss-furniture-6.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN5.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-7",
+          "src": "assets/natan-moss-furniture-7.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN6.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-8",
+          "src": "assets/natan-moss-furniture-8.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN7.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-9",
+          "src": "assets/natan-moss-furniture-9.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN8.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "natan-moss-furniture-10",
+          "src": "assets/natan-moss-furniture-10.webp",
+          "url": "https://www.natanmoss.com/",
+          "originalUrl": "/Users/rodrigo/Downloads/Furniture — NATAN MOSS DESIGN/NATAN MOSS DESIGN9.webp",
+          "source": "https://www.natanmoss.com/",
+          "alt": "Mobiliario de Natan Moss Design situado en paisaje exterior.",
+          "credit": "Natan Moss Design; crédito de imagen pendiente.",
+          "caption": "Furniture: mobiliario y paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El objeto doméstico gana una escala narrativa al quedar solo frente al horizonte.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inoxeart-outdoors",
+      "title": "Inoxeart — mobiliario en exterior",
+      "referenceId": "inoxeart",
+      "role": "Mobiliario",
+      "context": "Exterior / instalación temporal",
+      "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+      "operation": "Combinar acero, vidrio y ladrillo perforado en una pradera: las piezas funcionales y su plataforma construyen una instalación de uso temporal.",
+      "application": "Para Szymon: convertir agrupación, suelo y utilería en una sola escena. Alternar plano general, mesa habitada y detalle de estructura.",
+      "images": [
+        {
+          "id": "inoxeart-outdoors-1",
+          "src": "assets/inoxeart-outdoors-1.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart1.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-2",
+          "src": "assets/inoxeart-outdoors-2.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart2.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-3",
+          "src": "assets/inoxeart-outdoors-3.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart3.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-4",
+          "src": "assets/inoxeart-outdoors-4.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart4.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-5",
+          "src": "assets/inoxeart-outdoors-5.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart5.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-6",
+          "src": "assets/inoxeart-outdoors-6.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart6.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-7",
+          "src": "assets/inoxeart-outdoors-7.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart7.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-8",
+          "src": "assets/inoxeart-outdoors-8.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart8.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "inoxeart-outdoors-9",
+          "src": "assets/inoxeart-outdoors-9.jpg",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart9.jpg",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summer-daze",
+      "title": "Summer Daze",
+      "referenceId": "francois-ollivier",
+      "role": "Fotografía",
+      "context": "Exterior / luz / paisaje",
+      "source": "https://francoisollivier.com/summer-daze",
+      "operation": "Construir una secuencia a partir de cambios entre tarde, noche y amanecer: nubes, luces aisladas, destellos y fuego articulan el paisaje cotidiano.",
+      "application": "Para Szymon: trabajar una campaña exterior como gradiente tonal, no como un único hero shot. Una luz puntual puede ser objeto, personaje o corte de ritmo.",
+      "images": [
+        {
+          "id": "summer-daze-1",
+          "src": "assets/summer-daze-1.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_1.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-2",
+          "src": "assets/summer-daze-2.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_2.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-3",
+          "src": "assets/summer-daze-3.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_3.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-4",
+          "src": "assets/summer-daze-4.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_4.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-5",
+          "src": "assets/summer-daze-5.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_5.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-6",
+          "src": "assets/summer-daze-6.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_6.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-7",
+          "src": "assets/summer-daze-7.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_7.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-8",
+          "src": "assets/summer-daze-8.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_8.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-9",
+          "src": "assets/summer-daze-9.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_9.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-10",
+          "src": "assets/summer-daze-10.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_10.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-11",
+          "src": "assets/summer-daze-11.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_11.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-12",
+          "src": "assets/summer-daze-12.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_12.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "summer-daze-13",
+          "src": "assets/summer-daze-13.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_13.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "memory-lapses",
+      "title": "Memory Lapses",
+      "referenceId": "francois-ollivier",
+      "role": "Instalación lumínica",
+      "context": "Exterior / instalación / land art",
+      "source": "https://francoisollivier.com/memory-lapses",
+      "operation": "Introducir barras de luz blanca en playa, montaña, bosque y agua para dibujar líneas temporales contra una topografía existente.",
+      "application": "Para Szymon: ensayar luz portátil fuera del estudio al crepúsculo. Cada emplazamiento debe cambiar la geometría y exposición de la misma herramienta.",
+      "images": [
+        {
+          "id": "memory-lapses-1",
+          "src": "assets/memory-lapses-1.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses1.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-2",
+          "src": "assets/memory-lapses-2.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses2.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-3",
+          "src": "assets/memory-lapses-3.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses3.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-4",
+          "src": "assets/memory-lapses-4.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses4.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-5",
+          "src": "assets/memory-lapses-5.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses5.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-6",
+          "src": "assets/memory-lapses-6.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses6.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-7",
+          "src": "assets/memory-lapses-7.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses7.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-8",
+          "src": "assets/memory-lapses-8.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses8.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-9",
+          "src": "assets/memory-lapses-9.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses9.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory-lapses-10",
+          "src": "assets/memory-lapses-10.jpg",
+          "url": "https://francoisollivier.com/memory-lapses",
+          "originalUrl": "/Users/rodrigo/Downloads/memory lapses10.jpg",
+          "source": "https://francoisollivier.com/memory-lapses",
+          "alt": "Intervención de barras luminosas en paisaje exterior.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Memory Lapses: luz artificial trazando el paisaje.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La barra no ilumina el lugar: escribe una línea temporal sobre su relieve.",
               "position": {
                 "x": 0.5,
                 "y": 0.55

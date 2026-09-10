@@ -32,8 +32,8 @@ Estas notas son decisiones del usuario, no citas atribuidas a las fuentes. Las a
 - Perfume Table: solo se publica un montaje en la fuente autorizada; no se inventan fotografías individuales. Las láminas de su pila reutilizan esa misma fuente, y la ficha indica una imagen.
 - Studio Kleiner: conservar atribución de estudio; no inferir roles individuales. Garden Companions cita @linazedig, @juliankomosa, @evelinakleiner y Allan, sin desglose de roles.
 
-## Selección v5
-27 fichas / 8 referentes / 126 imágenes: Waves House; Stacked Series; Honing Passage; Perfume Table; The Gentlewoman, Hot Stuff; Postures Vases; Garden Companions; Bungenäs Arrangements; Plissè Block; GST Sidetable; LVB; BKL; LKM; RGD; Metropolis Sidetable; PL 09; Meld Fishies; PL 02; Axis; Morph Horsies; Pool Light 01; Invisible Vases; Sabine Marcelis × Extralight; Hermès Colour Library; MacGuffin — The Ball; Bouquet Series; The Plant / Journal Shakes, 2012.
+## Selección v7
+38 fichas / 16 referentes / 190 imágenes: Waves House; Stacked Series; Honing Passage; Perfume Table; The Gentlewoman, Hot Stuff; Postures Vases; Garden Companions; Bungenäs Arrangements; Plissè Block; GST Sidetable; LVB; BKL; LKM; RGD; Metropolis Sidetable; PL 09; Meld Fishies; PL 02; Axis; Morph Horsies; Pool Light 01; Invisible Vases; Sabine Marcelis × Extralight; Hermès Colour Library; MacGuffin — The Ball; Bouquet Series; The Plant / Journal Shakes, 2012; Light Horizon / Noor Riyadh; Catifa Carta; Bee House; Interior provisional en exterior; DAFT about DRAFT; Salvage & Sap / exteriores; Terramineral Decorative Objects; Furniture; Inoxeart — mobiliario en exterior; Summer Daze; Memory Lapses.
 Se priorizan fotografías de páginas oficiales de proyectos; Yatzer se utiliza para Luca Ricci y Marina por ser las fuentes facilitadas. Se conservan originales locales y URLs de procedencia. No se generan imágenes. Plissè Block incluye un render claramente identificado y una fotografía de Nicolò Panzeri.
 Metropolis: Labadie publica una geometría circular y Gallée una rectilínea bajo el mismo título. No se afirma que sean la misma pieza; la distinción aparece en el texto y los captions.
 Las anotaciones describen operaciones observadas. Las coordenadas se editan en los datos, relativas a la imagen, y no a su contenedor.
@@ -64,6 +64,16 @@ Se suman las páginas aportadas de Meld Fishies, PL 02, Axis y Morph Horsies, ju
 - Axis incorpora objetos acabados, detalles y taller. Se registra como referencia para conectar el acabado pulido con su fabricación, sin tratar el proceso como una decoración.
 - Los enlaces nombran la procedencia de las imágenes; los créditos individuales de fotografía no se infieren y permanecen pendientes.
 
+## Ampliación autorizada — objeto en exterior, instalación y paisaje
+Rodrigo aporta 64 imágenes y enlaces para abrir una línea diferenciada: el objeto sale al exterior y, según el caso, se vuelve instalación, performance latente o intervención de paisaje.
+
+- Sabine Marcelis suma Light Horizon / Noor Riyadh y Bee House: color, espejo, LED y repetición modular entienden el paisaje como materia activa. Light Horizon acredita fotografía de Rubén P. Bescós; Bee House mantiene crédito fotográfico pendiente.
+- Catifa Carta, DAFT about DRAFT, Natan Moss Design e Inoxeart desplazan mobiliario a montículos, roca, pradera y carretera. Se estudian agrupación, silueta, horizonte, soporte y escala, sin convertir el exterior en decorado.
+- Earth To People y Terramineral vinculan objeto, materia y terreno: madera/resina, metal, cristal y mineral se leen en continuidad con corteza, musgo, piedra, agua y suelo.
+- Summer Daze aporta luz, transición horaria y tonalidades de campo; Memory Lapses lleva barras de luz al paisaje como intervención temporal. Ambas series se atribuyen a François Ollivier según las páginas facilitadas.
+- Se incorpora una instalación doméstica exterior de archivo local aportado por Rodrigo. Su URL y crédito permanecen pendientes; no se atribuye por el nombre del archivo.
+- Las fichas nuevas muestran la etiqueta editorial “Exterior / …” en el encabezado para distinguirlas del resto del archivo. Las operaciones y aplicaciones son propuestas de lectura para Szymon, no descripciones oficiales de las obras.
+
 ## Registro vivo 1–8
 1. Diagnóstico: reunión con Szymon; comparación material y comunicación de objetos. Audiencia inmediata: participantes de la reunión; público comercial pendiente.
 2. Segmentación: pendiente; no inferir arquetipos.
@@ -78,6 +88,7 @@ Se suman las páginas aportadas de Meld Fishies, PL 02, Axis y Morph Horsies, ju
 Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su autor y por Labadie; estudiar lo que la resina oculta en lugar de solo lo que transmite; tratar una serie de objetos como una secuencia de encuentros y ausencias. Ubicación: fichas enlazadas de Sabine, Mathijs, Niko y Laurids.
 
 ## Cambios
+- 10.09.2026, v7: incorporadas 11 fichas y 64 imágenes en la línea “objeto en exterior, instalación y paisaje”. El archivo pasa a 38 fichas, 16 referentes y 190 imágenes. Los créditos se mantienen pendientes cuando no están publicados en las fuentes aportadas.
 - 10.09.2026, v5: incorporadas cuatro fichas de Laurids Gallée —Meld Fishies, PL 02, Axis y Morph Horsies— y una imagen aportada a PL 09. El archivo pasa a 27 fichas y 126 imágenes. Los créditos individuales de las nuevas imágenes quedan pendientes de confirmación.
 - 10.09.2026, v4: incorporadas cinco fichas —Bungenäs Arrangements, LVB, BKL, LKM y RGD— y cuatro imágenes nuevas a Plissè Block. El archivo pasa a 23 fichas y 103 imágenes. BKL mantiene su página específica pendiente; los créditos de imagen que no aparecen en los enlaces aportados se conservan como pendientes.
 - 10.09.2026, v3: incorporadas seis fichas y ampliadas cinco secuencias existentes con imágenes aportadas por Rodrigo. Se actualizan las lecturas cruzadas para que se agrupen automáticamente por autor. No cambian las reglas visuales ni las notas fijas. Los créditos individuales no publicados se mantienen como pendientes.
