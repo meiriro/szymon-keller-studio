@@ -19,3 +19,19 @@
 .project-grid{padding-left:0}
 .project-card.is-filtered-out{visibility:hidden;pointer-events:none}
 @media(max-width:700px){.index-archive{margin:0 var(--margin)}.filter-sidebar{padding:0;border:0}.filter-list{flex-direction:column;gap:7px}}
+
+/* Pilas del índice: la imagen posterior avanza al frente al explorar una ficha. */
+.project-tile{position:relative;min-width:0}
+.project-tile.is-filtered-out{visibility:hidden;pointer-events:none}
+.project-card{min-height:352px;padding:52px 0 120px;align-items:flex-start}
+.project-card:nth-child(n) .image-stack{width:176px;height:auto;aspect-ratio:4/3;margin:0 auto}
+.stack-image{z-index:var(--rest-z);transform:translate(calc(var(--layer) * -7px),calc(var(--layer) * -7px));transition:transform .32s ease,z-index 0s linear .32s}
+.project-tile:hover .stack-image,.project-tile:focus-within .stack-image{z-index:var(--hover-z);transform:translate(calc(var(--hover-layer) * -11px),calc(var(--hover-layer) * -8px));transition:transform .32s ease,z-index 0s}
+.project-tile:hover .card-meta,.project-tile:focus-within .card-meta{opacity:1}
+.card-meta{bottom:14px}
+.favorite-button{position:absolute;top:44px;left:6px;z-index:8;padding:0;font-size:12px;line-height:1.2;opacity:0;transition:opacity .18s ease;text-decoration:underline;text-underline-offset:3px}
+.project-tile:hover .favorite-button,.project-tile:focus-within .favorite-button{opacity:1}
+.favorite-button[aria-pressed=true]{font-weight:400}
+@media(hover:none){.favorite-button{opacity:1}}
+@media(max-width:700px){.project-card{min-height:356px;padding-top:50px;padding-bottom:126px}.project-card:nth-child(n) .image-stack{width:142px;aspect-ratio:4/3}.favorite-button{opacity:1;left:-6px}.card-meta{bottom:14px}}
+@media(max-width:360px){.project-card:nth-child(n) .image-stack{width:108px}.project-card{min-height:352px}}
