@@ -1,0 +1,292 @@
+{
+  "projects": [
+    {
+      "id": "hot-stuff",
+      "title": "The Gentlewoman, Hot Stuff",
+      "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+      "credits": {
+        "creator": "Scheltens & Abbenes",
+        "client_publication": "The Gentlewoman",
+        "status": "Proyecto verificado en portfolio oficial; créditos de colaboradores y año no publicados en la página consultada."
+      },
+      "images": [
+        {
+          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "alt": "Plancha vertical de cara rojiza sobre una superficie clara, con sombra marcada y fondo oscuro.",
+          "id": "hot-stuff-1",
+          "src": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
+          "caption": "The Gentlewoman, Hot Stuff — imagen 1",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra."
+            }
+          ]
+        },
+        {
+          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
+          "alt": "Volumen mineral anaranjado iluminado desde dentro y reflejado sobre una superficie brillante.",
+          "id": "hot-stuff-2",
+          "src": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
+          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
+          "caption": "The Gentlewoman, Hot Stuff — imagen 2",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luz interna de un volumen irregular convierte la textura en atmósfera; conexión directa con piezas translúcidas de Szymon."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra.",
+        "La luz interna de un volumen irregular convierte la textura en atmósfera; conexión directa con piezas translúcidas de Szymon."
+      ],
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "operation": "Desmontar la lectura habitual del objeto. Frontalidad, sombra y punto de vista convierten un utensilio en una presencia escultórica.",
+      "application": "Antes de fotografiar una pieza de Szymon, estudiar silueta, reverso, textura y modo de emitir luz. Tomar el método de investigación; no copiar la limpieza estética."
+    },
+    {
+      "id": "postures-vases",
+      "title": "Postures Vases",
+      "source": "https://www.studiokleiner.com/tag/vases",
+      "credits": {
+        "creator": "Studio Kleiner / Kleiner space",
+        "status": "Título y categorías Designs, Photography, Motion verificadas en portfolio oficial. La página de etiqueta no ofrece reparto individual de créditos; atribución individual pendiente."
+      },
+      "images": [
+        {
+          "url": "https://a.storyblok.com/f/161757/2160x2880/561f07ae88/carl-kleiner-postures-vases-10.jpg",
+          "alt": "Flor única de tallo curvado sostenida por una varilla metálica sobre base pétrea, con fondo azul grisáceo.",
+          "id": "postures-vases-1",
+          "src": "https://a.storyblok.com/f/161757/2160x2880/561f07ae88/carl-kleiner-postures-vases-10.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2160x2880/561f07ae88/carl-kleiner-postures-vases-10.jpg",
+          "source": "https://www.studiokleiner.com/tag/vases",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Postures Vases — imagen 1",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La varilla dibuja una línea geométrica que responde al gesto orgánico de cada tallo."
+            }
+          ]
+        },
+        {
+          "url": "https://a.storyblok.com/f/161757/2880x2160/87ffa01bd2/carl-kleiner-postures-vases-20.jpg",
+          "alt": "Dos bases pétreas con varillas de latón sostienen flores de distintos tamaños y posturas.",
+          "id": "postures-vases-2",
+          "src": "https://a.storyblok.com/f/161757/2880x2160/87ffa01bd2/carl-kleiner-postures-vases-20.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2880x2160/87ffa01bd2/carl-kleiner-postures-vases-20.jpg",
+          "source": "https://www.studiokleiner.com/tag/vases",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Postures Vases — imagen 2",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Pedestal, flor y soporte funcionan como una sola escultura: útil para construir bodegones de piezas de Szymon con tensión y aire."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La varilla dibuja una línea geométrica que responde al gesto orgánico de cada tallo.",
+        "Pedestal, flor y soporte funcionan como una sola escultura: útil para construir bodegones de piezas de Szymon con tensión y aire."
+      ],
+      "referenceId": "kleiner",
+      "role": "Fotografía y diseño",
+      "operation": "Construir un equilibrio entre gesto orgánico y soporte geométrico. El vacío sostiene la tensión de la composición.",
+      "application": "Probar bodegones con los nuevos jarrones y lámparas de Szymon donde el equilibrio entre piezas sugiera una acción. Pensar en post-catálogo."
+    },
+    {
+      "id": "bodabana",
+      "title": "bodabana gc — Garden Companions",
+      "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+      "credits": {
+        "creator": "Studio Kleiner / Kleiner space",
+        "page_credit": "Garden Companions: @linazedig @juliankomosa, @evelinakleiner and Allan",
+        "status": "Texto de crédito verificado; la página no precisa el rol de cada participante."
+      },
+      "images": [
+        {
+          "url": "https://a.storyblok.com/f/161757/2240x2800/7bc739e05e/bodabana_2024_friend_session_001.jpg",
+          "alt": "Sapo sobre una seta erguida en un cilindro verde brillante, sobre fondo claro.",
+          "id": "bodabana-1",
+          "src": "https://a.storyblok.com/f/161757/2240x2800/7bc739e05e/bodabana_2024_friend_session_001.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2240x2800/7bc739e05e/bodabana_2024_friend_session_001.jpg",
+          "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "bodabana gc — Garden Companions — imagen 1",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La forma industrial sirve como soporte para un pequeño acontecimiento natural, con humor y escala inesperada."
+            }
+          ]
+        },
+        {
+          "url": "https://a.storyblok.com/f/161757/2240x2800/83a79f99ec/bodabana_2024_friend_session_005.jpg",
+          "alt": "Flores amarillas, cítricos verdes y una cebolla rojiza sobre una base cónica rosa translúcida.",
+          "id": "bodabana-2",
+          "src": "https://a.storyblok.com/f/161757/2240x2800/83a79f99ec/bodabana_2024_friend_session_005.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2240x2800/83a79f99ec/bodabana_2024_friend_session_005.jpg",
+          "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "bodabana gc — Garden Companions — imagen 2",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Rosa translúcido, verde vegetal y sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La forma industrial sirve como soporte para un pequeño acontecimiento natural, con humor y escala inesperada.",
+        "Rosa translúcido, verde vegetal y sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica."
+      ],
+      "referenceId": "kleiner",
+      "role": "Fotografía y escenografía",
+      "operation": "Hacer del objeto un pequeño escenario. Materia artificial y elementos orgánicos provocan encuentros de escala y color.",
+      "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración."
+    },
+    {
+      "id": "plisse-block",
+      "title": "Plissè Block",
+      "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+      "credits": {
+        "design": "Luca Ricci",
+        "commission": "Fivefourfive",
+        "interior_design": "Studio Musa",
+        "photography": "Nicolò Panzeri",
+        "render": "© Luca Ricci",
+        "article": "Eric David, Yatzer, 21 July 2026",
+        "status": "Créditos verificados en texto y pies de imagen."
+      },
+      "images": [
+        {
+          "url": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "alt": "Detalle renderizado de una esquina de vidrio estriado delante de terciopelo rojo.",
+          "credit": "Render © Luca Ricci",
+          "type": "render",
+          "id": "plisse-block-1",
+          "src": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "originalUrl": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+          "caption": "Plissè Block — render",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La textura estriada repite, fragmenta y suaviza el color rojo que hay detrás del vidrio."
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/2-Plisse-Block-Luca-Ricci-photo-Nicolo-Panzeri-yatzer-1400x1750.jpg",
+          "alt": "Sofá de vidrio estriado y cojines rojos dentro de una tienda con madera oscura y luz cálida.",
+          "credit": "Fotografía Nicolò Panzeri",
+          "type": "photograph",
+          "id": "plisse-block-2",
+          "src": "https://media.yatzer.com/2-Plisse-Block-Luca-Ricci-photo-Nicolo-Panzeri-yatzer-1400x1750.jpg",
+          "originalUrl": "https://media.yatzer.com/2-Plisse-Block-Luca-Ricci-photo-Nicolo-Panzeri-yatzer-1400x1750.jpg",
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+          "caption": "Plissè Block — imagen 2",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La fotografía contextual demuestra cómo una pieza translúcida puede ordenar una escena interior; el detalle renderizado ayuda a aislar la lógica material."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La textura estriada repite, fragmenta y suaviza el color rojo que hay detrás del vidrio.",
+        "La fotografía contextual demuestra cómo una pieza translúcida puede ordenar una escena interior; el detalle renderizado ayuda a aislar la lógica material."
+      ],
+      "referenceId": "luca",
+      "role": "Diseño de mobiliario",
+      "operation": "Mostrar y ocultar a la vez. El vidrio estriado fragmenta el color de lo que contiene y convierte el interior en parte de la superficie.",
+      "application": "Estudiar qué se ve a través de una pieza de Szymon: otro objeto, un color o una figura. La distorsión podría convertirse en el tema de la imagen."
+    },
+    {
+      "id": "waves-house",
+      "title": "Waves House",
+      "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+      "credits": {
+        "design": "Szymon Keller",
+        "photography": "© Marina Denisova",
+        "article": "Eric David, Yatzer, 20 October 2021",
+        "status": "Créditos verificados en el artículo y pies de imagen."
+      },
+      "images": [
+        {
+          "url": "https://media.yatzer.com/29_p_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x934.jpg",
+          "alt": "Salón con mesa translúcida rojiza, mesa blanca escultórica, sofá claro, cuadro y espejo orgánico.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-1",
+          "src": "https://media.yatzer.com/29_p_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x934.jpg",
+          "originalUrl": "https://media.yatzer.com/29_p_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x934.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House — imagen 1",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La mesa translúcida convive con volumen blanco mate, madera y tejido: el contraste material organiza el conjunto sin igualar todas las piezas."
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/31_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "alt": "Mesa auxiliar translúcida roja y ámbar junto a sofá blanco y lámpara negra delgada.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-2",
+          "src": "https://media.yatzer.com/31_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "originalUrl": "https://media.yatzer.com/31_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House — imagen 2",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Las formas geométricas de los cojines y el espejo orgánico introducen relaciones escultóricas dentro de una escena habitable."
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "alt": "Cojines de esfera y pirámide sobre sofá de tonos arena, con espejo orgánico y lámpara lineal.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-3",
+          "src": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "originalUrl": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House — imagen 3",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La mesa translúcida convive con volumen blanco mate, madera y tejido: el contraste material organiza el conjunto sin igualar todas las piezas."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La mesa translúcida convive con volumen blanco mate, madera y tejido: el contraste material organiza el conjunto sin igualar todas las piezas.",
+        "Las formas geométricas de los cojines y el espejo orgánico introducen relaciones escultóricas dentro de una escena habitable."
+      ],
+      "verified_context": "El artículo identifica la mesa auxiliar de resina Lung y la mesa/console Ruins entre los diseños de Keller. Conviene usar títulos específicos con prudencia al no haber pies individuales que nombren cada objeto.",
+      "referenceId": "marina",
+      "role": "Fotografía",
+      "operation": "Integrar distintas piezas sin igualar su presencia. Una imagen construye coexistencia; la siguiente concede un momento propio a un objeto.",
+      "application": "Partir del conjunto y acercarse por turnos a las piezas. Alternar vistas compartidas y momentos individuales para que cada objeto mantenga su carácter."
+    }
+  ],
+  "verification": "Todas las imágenes seleccionadas fueron inspeccionadas visualmente en el navegador; no se descargaron archivos multimedia. URLs extraídas del HTML de las páginas autorizadas o del DOM renderizado en Hot Stuff.",
+  "additional_scoped_research": {
+    "source": "https://www.studiokleiner.com/tag/light",
+    "status": "Consultada, no seleccionada para respetar límite de proyectos. Re-form/Re-function: Lamp 01 y Bend aparecen con imágenes oficiales en la etiqueta."
+  }
+}

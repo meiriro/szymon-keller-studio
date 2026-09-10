@@ -1,0 +1,840 @@
+{
+  "title": "Szymon Keller",
+  "edition": "09.09.2026",
+  "references": [
+    {
+      "id": "marina",
+      "name": "Marina Denisova",
+      "role": "Fotografía",
+      "fixedNote": "Integración de varias piezas, coexistencia y momento propio para cada objeto."
+    },
+    {
+      "id": "sabine",
+      "name": "Sabine Marcelis",
+      "role": "Diseño",
+      "fixedNote": "Comparación directa con Szymon por resina, translucencia y luminaria. Empieza investigando desde un efecto material que le fascina; forma y función aparecen después."
+    },
+    {
+      "id": "mathijs",
+      "name": "Mathijs Labadie",
+      "role": "Fotografía",
+      "fixedNote": "Fotógrafo recurrente de Sabine Marcelis. Lecturas cruzadas: Stacked Series, Honing Passage, Perfume Table, GST Sidetable de Niko Koronis y Metropolis Sidetable de Laurids Gallée."
+    },
+    {
+      "id": "scheltens",
+      "name": "Scheltens & Abbenes",
+      "role": "Fotografía",
+      "fixedNote": "Investigar y desmontar visualmente el objeto antes de fotografiarlo. No copiar su estética limpia."
+    },
+    {
+      "id": "kleiner",
+      "name": "Carl Kleiner",
+      "role": "Fotografía y escenografía",
+      "fixedNote": "Bodegones escultóricos, equilibrio y escenografía. Útil para jarrones y lámparas nuevas. Idea de post-catálogo."
+    },
+    {
+      "id": "luca",
+      "name": "Luca Ricci",
+      "role": "Diseño",
+      "fixedNote": "Mobiliario translúcido/plisado y relación entre objeto, contenido y aquello que se ve a través."
+    },
+    {
+      "id": "niko",
+      "name": "Niko Koronis",
+      "role": "Diseño",
+      "fixedNote": "Comparación por materialidad, más utilitario y menos artístico."
+    },
+    {
+      "id": "laurids",
+      "name": "Laurids Gallée",
+      "role": "Diseño",
+      "fixedNote": "Resina pulida, efecto cristal/mineral, más futurista."
+    }
+  ],
+  "projects": [
+    {
+      "id": "waves-house",
+      "title": "Waves House",
+      "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+      "credits": {
+        "design": "Szymon Keller",
+        "photography": "© Marina Denisova",
+        "article": "Eric David, Yatzer, 20 October 2021",
+        "status": "Créditos verificados en el artículo y pies de imagen."
+      },
+      "images": [
+        {
+          "url": "https://media.yatzer.com/29_p_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x934.jpg",
+          "alt": "Salón con mesa translúcida rojiza, mesa blanca escultórica, sofá claro, cuadro y espejo orgánico.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-1",
+          "src": "assets/waves-house-1.jpg",
+          "originalUrl": "https://media.yatzer.com/29_p_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x934.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House: coexistencia de piezas en el salón.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La mesa translúcida convive con volumen blanco mate, madera y tejido: el contraste material organiza el conjunto sin igualar todas las piezas.",
+              "position": {
+                "x": 0.48,
+                "y": 0.72
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/31_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "alt": "Mesa auxiliar translúcida roja y ámbar junto a sofá blanco y lámpara negra delgada.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-2",
+          "src": "assets/waves-house-2.jpg",
+          "originalUrl": "https://media.yatzer.com/31_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House: un momento propio para la mesa translúcida.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La mesa translúcida tiene un momento propio junto al sofá: el tejido claro permite leer sus cantos y su color.",
+              "position": {
+                "x": 0.29,
+                "y": 0.77
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "alt": "Cojines de esfera y pirámide sobre sofá de tonos arena, con espejo orgánico y lámpara lineal.",
+          "credit": "Fotografía © Marina Denisova",
+          "id": "waves-house-3",
+          "src": "assets/waves-house-3.jpg",
+          "originalUrl": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
+          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
+          "caption": "Waves House: geometrías blandas y un espejo orgánico.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Esfera, pirámide y espejo orgánico introducen relaciones escultóricas dentro de una escena habitable.",
+              "position": {
+                "x": 0.58,
+                "y": 0.67
+              }
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La mesa translúcida convive con volumen blanco mate, madera y tejido: el contraste material organiza el conjunto sin igualar todas las piezas.",
+        "Las formas geométricas de los cojines y el espejo orgánico introducen relaciones escultóricas dentro de una escena habitable."
+      ],
+      "verified_context": "El artículo identifica la mesa auxiliar de resina Lung y la mesa/console Ruins entre los diseños de Keller. Conviene usar títulos específicos con prudencia al no haber pies individuales que nombren cada objeto.",
+      "referenceId": "marina",
+      "role": "Fotografía",
+      "operation": "Integrar distintas piezas sin igualar su presencia. Una imagen construye coexistencia; la siguiente concede un momento propio a un objeto.",
+      "application": "Partir del conjunto y acercarse por turnos a las piezas. Alternar vistas compartidas y momentos individuales para que cada objeto mantenga su carácter."
+    },
+    {
+      "id": "stacked-series",
+      "title": "Stacked Series",
+      "referenceId": "sabine",
+      "role": "Diseño de objetos",
+      "source": "https://sabinemarcelis.com/projects/stacked-series",
+      "operation": "Apilar dos densidades. La misma geometría permite leer la diferencia entre piedra, resina, opacidad y transmisión de luz.",
+      "application": "Probar encuentros entre piezas de Szymon: que una masa opaca ayude a revelar una translúcida. Empezar por el efecto que aparece en la unión.",
+      "images": [
+        {
+          "id": "stacked-series-1",
+          "src": "assets/stacked-series-1.jpg",
+          "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/5661670c4e268adfcdf83f82a2938b755204bf2d-8675x6518.jpg?h=1536&fm=webp",
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Resina violeta y piedra rosada: dos capas, dos densidades.",
+          "alt": "Resina violeta y piedra rosada: dos capas, dos densidades.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El encuentro entre materiales organiza la imagen.",
+              "position": {
+                "x": 0.34,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-2",
+          "src": "assets/stacked-series-2.jpg",
+          "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/6458778dddc61c3d3db3df05ff3a3ed3c3067a25-9177x6895.jpg?h=1536&fm=webp",
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Piedra y resina verde: una segunda combinación de la serie.",
+          "alt": "Piedra y resina verde: una segunda combinación de la serie.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Comparar el peso visual de las capas, no solo su color.",
+              "position": {
+                "x": 0.45,
+                "y": 0.56
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-3",
+          "src": "assets/stacked-series-3.jpg",
+          "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/1cdcc68e1895957f79971f137303e10e79943ea4-2857x4000.jpg?w=864&fm=webp",
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Encuentro de superficies translúcidas y opacas.",
+          "alt": "Encuentro de superficies translúcidas y opacas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La serie permite estudiar cómo cambia un mismo gesto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honing-passage",
+      "title": "Honing Passage",
+      "referenceId": "mathijs",
+      "role": "Fotografía",
+      "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+      "operation": "Hacer que el material construya un espacio. La repetición y la luz convierten una superficie en una experiencia de recorrido.",
+      "application": "Ensayar una secuencia con las lámparas: vista de conjunto, distancia intermedia y encuentro cercano con la resina.",
+      "images": [
+        {
+          "id": "honing-passage-1",
+          "src": "assets/honing-passage-1.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/6ae88c35-8504-4a62-b7c9-64f7196268ed/_83A1020.jpg",
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Pantallas de color en el recorrido de un jardín.",
+          "alt": "Pantallas de color en el recorrido de un jardín.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Leer la luz como una propiedad del material y del espacio.",
+              "position": {
+                "x": 0.53,
+                "y": 0.61
+              }
+            }
+          ]
+        },
+        {
+          "id": "honing-passage-2",
+          "src": "assets/honing-passage-2.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1709914459670-P9NVHI36GR0K1QWNAKOH/_83A1399.jpg",
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Una figura introduce escala junto a las pantallas.",
+          "alt": "Una figura introduce escala junto a las pantallas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La repetición organiza el recorrido de la mirada.",
+              "position": {
+                "x": 0.72,
+                "y": 0.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "honing-passage-3",
+          "src": "assets/honing-passage-3.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1709914998014-S8USM459VJNCMW8CEFD1/_83A1419.jpg",
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "La vegetación cambia de color a través de la superficie.",
+          "alt": "La vegetación cambia de color a través de la superficie.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El jardín sigue presente, pero el material cambia el color con el que lo vemos.",
+              "position": {
+                "x": 0.6,
+                "y": 0.6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perfume-table",
+      "title": "Perfume Table",
+      "referenceId": "mathijs",
+      "role": "Fotografía",
+      "source": "https://mathijslabadie.com/perfume-table-studio-sabine-marcelis/",
+      "operation": "Desplegar una pieza en una secuencia de usos y detalles. El montaje del fotógrafo muestra cómo el volumen cilíndrico contiene, expone y acompaña los frascos.",
+      "application": "Preparar un pequeño ensayo visual donde un objeto de Szymon cambie de lectura al variar lo que lo acompaña.",
+      "images": [
+        {
+          "id": "perfume-table-1",
+          "src": "assets/perfume-table-1.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/ee91f410-d6f2-4da0-b20c-28ed2d9c9f63/2068+SabineMarcelis_PerfumeTable_comp-II-1.jpg",
+          "source": "https://mathijslabadie.com/perfume-table-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Montaje original publicado por Mathijs Labadie.",
+          "alt": "Montaje original publicado por Mathijs Labadie.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Observar cómo el cilindro se abre, sostiene y encuadra el contenido. La fuente publica este montaje como una sola imagen.",
+              "position": {
+                "x": 0.43,
+                "y": 0.2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hot-stuff",
+      "title": "The Gentlewoman, Hot Stuff",
+      "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+      "credits": {
+        "creator": "Scheltens & Abbenes",
+        "client_publication": "The Gentlewoman",
+        "status": "Proyecto verificado en portfolio oficial; créditos de colaboradores y año no publicados en la página consultada."
+      },
+      "images": [
+        {
+          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "alt": "Plancha vertical de cara rojiza sobre una superficie clara, con sombra marcada y fondo oscuro.",
+          "id": "hot-stuff-1",
+          "src": "assets/hot-stuff-1.jpg",
+          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
+          "caption": "Hot Stuff: una plancha vista como volumen escultórico.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra.",
+              "position": {
+                "x": 0.56,
+                "y": 0.4
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
+          "alt": "Volumen mineral anaranjado iluminado desde dentro y reflejado sobre una superficie brillante.",
+          "id": "hot-stuff-2",
+          "src": "assets/hot-stuff-2.jpg",
+          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
+          "caption": "Hot Stuff: una forma mineral activada por la luz.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luminosidad y la textura hacen que el volumen se lea como una materia en transformación.",
+              "position": {
+                "x": 0.46,
+                "y": 0.43
+              }
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra.",
+        "La luz interna de un volumen irregular convierte la textura en atmósfera; conexión directa con piezas translúcidas de Szymon."
+      ],
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "operation": "Desmontar la lectura habitual del objeto. Frontalidad, sombra y punto de vista convierten un utensilio en una presencia escultórica.",
+      "application": "Antes de fotografiar una pieza de Szymon, estudiar silueta, reverso, textura y modo de emitir luz. Tomar el método de investigación; no copiar la limpieza estética."
+    },
+    {
+      "id": "postures-vases",
+      "title": "Postures Vases",
+      "source": "https://www.studiokleiner.com/tag/vases",
+      "credits": {
+        "creator": "Studio Kleiner / Kleiner space",
+        "status": "Título y categorías Designs, Photography, Motion verificadas en portfolio oficial. La página de etiqueta no ofrece reparto individual de créditos; atribución individual pendiente."
+      },
+      "images": [
+        {
+          "url": "https://a.storyblok.com/f/161757/2160x2880/561f07ae88/carl-kleiner-postures-vases-10.jpg",
+          "alt": "Flor única de tallo curvado sostenida por una varilla metálica sobre base pétrea, con fondo azul grisáceo.",
+          "id": "postures-vases-1",
+          "src": "assets/postures-vases-1.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2160x2880/561f07ae88/carl-kleiner-postures-vases-10.jpg",
+          "source": "https://www.studiokleiner.com/tag/vases",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Postures Vases: tensión entre tallo, varilla y base.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La varilla dibuja una línea geométrica que responde al gesto orgánico de cada tallo.",
+              "position": {
+                "x": 0.63,
+                "y": 0.64
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://a.storyblok.com/f/161757/2880x2160/87ffa01bd2/carl-kleiner-postures-vases-20.jpg",
+          "alt": "Dos bases pétreas con varillas de latón sostienen flores de distintos tamaños y posturas.",
+          "id": "postures-vases-2",
+          "src": "assets/postures-vases-2.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2880x2160/87ffa01bd2/carl-kleiner-postures-vases-20.jpg",
+          "source": "https://www.studiokleiner.com/tag/vases",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Postures Vases: dos composiciones que conviven.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Pedestal, flor y soporte funcionan como una sola escultura: útil para construir bodegones de piezas de Szymon con tensión y aire.",
+              "position": {
+                "x": 0.45,
+                "y": 0.63
+              }
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La varilla dibuja una línea geométrica que responde al gesto orgánico de cada tallo.",
+        "Pedestal, flor y soporte funcionan como una sola escultura: útil para construir bodegones de piezas de Szymon con tensión y aire."
+      ],
+      "referenceId": "kleiner",
+      "role": "Fotografía y diseño",
+      "operation": "Construir un equilibrio entre gesto orgánico y soporte geométrico. El vacío sostiene la tensión de la composición.",
+      "application": "Probar bodegones con los nuevos jarrones y lámparas de Szymon donde el equilibrio entre piezas sugiera una acción. Pensar en post-catálogo."
+    },
+    {
+      "id": "bodabana",
+      "title": "bodabana gc — Garden Companions",
+      "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+      "credits": {
+        "creator": "Studio Kleiner / Kleiner space",
+        "page_credit": "Garden Companions: @linazedig @juliankomosa, @evelinakleiner and Allan",
+        "status": "Texto de crédito verificado; la página no precisa el rol de cada participante."
+      },
+      "images": [
+        {
+          "url": "https://a.storyblok.com/f/161757/2240x2800/7bc739e05e/bodabana_2024_friend_session_001.jpg",
+          "alt": "Sapo sobre una seta erguida en un cilindro verde brillante, sobre fondo claro.",
+          "id": "bodabana-1",
+          "src": "assets/bodabana-1.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2240x2800/7bc739e05e/bodabana_2024_friend_session_001.jpg",
+          "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Garden Companions: un encuentro entre animal, hongo y soporte.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La forma industrial sirve como soporte para un pequeño acontecimiento natural, con humor y escala inesperada.",
+              "position": {
+                "x": 0.51,
+                "y": 0.23
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://a.storyblok.com/f/161757/2240x2800/83a79f99ec/bodabana_2024_friend_session_005.jpg",
+          "alt": "Flores amarillas, cítricos verdes y una cebolla rojiza sobre una base cónica rosa translúcida.",
+          "id": "bodabana-2",
+          "src": "assets/bodabana-2.jpg",
+          "originalUrl": "https://a.storyblok.com/f/161757/2240x2800/83a79f99ec/bodabana_2024_friend_session_005.jpg",
+          "source": "https://www.studiokleiner.com/kleiner-space/bodana-garden-companions",
+          "credit": "Studio Kleiner / Kleiner space · Roles individuales pendientes",
+          "caption": "Garden Companions: vegetales sobre una base rosa.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Rosa translúcido, verde vegetal y sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica.",
+              "position": {
+                "x": 0.52,
+                "y": 0.7
+              }
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La forma industrial sirve como soporte para un pequeño acontecimiento natural, con humor y escala inesperada.",
+        "Rosa translúcido, verde vegetal y sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica."
+      ],
+      "referenceId": "kleiner",
+      "role": "Fotografía y escenografía",
+      "operation": "Hacer del objeto un pequeño escenario. Materia artificial y elementos orgánicos provocan encuentros de escala y color.",
+      "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración."
+    },
+    {
+      "id": "plisse-block",
+      "title": "Plissè Block",
+      "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+      "credits": {
+        "design": "Luca Ricci",
+        "commission": "Fivefourfive",
+        "interior_design": "Studio Musa",
+        "photography": "Nicolò Panzeri",
+        "render": "© Luca Ricci",
+        "article": "Eric David, Yatzer, 21 July 2026",
+        "status": "Créditos verificados en texto y pies de imagen."
+      },
+      "images": [
+        {
+          "url": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "alt": "Detalle renderizado de una esquina de vidrio estriado delante de terciopelo rojo.",
+          "credit": "Render © Luca Ricci",
+          "type": "render",
+          "id": "plisse-block-1",
+          "src": "assets/plisse-block-1.jpg",
+          "originalUrl": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+          "caption": "Plissè Block: detalle del vidrio estriado. Render © Luca Ricci.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La textura estriada repite, fragmenta y suaviza el color rojo que hay detrás del vidrio.",
+              "position": {
+                "x": 0.47,
+                "y": 0.38
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://media.yatzer.com/2-Plisse-Block-Luca-Ricci-photo-Nicolo-Panzeri-yatzer-1400x1750.jpg",
+          "alt": "Sofá de vidrio estriado y cojines rojos dentro de una tienda con madera oscura y luz cálida.",
+          "credit": "Fotografía Nicolò Panzeri",
+          "type": "photograph",
+          "id": "plisse-block-2",
+          "src": "assets/plisse-block-2.jpg",
+          "originalUrl": "https://media.yatzer.com/2-Plisse-Block-Luca-Ricci-photo-Nicolo-Panzeri-yatzer-1400x1750.jpg",
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+          "caption": "Plissè Block: el mueble en el espacio. Fotografía Nicolò Panzeri.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La fotografía contextual demuestra cómo una pieza translúcida puede ordenar una escena interior; el detalle renderizado ayuda a aislar la lógica material.",
+              "position": {
+                "x": 0.53,
+                "y": 0.68
+              }
+            }
+          ]
+        }
+      ],
+      "observations": [
+        "La textura estriada repite, fragmenta y suaviza el color rojo que hay detrás del vidrio.",
+        "La fotografía contextual demuestra cómo una pieza translúcida puede ordenar una escena interior; el detalle renderizado ayuda a aislar la lógica material."
+      ],
+      "referenceId": "luca",
+      "role": "Diseño de mobiliario",
+      "operation": "Mostrar y ocultar a la vez. El vidrio estriado fragmenta el color de lo que contiene y convierte el interior en parte de la superficie.",
+      "application": "Estudiar qué se ve a través de una pieza de Szymon: otro objeto, un color o una figura. La distorsión podría convertirse en el tema de la imagen."
+    },
+    {
+      "id": "gst-sidetable",
+      "title": "GST Sidetable",
+      "referenceId": "niko",
+      "role": "Diseño de mobiliario",
+      "source": "https://www.nikokoronis.com/works/p/gst",
+      "operation": "Cruzar precisión geométrica y variación óptica. Una forma utilitaria puede cambiar de densidad aparente según la iluminación.",
+      "application": "Comparar una pieza de Szymon con una geometría más funcional. Fotografiar el canto y el vacío para discutir dónde comienza la expresión artística.",
+      "images": [
+        {
+          "id": "gst-sidetable-2",
+          "src": "assets/gst-sidetable-2.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/5b1a83ccfcf7fdf17481f2f6/fa7bcb4d-f322-4b1c-8b73-68dcc06c0f0d/1.jpg",
+          "source": "https://www.nikokoronis.com/works/p/gst",
+          "credit": "Mathijs Labadie · Diseño: Niko Koronis",
+          "caption": "GST: volumen verde bajo luz lateral.",
+          "alt": "GST: volumen verde bajo luz lateral.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El espesor y el vacío participan en la lectura de la pieza.",
+              "position": {
+                "x": 0.56,
+                "y": 0.53
+              }
+            }
+          ]
+        },
+        {
+          "id": "gst-sidetable-3",
+          "src": "assets/gst-sidetable-3.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/5b1a83ccfcf7fdf17481f2f6/80c4b342-4897-4cc4-a1e5-6cfe314be2b9/8.jpg",
+          "source": "https://www.nikokoronis.com/works/p/gst",
+          "credit": "Mathijs Labadie · Diseño: Niko Koronis",
+          "caption": "GST: encuentro del canto y los volúmenes de apoyo.",
+          "alt": "GST: encuentro del canto y los volúmenes de apoyo.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Observar el paso de masa oscura a borde luminoso.",
+              "position": {
+                "x": 0.62,
+                "y": 0.45
+              }
+            }
+          ]
+        },
+        {
+          "id": "gst-sidetable-1",
+          "src": "assets/gst-sidetable-1.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/7b61deaf-7684-407f-855f-2195ffffdff9/971+NikoKoronis_SideTable_QuickComp-VI-2_selection.jpg",
+          "source": "https://mathijslabadie.com/gst-sidetable-niko-koronis/",
+          "credit": "Mathijs Labadie · Diseño: Niko Koronis",
+          "caption": "Montaje de vistas y detalles de GST.",
+          "alt": "Montaje de vistas y detalles de GST.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Observar el paso de masa oscura a borde luminoso.",
+              "position": {
+                "x": 0.3,
+                "y": 0.58
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metropolis-sidetable",
+      "title": "Metropolis Sidetable",
+      "referenceId": "laurids",
+      "role": "Diseño de mobiliario",
+      "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+      "operation": "Leer la resina como cristal o mineral. Las fuentes publican dos geometrías bajo Metropolis Sidetable: una circular y otra rectilínea. Se comparan sus efectos, sin asumir que sean la misma pieza.",
+      "application": "Explorar una lectura más futurista de las piezas de Szymon mediante encuadres de cantos, reflejos internos y acumulación de volúmenes.",
+      "images": [
+        {
+          "id": "metropolis-labadie",
+          "src": "assets/metropolis-labadie.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1640519128043-A0B36RFY90MKS4BX7ULS/974%2BLauridsGallee_SideTable_II-A.jpg",
+          "source": "https://mathijslabadie.com/metropolis-laurids-gallee/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Metropolis Sidetable: versión circular en la web de Mathijs Labadie.",
+          "alt": "Metropolis Sidetable: versión circular en la web de Mathijs Labadie.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "En la versión circular, los objetos cotidianos introducen escala y una situación de uso.",
+              "position": {
+                "x": 0.53,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "metropolis-sidetable-1",
+          "src": "assets/metropolis-sidetable-1.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/metropolis-sidetable/64f2dd8108-1715901518/metropolis-side-table-square-32-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+          "credit": "Fotografía: pendiente de atribución individual · Diseño: Laurids Gallée",
+          "caption": "Metropolis Sidetable: versión rectilínea en la web de Laurids Gallée.",
+          "alt": "Metropolis Sidetable: versión rectilínea en la web de Laurids Gallée.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Seguir el límite entre superficie y profundidad.",
+              "position": {
+                "x": 0.28,
+                "y": 0.57
+              }
+            }
+          ]
+        },
+        {
+          "id": "metropolis-sidetable-2",
+          "src": "assets/metropolis-sidetable-2.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/metropolis-sidetable/a01f4dbf17-1765461544/metropolis-side-table-square-3-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+          "credit": "Fotografía: pendiente de atribución individual · Diseño: Laurids Gallée",
+          "caption": "Metropolis Sidetable: vista general de la versión rectilínea.",
+          "alt": "Metropolis Sidetable: vista general de la versión rectilínea.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La transparencia complica la lectura del volumen.",
+              "position": {
+                "x": 0.49,
+                "y": 0.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "metropolis-sidetable-3",
+          "src": "assets/metropolis-sidetable-3.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/metropolis-sidetable/8119a26bac-1712848791/metropolis-side-table-square-1-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+          "credit": "Fotografía: pendiente de atribución individual · Diseño: Laurids Gallée",
+          "caption": "Metropolis Sidetable: detalle de la versión rectilínea.",
+          "alt": "Metropolis Sidetable: detalle de la versión rectilínea.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Seguir el límite entre superficie y profundidad.",
+              "position": {
+                "x": 0.38,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-09",
+      "title": "PL 09",
+      "referenceId": "laurids",
+      "role": "Diseño de iluminación",
+      "source": "https://lauridsgallee.com/home/pl-09",
+      "operation": "Comparar la pieza encendida y bajo luz ambiente: la misma materia puede operar como masa, filtro y fuente luminosa.",
+      "application": "Mostrar una lámpara nueva de Szymon en dos estados equivalentes, manteniendo el encuadre para que el cambio lo produzca la luz.",
+      "images": [
+        {
+          "id": "pl-09-1",
+          "src": "assets/pl-09-1.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/088cc5bc3f-1756203954/james-lamp-dark-low-res_-2-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/pl-09",
+          "credit": "Fotografía: pendiente de atribución · Diseño: Laurids Gallée",
+          "caption": "PL 09 encendida, vista general.",
+          "alt": "PL 09 encendida, vista general.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luz transforma la presencia del objeto.",
+              "position": {
+                "x": 0.51,
+                "y": 0.44
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-09-2",
+          "src": "assets/pl-09-2.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/804cc0f0ff-1756203954/james-lamp-dark-low-res_-3-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/pl-09",
+          "credit": "Fotografía: pendiente de atribución · Diseño: Laurids Gallée",
+          "caption": "PL 09 encendida, detalle de los tubos.",
+          "alt": "PL 09 encendida, detalle de los tubos.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El fondo oscuro permite leer la emisión.",
+              "position": {
+                "x": 0.58,
+                "y": 0.43
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-09-3",
+          "src": "assets/pl-09-3.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/26fc83336e-1756203955/james-lamp-daylight-low-res-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/pl-09",
+          "credit": "Fotografía: pendiente de atribución · Diseño: Laurids Gallée",
+          "caption": "PL 09 bajo luz ambiente.",
+          "alt": "PL 09 bajo luz ambiente.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Comparar el material bajo luz ambiente.",
+              "position": {
+                "x": 0.49,
+                "y": 0.57
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pool-light-01",
+      "title": "Pool Light 01",
+      "referenceId": "mathijs",
+      "role": "Fotografía",
+      "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+      "operation": "Registrar la luz como un efecto que se extiende más allá de la pieza. El entorno forma parte de lo que vemos.",
+      "application": "Probar un encuadre que dé espacio a la luz proyectada por una lámpara de Szymon. La imagen puede incluir el efecto y su origen.",
+      "images": [
+        {
+          "id": "pool-light-01-1",
+          "src": "assets/pool-light-01-1.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1682421170003-1YCL2SX7PNZGHVET2LIV/1049_LauridsGallee_BlueLight_58476.jpg",
+          "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Pool Light 01: luz azul sobre objeto y entorno.",
+          "alt": "Pool Light 01: luz azul sobre objeto y entorno.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Observar cuánto espacio necesita el efecto luminoso.",
+              "position": {
+                "x": 0.55,
+                "y": 0.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "pool-light-01-2",
+          "src": "assets/pool-light-01-2.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1682421170950-XK89CMLP0JTUFCEAVR90/1049_LauridsGallee_BlueLight_58493.jpg",
+          "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Pool Light 01: luz frontal y silueta.",
+          "alt": "Pool Light 01: luz frontal y silueta.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Relacionar la forma del objeto con su proyección.",
+              "position": {
+                "x": 0.41,
+                "y": 0.58
+              }
+            }
+          ]
+        },
+        {
+          "id": "pool-light-01-3",
+          "src": "assets/pool-light-01-3.jpg",
+          "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/1682421172030-MXLHK5U2FA1S24VEPXRK/1049_LauridsGallee_BlueLight_58504.jpg",
+          "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Pool Light 01: perfiles, reflejos y transparencia.",
+          "alt": "Pool Light 01: perfiles, reflejos y transparencia.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Observar cuánto espacio necesita el efecto luminoso.",
+              "position": {
+                "x": 0.45,
+                "y": 0.64
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
