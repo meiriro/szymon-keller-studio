@@ -11,3 +11,11 @@
 
 .image-marker{transform:translate(-50%,-50%);pointer-events:none}
 @media(max-width:360px){.project-grid{gap:12px;padding-left:16px;padding-right:16px}.image-stack,.project-card:nth-child(n) .image-stack{width:94px;height:123px}.card-meta{grid-template-columns:1fr;gap:1px}.card-meta dt{display:none}.project-card{min-height:260px;padding-bottom:95px}}
+
+/* Índice: la selección se mantiene en su posición y las categorías comparten el margen editorial. */
+.index-archive{display:block;margin:0 var(--margin)}
+.filter-sidebar{border:0;margin-top:16px;padding:0;position:static}
+.filter-list{flex-direction:column;gap:7px}
+.project-grid{padding-left:0}
+.project-card.is-filtered-out{visibility:hidden;pointer-events:none}
+@media(max-width:700px){.index-archive{margin:0 var(--margin)}.filter-sidebar{padding:0;border:0}.filter-list{flex-direction:column;gap:7px}}
