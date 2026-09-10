@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "v11 · 10.09.2026",
+  "edition": "v12 · 10.09.2026",
   "references": [
     {
       "id": "marina",
@@ -197,25 +197,6 @@
       "application": "Probar encuentros entre piezas de Szymon: que una masa opaca ayude a revelar una translúcida. Empezar por el efecto que aparece en la unión.",
       "images": [
         {
-          "id": "stacked-series-1",
-          "src": "assets/stacked-series-1.jpg",
-          "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/5661670c4e268adfcdf83f82a2938b755204bf2d-8675x6518.jpg?h=1536&fm=webp",
-          "source": "https://sabinemarcelis.com/projects/stacked-series",
-          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
-          "caption": "Resina violeta y piedra rosada: dos capas, dos densidades.",
-          "alt": "Resina violeta y piedra rosada: dos capas, dos densidades.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "El encuentro entre materiales organiza la imagen.",
-              "position": {
-                "x": 0.34,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
           "id": "stacked-series-2",
           "src": "assets/stacked-series-2.jpg",
           "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/6458778dddc61c3d3db3df05ff3a3ed3c3067a25-9177x6895.jpg?h=1536&fm=webp",
@@ -230,6 +211,25 @@
               "position": {
                 "x": 0.45,
                 "y": 0.56
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-1",
+          "src": "assets/stacked-series-1.jpg",
+          "originalUrl": "https://cdn.sanity.io/images/4xq2r1yx/production/5661670c4e268adfcdf83f82a2938b755204bf2d-8675x6518.jpg?h=1536&fm=webp",
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Resina violeta y piedra rosada: dos capas, dos densidades.",
+          "alt": "Resina violeta y piedra rosada: dos capas, dos densidades.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El encuentro entre materiales organiza la imagen.",
+              "position": {
+                "x": 0.34,
+                "y": 0.55
               }
             }
           ]
@@ -344,6 +344,25 @@
       "application": "Ensayar una secuencia con las lámparas: vista de conjunto, distancia intermedia y encuentro cercano con la resina.",
       "images": [
         {
+          "id": "honing-passage-new-1",
+          "src": "assets/honing-passage-sup-1.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Paneles de color y reflejo en Honing Passage.",
+          "alt": "Paneles de color y reflejo en Honing Passage.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El ángulo mezcla paisaje reflejado y paisaje filtrado.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "honing-passage-1",
           "src": "assets/honing-passage-1.jpg",
           "originalUrl": "https://images.squarespace-cdn.com/content/v1/58ae161d3a0411fe48f42f0b/6ae88c35-8504-4a62-b7c9-64f7196268ed/_83A1020.jpg",
@@ -396,25 +415,6 @@
               "position": {
                 "x": 0.6,
                 "y": 0.6
-              }
-            }
-          ]
-        },
-        {
-          "id": "honing-passage-new-1",
-          "src": "assets/honing-passage-sup-1.webp",
-          "originalUrl": null,
-          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
-          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
-          "caption": "Paneles de color y reflejo en Honing Passage.",
-          "alt": "Paneles de color y reflejo en Honing Passage.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "El ángulo mezcla paisaje reflejado y paisaje filtrado.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
               }
             }
           ]
@@ -490,26 +490,6 @@
       },
       "images": [
         {
-          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
-          "alt": "Plancha vertical de cara rojiza sobre una superficie clara, con sombra marcada y fondo oscuro.",
-          "id": "hot-stuff-1",
-          "src": "assets/hot-stuff-1.jpg",
-          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
-          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
-          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
-          "caption": "Hot Stuff: una plancha vista como volumen escultórico.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra.",
-              "position": {
-                "x": 0.56,
-                "y": 0.4
-              }
-            }
-          ]
-        },
-        {
           "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_glow.1200x0.jpg",
           "alt": "Volumen mineral anaranjado iluminado desde dentro y reflejado sobre una superficie brillante.",
           "id": "hot-stuff-2",
@@ -525,6 +505,26 @@
               "position": {
                 "x": 0.46,
                 "y": 0.43
+              }
+            }
+          ]
+        },
+        {
+          "url": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "alt": "Plancha vertical de cara rojiza sobre una superficie clara, con sombra marcada y fondo oscuro.",
+          "id": "hot-stuff-1",
+          "src": "assets/hot-stuff-1.jpg",
+          "originalUrl": "https://www.scheltens-abbenes.com/site/assets/files/3232/tgw_hot_stuff_ironer.1200x0.jpg",
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Fotografía: Scheltens & Abbenes · Publicación: The Gentlewoman",
+          "caption": "Hot Stuff: una plancha vista como volumen escultórico.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silueta de un electrodoméstico cotidiano adquiere presencia escultórica mediante aislamiento, frontalidad y sombra.",
+              "position": {
+                "x": 0.56,
+                "y": 0.4
               }
             }
           ]
@@ -722,6 +722,25 @@
       "application": "Para los nuevos jarrones de Szymon: ensayar una flor por imagen y usar altura, torsión, herrajes o soportes como parte del relato. No buscar ramo decorativo: tratar cada tallo como una escultura que prueba el recipiente.",
       "images": [
         {
+          "id": "bungenas-arrangements-3",
+          "src": "assets/bungenas-arrangements-3.webp",
+          "originalUrl": null,
+          "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
+          "credit": "Studio Kleiner / Kleiner space (crédito de imagen pendiente).",
+          "caption": "Bungenäs: flores sujetas a una piedra.",
+          "alt": "Arreglo floral con flores rosadas y violetas sujetas a una piedra vertical.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La base áspera y las fijaciones convierten el florero en mecanismo de sostén.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
           "id": "bungenas-arrangements-1",
           "src": "assets/bungenas-arrangements-1.webp",
           "originalUrl": null,
@@ -758,25 +777,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "bungenas-arrangements-3",
-          "src": "assets/bungenas-arrangements-3.webp",
-          "originalUrl": null,
-          "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
-          "credit": "Studio Kleiner / Kleiner space (crédito de imagen pendiente).",
-          "caption": "Bungenäs: flores sujetas a una piedra.",
-          "alt": "Arreglo floral con flores rosadas y violetas sujetas a una piedra vertical.",
-          "annotations": [
-            {
-              "number": "03",
-              "text": "La base áspera y las fijaciones convierten el florero en mecanismo de sostén.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
         }
       ],
       "categories": [
@@ -799,6 +799,25 @@
         "status": "Créditos verificados en texto y pies de imagen."
       },
       "images": [
+        {
+          "id": "plisse-block-4",
+          "src": "assets/plisse-block-4.webp",
+          "originalUrl": null,
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
+          "credit": "Yatzer (fuente); crédito de imagen pendiente",
+          "caption": "Butaca roja filtrada por el bloque acanalado.",
+          "alt": "Butaca roja vista a través de un panel de vidrio estriado.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "El contenido no se pierde; se vuelve banda, vibración y medida de la transparencia.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
         {
           "url": "https://media.yatzer.com/13-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
           "alt": "Detalle renderizado de una esquina de vidrio estriado delante de terciopelo rojo.",
@@ -853,25 +872,6 @@
             {
               "number": "03",
               "text": "La superficie plisada cambia de escala: actúa a la vez como mueble, filtro y textura arquitectónica.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
-          "id": "plisse-block-4",
-          "src": "assets/plisse-block-4.webp",
-          "originalUrl": null,
-          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
-          "credit": "Yatzer (fuente); crédito de imagen pendiente",
-          "caption": "Butaca roja filtrada por el bloque acanalado.",
-          "alt": "Butaca roja vista a través de un panel de vidrio estriado.",
-          "annotations": [
-            {
-              "number": "04",
-              "text": "El contenido no se pierde; se vuelve banda, vibración y medida de la transparencia.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -1019,6 +1019,25 @@
       "application": "Para Szymon: tratar una mesa de resina como sistema estructural y no solo bloque. Documentar conjunto, punto de fuga, paso de una persona y uniones para que la utilidad y el material se expliquen juntos.",
       "images": [
         {
+          "id": "lvb-3",
+          "src": "assets/lvb-3.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB con figura en movimiento.",
+          "alt": "Mesa de planos translúcidos con una figura desenfocada al fondo.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La figura mide escala y vuelve visible el uso sin fijar la escena.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
           "id": "lvb-1",
           "src": "assets/lvb-1.webp",
           "originalUrl": null,
@@ -1049,25 +1068,6 @@
             {
               "number": "02",
               "text": "El punto de fuga revela el orden del conjunto.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
-          "id": "lvb-3",
-          "src": "assets/lvb-3.webp",
-          "originalUrl": null,
-          "source": "https://www.nikokoronis.com/works/p/lvb",
-          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
-          "caption": "LVB con figura en movimiento.",
-          "alt": "Mesa de planos translúcidos con una figura desenfocada al fondo.",
-          "annotations": [
-            {
-              "number": "03",
-              "text": "La figura mide escala y vuelve visible el uso sin fijar la escena.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -1153,6 +1153,25 @@
       "application": "Para Szymon: registrar una pieza baja desde arriba, de canto y junto a una figura en movimiento. Cambiar de altura de cámara antes que añadir accesorios.",
       "images": [
         {
+          "id": "bkl-3",
+          "src": "assets/bkl-3.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/",
+          "credit": "Studio Niko Koronis (archivo aportado; página específica pendiente).",
+          "caption": "BKL: mesa azul y figura desenfocada.",
+          "alt": "Mesa baja circular azul junto a una figura desenfocada.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La figura mide altura y mantiene el objeto como protagonista.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
           "id": "bkl-1",
           "src": "assets/bkl-1.jpg",
           "originalUrl": null,
@@ -1183,25 +1202,6 @@
             {
               "number": "02",
               "text": "Una forma simple cambia por espesor y sombra.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
-          "id": "bkl-3",
-          "src": "assets/bkl-3.jpg",
-          "originalUrl": null,
-          "source": "https://www.nikokoronis.com/",
-          "credit": "Studio Niko Koronis (archivo aportado; página específica pendiente).",
-          "caption": "BKL: mesa azul y figura desenfocada.",
-          "alt": "Mesa baja circular azul junto a una figura desenfocada.",
-          "annotations": [
-            {
-              "number": "03",
-              "text": "La figura mide altura y mantiene el objeto como protagonista.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -1624,6 +1624,25 @@
       "application": "Mostrar una lámpara nueva de Szymon en dos estados equivalentes, manteniendo el encuadre para que el cambio lo produzca la luz.",
       "images": [
         {
+          "id": "pl-09-3",
+          "src": "assets/pl-09-3.jpg",
+          "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/26fc83336e-1756203955/james-lamp-daylight-low-res-x1400-q90.jpg",
+          "source": "https://lauridsgallee.com/home/pl-09",
+          "credit": "Fotografía: pendiente de atribución · Diseño: Laurids Gallée",
+          "caption": "PL 09 bajo luz ambiente.",
+          "alt": "PL 09 bajo luz ambiente.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Comparar el material bajo luz ambiente.",
+              "position": {
+                "x": 0.49,
+                "y": 0.57
+              }
+            }
+          ]
+        },
+        {
           "id": "pl-09-1",
           "src": "assets/pl-09-1.jpg",
           "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/088cc5bc3f-1756203954/james-lamp-dark-low-res_-2-x1400-q90.jpg",
@@ -1657,25 +1676,6 @@
               "position": {
                 "x": 0.58,
                 "y": 0.43
-              }
-            }
-          ]
-        },
-        {
-          "id": "pl-09-3",
-          "src": "assets/pl-09-3.jpg",
-          "originalUrl": "https://lauridsgallee.com/media/pages/home/pl-09/26fc83336e-1756203955/james-lamp-daylight-low-res-x1400-q90.jpg",
-          "source": "https://lauridsgallee.com/home/pl-09",
-          "credit": "Fotografía: pendiente de atribución · Diseño: Laurids Gallée",
-          "caption": "PL 09 bajo luz ambiente.",
-          "alt": "PL 09 bajo luz ambiente.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "Comparar el material bajo luz ambiente.",
-              "position": {
-                "x": 0.49,
-                "y": 0.57
               }
             }
           ]
@@ -1719,6 +1719,25 @@
       "operation": "Fundir figura animal, soporte y superficie útil para que la narración forme parte de la estructura.",
       "application": "Para Szymon: explorar cuándo un gesto figurativo puede funcionar como apoyo, vacío o borde. Fotografiar la pieza completa, un recorte de la textura y una versión activada por una flor.",
       "images": [
+        {
+          "id": "meld-fishies-6",
+          "src": "assets/meld-fishies-6.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies en una escena verde.",
+          "alt": "Mesa escultórica de peces verdes en un interior verde.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "Cambiar el contexto desplaza la pieza de objeto de estudio a personaje espacial.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
         {
           "id": "meld-fishies-1",
           "src": "assets/meld-fishies-1.webp",
@@ -1813,25 +1832,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "meld-fishies-6",
-          "src": "assets/meld-fishies-6.webp",
-          "originalUrl": null,
-          "source": "https://lauridsgallee.com/home/meld-fishies",
-          "credit": "Laurids Gallée (crédito de imagen pendiente).",
-          "caption": "Meld Fishies en una escena verde.",
-          "alt": "Mesa escultórica de peces verdes en un interior verde.",
-          "annotations": [
-            {
-              "number": "06",
-              "text": "Cambiar el contexto desplaza la pieza de objeto de estudio a personaje espacial.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
         }
       ],
       "categories": [
@@ -1854,25 +1854,6 @@
       "application": "Para Szymon: documentar luminarias en tres distancias —cuerpo, borde, instalación— para que efecto lumínico y construcción aparezcan juntos.",
       "images": [
         {
-          "id": "pl-02-1",
-          "src": "assets/pl-02-1.webp",
-          "originalUrl": null,
-          "source": "https://lauridsgallee.com/home/pl-02",
-          "credit": "Laurids Gallée (crédito de imagen pendiente).",
-          "caption": "PL 02: detalle inferior de la luminaria azul.",
-          "alt": "Detalle de la base azul de una luminaria vertical translúcida.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La base concentra el cambio de densidad y hace visible el espesor del material.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
           "id": "pl-02-2",
           "src": "assets/pl-02-2.webp",
           "originalUrl": null,
@@ -1884,6 +1865,25 @@
             {
               "number": "02",
               "text": "La instalación no se oculta: cable, fuente y pared sitúan el objeto en uso.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-02-1",
+          "src": "assets/pl-02-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-02",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "PL 02: detalle inferior de la luminaria azul.",
+          "alt": "Detalle de la base azul de una luminaria vertical translúcida.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La base concentra el cambio de densidad y hace visible el espesor del material.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -1949,6 +1949,25 @@
       "operation": "Usar retícula, transparencia y curvatura como una misma gramática, mostrando tanto objeto terminado como proceso.",
       "application": "Para Szymon: construir una secuencia que vaya de taller a detalle y conjunto. La fabricación puede sostener la lectura de la pieza sin convertirse en making-of ornamental.",
       "images": [
+        {
+          "id": "axis-6",
+          "src": "assets/axis-6.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: detalle de borde curvo y retícula.",
+          "alt": "Detalle de un objeto naranja translúcido con retícula y borde curvo.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "La curvatura interrumpe la cuadrícula y hace visible el espesor.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
         {
           "id": "axis-1",
           "src": "assets/axis-1.webp",
@@ -2045,25 +2064,6 @@
           ]
         },
         {
-          "id": "axis-6",
-          "src": "assets/axis-6.webp",
-          "originalUrl": null,
-          "source": "https://lauridsgallee.com/home/axis",
-          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
-          "caption": "Axis: detalle de borde curvo y retícula.",
-          "alt": "Detalle de un objeto naranja translúcido con retícula y borde curvo.",
-          "annotations": [
-            {
-              "number": "06",
-              "text": "La curvatura interrumpe la cuadrícula y hace visible el espesor.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
           "id": "axis-7",
           "src": "assets/axis-7.webp",
           "originalUrl": null,
@@ -2141,25 +2141,6 @@
       "application": "Para Szymon: ensayar objetos donde el soporte tenga carácter propio. Probar una imagen blanca de estudio y otra contextual para medir cuánto necesita la forma del entorno.",
       "images": [
         {
-          "id": "morph-horsies-1",
-          "src": "assets/morph-horsies-1.webp",
-          "originalUrl": null,
-          "source": "https://lauridsgallee.com/home/morph-horsies",
-          "credit": "Laurids Gallée (crédito de imagen pendiente).",
-          "caption": "Morph Horsies: mesa blanca de formas blandas.",
-          "alt": "Mesa blanca escultórica con formas animales suaves.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La silueta animal se mezcla con la función hasta que soporte y figura son inseparables.",
-              "position": {
-                "x": 0.52,
-                "y": 0.52
-              }
-            }
-          ]
-        },
-        {
           "id": "morph-horsies-2",
           "src": "assets/morph-horsies-2.webp",
           "originalUrl": null,
@@ -2171,6 +2152,25 @@
             {
               "number": "02",
               "text": "La flor introduce una medida frágil frente a una masa deliberadamente blanda.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "morph-horsies-1",
+          "src": "assets/morph-horsies-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/morph-horsies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Morph Horsies: mesa blanca de formas blandas.",
+          "alt": "Mesa blanca escultórica con formas animales suaves.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silueta animal se mezcla con la función hasta que soporte y figura son inseparables.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -2357,6 +2357,25 @@
       "application": "Para Szymon: fotografiar una misma pieza vacía, activada y con una huella fantasma. La serie muestra qué cambia cuando el contenido entra en la forma.",
       "images": [
         {
+          "id": "sabine-extralight-5",
+          "src": "assets/sabine-extralight-5.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Macetero claro en una superposición de estados.",
+          "alt": "Macetero claro en una superposición de estados.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La superposición condensa uso y forma en una lectura temporal.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "sabine-extralight-1",
           "src": "assets/sabine-extralight-1.jpg",
           "originalUrl": null,
@@ -2425,25 +2444,6 @@
             {
               "number": "01",
               "text": "Reducir contraste desplaza atención hacia contorno, unión y sombra.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "sabine-extralight-5",
-          "src": "assets/sabine-extralight-5.jpg",
-          "originalUrl": null,
-          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
-          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
-          "caption": "Macetero claro en una superposición de estados.",
-          "alt": "Macetero claro en una superposición de estados.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La superposición condensa uso y forma en una lectura temporal.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -2617,6 +2617,25 @@
       "application": "Para Szymon: probar cortes cercanos y dípticos que no expliquen la pieza de inmediato. Incluir burbujas, vetas y rayas como información material.",
       "images": [
         {
+          "id": "macguffin-1-4",
+          "src": "assets/macguffin-1-4.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Díptico de esferas amarillas y ámbar.",
+          "alt": "Díptico de esferas amarillas y ámbar.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Burbujas y bordes internos dan escala a un objeto abstracto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "macguffin-1-1",
           "src": "assets/macguffin-1-1.webp",
           "originalUrl": null,
@@ -2666,25 +2685,6 @@
             {
               "number": "01",
               "text": "La unión vertical fuerza comparación entre colores y transparencias.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "macguffin-1-4",
-          "src": "assets/macguffin-1-4.webp",
-          "originalUrl": null,
-          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
-          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
-          "caption": "Díptico de esferas amarillas y ámbar.",
-          "alt": "Díptico de esferas amarillas y ámbar.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "Burbujas y bordes internos dan escala a un objeto abstracto.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -2934,6 +2934,25 @@
       "application": "Para Szymon: ensayar rotaciones o secciones de una pieza como registro de exploración. El objetivo es estudiar el objeto, no fingir perfección de catálogo.",
       "images": [
         {
+          "id": "the-plant-3",
+          "src": "assets/the-plant-3.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Tomate, cítrico y hojas en desplazamiento.",
+          "alt": "Tomate, cítrico y hojas en desplazamiento.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El gesto repetido crea ritmo y revela geometría interna.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "the-plant-1",
           "src": "assets/the-plant-1.webp",
           "originalUrl": null,
@@ -2964,25 +2983,6 @@
             {
               "number": "01",
               "text": "La variación por capas conecta superficies y cortes.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "the-plant-3",
-          "src": "assets/the-plant-3.webp",
-          "originalUrl": null,
-          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
-          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
-          "caption": "Tomate, cítrico y hojas en desplazamiento.",
-          "alt": "Tomate, cítrico y hojas en desplazamiento.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "El gesto repetido crea ritmo y revela geometría interna.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -3173,6 +3173,26 @@
       "application": "Para Szymon: colocar una familia de objetos en una topografía áspera. La roca puede ser compañero material y no simple fondo.",
       "images": [
         {
+          "id": "daft-about-draft-3",
+          "src": "assets/daft-about-draft-3.webp",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_4_domus-daft-aboutdraft-06.jpg.foto.rbig.webp",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
+          "alt": "Tres sillas DAFT about DRAFT situadas en una formación rocosa.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "DAFT about DRAFT: grupo de objetos en la roca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La agrupación construye una escena de uso sin recurrir a interior.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "daft-about-draft-1",
           "src": "assets/daft-about-draft-1.webp",
           "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
@@ -3205,26 +3225,6 @@
             {
               "number": "01",
               "text": "El reverso permite leer estructura y silueta contra la irregularidad.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "daft-about-draft-3",
-          "src": "assets/daft-about-draft-3.webp",
-          "url": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
-          "originalUrl": "/Users/rodrigo/Downloads/Locos por Draft_ Muebles diseñados para los espacios reducidos de la ciudad - Domus/imgi_4_domus-daft-aboutdraft-06.jpg.foto.rbig.webp",
-          "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
-          "alt": "Tres sillas DAFT about DRAFT situadas en una formación rocosa.",
-          "credit": "Domus (fuente); crédito de imagen pendiente.",
-          "caption": "DAFT about DRAFT: grupo de objetos en la roca.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La agrupación construye una escena de uso sin recurrir a interior.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -3448,6 +3448,26 @@
       "application": "Para Szymon: usar el terreno como contraparte material. Buscar escalas ambiguas entre recipiente, piedra y reflejo antes de decidir el encuadre final.",
       "images": [
         {
+          "id": "terramineral-6",
+          "src": "assets/terramineral-6.png",
+          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "originalUrl": "/Users/rodrigo/Downloads/lalique.png",
+          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
+          "alt": "Objeto Terramineral brillante sobre un fondo de tierra.",
+          "credit": "Lalique; crédito de imagen pendiente.",
+          "caption": "Terramineral: brillo sobre materia seca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La luz del objeto funciona como una alteración precisa del terreno.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "terramineral-1",
           "src": "assets/terramineral-1.webp",
           "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
@@ -3540,26 +3560,6 @@
             {
               "number": "01",
               "text": "El contraste de borde pulido y superficie erosionada da estructura a la imagen.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "terramineral-6",
-          "src": "assets/terramineral-6.png",
-          "url": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
-          "originalUrl": "/Users/rodrigo/Downloads/lalique.png",
-          "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
-          "alt": "Objeto Terramineral brillante sobre un fondo de tierra.",
-          "credit": "Lalique; crédito de imagen pendiente.",
-          "caption": "Terramineral: brillo sobre materia seca.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La luz del objeto funciona como una alteración precisa del terreno.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -3803,6 +3803,26 @@
       "application": "Para Szymon: convertir agrupación, suelo y utilería en una sola escena. Alternar plano general, mesa habitada y detalle de estructura.",
       "images": [
         {
+          "id": "inoxeart-outdoors-7",
+          "src": "assets/inoxeart-outdoors-7.png",
+          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "originalUrl": "/Users/rodrigo/Downloads/inoxeart7.png",
+          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
+          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
+          "credit": "Domus (fuente); crédito de imagen pendiente.",
+          "caption": "Inoxeart: acero, vidrio y hierba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "inoxeart-outdoors-1",
           "src": "assets/inoxeart-outdoors-1.png",
           "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
@@ -3923,26 +3943,6 @@
           ]
         },
         {
-          "id": "inoxeart-outdoors-7",
-          "src": "assets/inoxeart-outdoors-7.png",
-          "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
-          "originalUrl": "/Users/rodrigo/Downloads/inoxeart7.png",
-          "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
-          "alt": "Mobiliario de acero Inoxeart instalado en una pradera.",
-          "credit": "Domus (fuente); crédito de imagen pendiente.",
-          "caption": "Inoxeart: acero, vidrio y hierba.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "El material reflectante absorbe los verdes y naranjas del entorno sin dejar de revelar su construcción.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
           "id": "inoxeart-outdoors-8",
           "src": "assets/inoxeart-outdoors-8.png",
           "url": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
@@ -4002,6 +4002,26 @@
       "application": "Para Szymon: trabajar una campaña exterior como gradiente tonal, no como un único hero shot. Una luz puntual puede ser objeto, personaje o corte de ritmo.",
       "images": [
         {
+          "id": "summer-daze-3",
+          "src": "assets/summer-daze-3.webp",
+          "url": "https://francoisollivier.com/summer-daze",
+          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_3.webp",
+          "source": "https://francoisollivier.com/summer-daze",
+          "alt": "Fotografía de la serie Summer Daze.",
+          "credit": "Fotografía François Ollivier.",
+          "caption": "Summer Daze: luz y tonalidad exterior.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
           "id": "summer-daze-1",
           "src": "assets/summer-daze-1.webp",
           "url": "https://francoisollivier.com/summer-daze",
@@ -4026,26 +4046,6 @@
           "src": "assets/summer-daze-2.webp",
           "url": "https://francoisollivier.com/summer-daze",
           "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_2.webp",
-          "source": "https://francoisollivier.com/summer-daze",
-          "alt": "Fotografía de la serie Summer Daze.",
-          "credit": "Fotografía François Ollivier.",
-          "caption": "Summer Daze: luz y tonalidad exterior.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "La escena usa la transición de luz para hacer extraño un paisaje reconocible.",
-              "position": {
-                "x": 0.5,
-                "y": 0.55
-              }
-            }
-          ]
-        },
-        {
-          "id": "summer-daze-3",
-          "src": "assets/summer-daze-3.webp",
-          "url": "https://francoisollivier.com/summer-daze",
-          "originalUrl": "/Users/rodrigo/Downloads/Francois OLLIVIER - Photographe - Summer daze_/Francois OLLIVIER - Photographe - Summer daze_3.webp",
           "source": "https://francoisollivier.com/summer-daze",
           "alt": "Fotografía de la serie Summer Daze.",
           "credit": "Fotografía François Ollivier.",
