@@ -1562,6 +1562,503 @@
               }
             }
           ]
+        },
+        {
+          "id": "pl-09-4",
+          "src": "assets/pl-09-4.jpg",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-09",
+          "credit": "Archivo aportado por Rodrigo; crédito de imagen pendiente.",
+          "caption": "PL 09: dos luminarias verticales en verde y naranja.",
+          "alt": "Dos luminarias altas translúcidas, una verde y una naranja, delante de una pared de ladrillo.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "La misma retícula puede sostener dos temperaturas de luz y color sin perder la familia formal.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meld-fishies",
+      "title": "Meld Fishies",
+      "referenceId": "laurids",
+      "role": "Diseño de mobiliario y objeto",
+      "source": "https://lauridsgallee.com/home/meld-fishies",
+      "credits": {
+        "creator": "Laurids Gallée",
+        "status": "Laurids Gallée (crédito de imagen pendiente)."
+      },
+      "operation": "Fundir figura animal, soporte y superficie útil para que la narración forme parte de la estructura.",
+      "application": "Para Szymon: explorar cuándo un gesto figurativo puede funcionar como apoyo, vacío o borde. Fotografiar la pieza completa, un recorte de la textura y una versión activada por una flor.",
+      "images": [
+        {
+          "id": "meld-fishies-1",
+          "src": "assets/meld-fishies-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies: mesa sostenida por peces y flor roja.",
+          "alt": "Mesa pequeña formada por figuras de peces verdes con una flor roja.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La función aparece dentro de una figura narrativa; el objeto útil no borra su carácter escultórico.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "meld-fishies-2",
+          "src": "assets/meld-fishies-2.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies: detalle lateral de una figura de pez.",
+          "alt": "Detalle de un soporte con forma de pez y pátina verde.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "El recorte permite leer textura y silueta sin explicar toda la pieza.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "meld-fishies-3",
+          "src": "assets/meld-fishies-3.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies: plataforma circular y cuerpos de pez.",
+          "alt": "Detalle de una mesa circular sobre figuras de peces verdes.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La superficie funcional queda atravesada por la anatomía imaginada.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "meld-fishies-4",
+          "src": "assets/meld-fishies-4.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies: flor aislada frente al conjunto.",
+          "alt": "Mesa escultórica de peces verdes con una flor roja vertical.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "Un único elemento vegetal activa la escala y el humor de la composición.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "meld-fishies-5",
+          "src": "assets/meld-fishies-5.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies: pieza completa sobre fondo neutro.",
+          "alt": "Mesa escultórica de peces verdes sobre fondo blanco.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "El vacío alrededor permite que la figura y la función se lean como una sola forma.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "meld-fishies-6",
+          "src": "assets/meld-fishies-6.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/meld-fishies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Meld Fishies en una escena verde.",
+          "alt": "Mesa escultórica de peces verdes en un interior verde.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "Cambiar el contexto desplaza la pieza de objeto de estudio a personaje espacial.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-02",
+      "title": "PL 02",
+      "referenceId": "laurids",
+      "role": "Diseño de iluminación",
+      "source": "https://lauridsgallee.com/home/pl-02",
+      "credits": {
+        "creator": "Laurids Gallée",
+        "status": "Laurids Gallée (crédito de imagen pendiente)."
+      },
+      "operation": "Hacer que una retícula vertical condense luz, color y volumen; alternar la columna completa con base y remate.",
+      "application": "Para Szymon: documentar luminarias en tres distancias —cuerpo, borde, instalación— para que efecto lumínico y construcción aparezcan juntos.",
+      "images": [
+        {
+          "id": "pl-02-1",
+          "src": "assets/pl-02-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-02",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "PL 02: detalle inferior de la luminaria azul.",
+          "alt": "Detalle de la base azul de una luminaria vertical translúcida.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La base concentra el cambio de densidad y hace visible el espesor del material.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-02-2",
+          "src": "assets/pl-02-2.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-02",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "PL 02: luminaria encendida con cable visible.",
+          "alt": "Luminaria vertical azul encendida ante una pared de ladrillo.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La instalación no se oculta: cable, fuente y pared sitúan el objeto en uso.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-02-3",
+          "src": "assets/pl-02-3.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-02",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "PL 02: remate superior.",
+          "alt": "Detalle superior de una luminaria azul translúcida.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "Acercarse al borde revela cómo la retícula cambia de figura.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "pl-02-4",
+          "src": "assets/pl-02-4.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/pl-02",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "PL 02: luminaria completa.",
+          "alt": "Luminaria vertical azul translúcida encendida.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "La columna se lee a la vez como luz, color y volumen.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "axis",
+      "title": "Axis",
+      "referenceId": "laurids",
+      "role": "Diseño de vidrio",
+      "source": "https://lauridsgallee.com/home/axis",
+      "credits": {
+        "creator": "Laurids Gallée",
+        "status": "Laurids Gallée × Moser (crédito de imagen pendiente)."
+      },
+      "operation": "Usar retícula, transparencia y curvatura como una misma gramática, mostrando tanto objeto terminado como proceso.",
+      "application": "Para Szymon: construir una secuencia que vaya de taller a detalle y conjunto. La fabricación puede sostener la lectura de la pieza sin convertirse en making-of ornamental.",
+      "images": [
+        {
+          "id": "axis-1",
+          "src": "assets/axis-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: trabajo de una pieza translúcida roja.",
+          "alt": "Manos trabajando una pieza roja translúcida en un taller.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La secuencia incorpora fabricación: la materia también comunica su proceso.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-2",
+          "src": "assets/axis-2.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: volumen naranja sobre fondo blanco.",
+          "alt": "Objeto rectangular naranja translúcido sobre fondo blanco.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La cuadrícula ordena la deformación y convierte la transparencia en profundidad.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-3",
+          "src": "assets/axis-3.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: unión de módulos naranjas.",
+          "alt": "Detalle abstracto de paneles naranjas translúcidos unidos.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "El encuentro entre piezas sostiene la ilusión de una superficie continua.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-4",
+          "src": "assets/axis-4.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: vasos y base reticulada.",
+          "alt": "Dos vasos naranjas sobre una base cuadrada translúcida.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "La repetición pasa de estructura a ornamento sin perder legibilidad.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-5",
+          "src": "assets/axis-5.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: conjunto de recipientes.",
+          "alt": "Recipientes naranjas translúcidos sobre fondo blanco.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "Variar escala y tipología permite que un mismo vocabulario se vuelva sistema.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-6",
+          "src": "assets/axis-6.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: detalle de borde curvo y retícula.",
+          "alt": "Detalle de un objeto naranja translúcido con retícula y borde curvo.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "La curvatura interrumpe la cuadrícula y hace visible el espesor.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-7",
+          "src": "assets/axis-7.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: familia de objetos en una sola escena.",
+          "alt": "Conjunto de recipientes naranjas y rojizos translúcidos.",
+          "annotations": [
+            {
+              "number": "07",
+              "text": "La agrupación presenta una gramática de formas, no piezas aisladas.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-8",
+          "src": "assets/axis-8.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: detalle de base modular.",
+          "alt": "Detalle de base modular roja translúcida.",
+          "annotations": [
+            {
+              "number": "08",
+              "text": "La luz viaja por las juntas y multiplica el rojo.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "axis-9",
+          "src": "assets/axis-9.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/axis",
+          "credit": "Laurids Gallée × Moser (crédito de imagen pendiente).",
+          "caption": "Axis: proceso en taller.",
+          "alt": "Persona trabajando un recipiente translúcido en un taller.",
+          "annotations": [
+            {
+              "number": "09",
+              "text": "Mostrar la mano y la máquina ancla la apariencia pulida en una práctica material.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "morph-horsies",
+      "title": "Morph Horsies",
+      "referenceId": "laurids",
+      "role": "Diseño de mobiliario y objeto",
+      "source": "https://lauridsgallee.com/home/morph-horsies",
+      "credits": {
+        "creator": "Laurids Gallée",
+        "status": "Laurids Gallée (crédito de imagen pendiente)."
+      },
+      "operation": "Transformar la figura animal en volumen blando, apoyo y superficie; la utilidad se vuelve ambigua sin desaparecer.",
+      "application": "Para Szymon: ensayar objetos donde el soporte tenga carácter propio. Probar una imagen blanca de estudio y otra contextual para medir cuánto necesita la forma del entorno.",
+      "images": [
+        {
+          "id": "morph-horsies-1",
+          "src": "assets/morph-horsies-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/morph-horsies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Morph Horsies: mesa blanca de formas blandas.",
+          "alt": "Mesa blanca escultórica con formas animales suaves.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La silueta animal se mezcla con la función hasta que soporte y figura son inseparables.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "morph-horsies-2",
+          "src": "assets/morph-horsies-2.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/morph-horsies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Morph Horsies: pieza blanca con una flor mínima.",
+          "alt": "Mesa blanca escultórica con una pequeña flor de tallo verde.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La flor introduce una medida frágil frente a una masa deliberadamente blanda.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "morph-horsies-3",
+          "src": "assets/morph-horsies-3.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/morph-horsies",
+          "credit": "Laurids Gallée (crédito de imagen pendiente).",
+          "caption": "Morph Horsies en contexto expositivo.",
+          "alt": "Mesa blanca escultórica sobre una base verde en un interior.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "El contexto oscurecido vuelve más nítida la presencia casi fantasmática de la pieza.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
         }
       ]
     },
