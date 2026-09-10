@@ -31,11 +31,13 @@
 .project-tile:not(:hover):not(:focus-within) .front-image{opacity:1;transition:opacity .14s ease,transform .25s ease}
 .project-tile:hover .card-meta,.project-tile:focus-within .card-meta{opacity:1}
 .card-meta{bottom:10px}
-.favorite-button{position:absolute;top:44px;left:6px;z-index:8;padding:0;font-size:12px;line-height:1.2;opacity:0;transition:opacity .18s ease;text-decoration:underline;text-underline-offset:3px}
+.favorite-button{position:absolute;top:44px;left:6px;z-index:8;width:17px;height:17px;padding:0;display:grid;place-items:center;color:#111;opacity:0;transition:opacity .18s ease}
+.favorite-button svg{display:block;width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round}
+.favorite-button[aria-pressed=true] svg{fill:currentColor}
 .project-tile:hover .favorite-button,.project-tile:focus-within .favorite-button{opacity:1}
 .favorite-button[aria-pressed=true]{font-weight:400}
 @media(hover:none){.favorite-button{opacity:1}}
-@media(max-width:700px){.project-card{min-height:300px;padding-top:34px;padding-bottom:86px}.project-card:nth-child(n) .image-stack{width:118px;height:118px;aspect-ratio:1}.favorite-button{opacity:1;left:-6px}.card-meta{bottom:10px}}
+@media(max-width:700px){.project-card{min-height:260px;padding-top:34px;padding-bottom:70px}.project-card:nth-child(n) .image-stack{width:118px;height:118px;aspect-ratio:1}.favorite-button{top:35px;left:-6px;opacity:1}.card-meta{bottom:10px}}
 @media(max-width:360px){.project-card:nth-child(n) .image-stack{width:94px;height:94px}.project-card{min-height:292px}}
 
 /* Las llamadas editoriales quedan en el pie; no se superponen a las fotografías. */
