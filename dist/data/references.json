@@ -632,9 +632,81 @@
       "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración."
     },
     {
+      "id": "bungenas-arrangements",
+      "title": "Bungenäs Arrangements",
+      "referenceId": "kleiner",
+      "role": "Dirección de arte y arreglo floral",
+      "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
+      "credits": {
+        "creator": "Studio Kleiner / Kleiner space",
+        "status": "Studio Kleiner / Kleiner space (crédito de imagen pendiente)."
+      },
+      "operation": "El jarrón se convierte en mecanismo de sostén: una sola flor, tensión, contrapeso y sujeción visible.",
+      "application": "Para los nuevos jarrones de Szymon: ensayar una flor por imagen y usar altura, torsión, herrajes o soportes como parte del relato. No buscar ramo decorativo: tratar cada tallo como una escultura que prueba el recipiente.",
+      "images": [
+        {
+          "id": "bungenas-arrangements-1",
+          "src": "assets/bungenas-arrangements-1.webp",
+          "originalUrl": null,
+          "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
+          "credit": "Studio Kleiner / Kleiner space (crédito de imagen pendiente).",
+          "caption": "Bungenäs: una flor sostenida por un tallo torcido y una base orgánica.",
+          "alt": "Arreglo floral escultórico con flor rosa, tallo curvado y base de aspecto orgánico.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Una sola flor activa la tensión entre fragilidad, soporte y vacío.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "bungenas-arrangements-2",
+          "src": "assets/bungenas-arrangements-2.webp",
+          "originalUrl": null,
+          "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
+          "credit": "Studio Kleiner / Kleiner space (crédito de imagen pendiente).",
+          "caption": "Bungenäs: tallos, cinta y flores sobre fondo violeta.",
+          "alt": "Arreglo floral vertical de tallos verdes con flores púrpuras sobre fondo violeta.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "Los puntos de sujeción permanecen visibles: el arreglo se lee como construcción.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "bungenas-arrangements-3",
+          "src": "assets/bungenas-arrangements-3.webp",
+          "originalUrl": null,
+          "source": "https://www.studiokleiner.com/kleiner-space/bungenas-arrangements",
+          "credit": "Studio Kleiner / Kleiner space (crédito de imagen pendiente).",
+          "caption": "Bungenäs: flores sujetas a una piedra.",
+          "alt": "Arreglo floral con flores rosadas y violetas sujetas a una piedra vertical.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La base áspera y las fijaciones convierten el florero en mecanismo de sostén.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "plisse-block",
       "title": "Plissè Block",
-      "source": "https://yatzer.com/luca-ricci-plisse-block-milan",
+      "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
       "credits": {
         "design": "Luca Ricci",
         "commission": "Fivefourfive",
@@ -686,6 +758,82 @@
               }
             }
           ]
+        },
+        {
+          "id": "plisse-block-3",
+          "src": "assets/plisse-block-3.webp",
+          "originalUrl": null,
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
+          "credit": "Yatzer (fuente); crédito de imagen pendiente",
+          "caption": "Plissè Block en un interior, con tapizado rojo.",
+          "alt": "Interior con sofá rojo encajado en una estructura de vidrio estriado.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La superficie plisada cambia de escala: actúa a la vez como mueble, filtro y textura arquitectónica.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "plisse-block-4",
+          "src": "assets/plisse-block-4.webp",
+          "originalUrl": null,
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
+          "credit": "Yatzer (fuente); crédito de imagen pendiente",
+          "caption": "Butaca roja filtrada por el bloque acanalado.",
+          "alt": "Butaca roja vista a través de un panel de vidrio estriado.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "El contenido no se pierde; se vuelve banda, vibración y medida de la transparencia.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "plisse-block-5",
+          "src": "assets/plisse-block-5.webp",
+          "originalUrl": null,
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
+          "credit": "Yatzer (fuente); crédito de imagen pendiente",
+          "caption": "Encuentro de esquina, pliegue y tapizado.",
+          "alt": "Detalle de esquina de vidrio acanalado con tapizado rojo detrás.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "El detalle hace visible la repetición modular y las juntas.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "plisse-block-6",
+          "src": "assets/plisse-block-6.webp",
+          "originalUrl": null,
+          "source": "https://yatzer.com/luca-ricci-plisse-block-milan?utm_source=chatgpt.com",
+          "credit": "Yatzer (fuente); crédito de imagen pendiente",
+          "caption": "Tapizado rojo a través de la estructura.",
+          "alt": "Detalle de tapizado rojo tras una estructura de vidrio estriado.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "El color se propaga por el material sin convertirse en imagen plana.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
         }
       ],
       "observations": [
@@ -695,7 +843,7 @@
       "referenceId": "luca",
       "role": "Diseño de mobiliario",
       "operation": "Mostrar y ocultar a la vez. El vidrio estriado fragmenta el color de lo que contiene y convierte el interior en parte de la superficie.",
-      "application": "Estudiar qué se ve a través de una pieza de Szymon: otro objeto, un color o una figura. La distorsión podría convertirse en el tema de la imagen."
+      "application": "Para Szymon: ensayar imágenes con un objeto contenido o detrás de resina y piezas traslúcidas; no solo mostrar transparencia sino su capacidad de comprimir, estriar y alterar la escena."
     },
     {
       "id": "gst-sidetable",
@@ -759,6 +907,465 @@
               "position": {
                 "x": 0.3,
                 "y": 0.58
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvb",
+      "title": "LVB",
+      "referenceId": "niko",
+      "role": "Diseño de mobiliario",
+      "source": "https://www.nikokoronis.com/works/p/lvb",
+      "credits": {
+        "creator": "Studio Niko Koronis",
+        "status": "Studio Niko Koronis (crédito de imagen pendiente)."
+      },
+      "operation": "Construir una superficie larga a partir de una retícula de planos translúcidos y perfiles oscuros; alternar vista total, escala humana y detalle de intersecciones.",
+      "application": "Para Szymon: tratar una mesa de resina como sistema estructural y no solo bloque. Documentar conjunto, punto de fuga, paso de una persona y uniones para que la utilidad y el material se expliquen juntos.",
+      "images": [
+        {
+          "id": "lvb-1",
+          "src": "assets/lvb-1.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB: longitud y secuencia de apoyos.",
+          "alt": "Mesa larga de planos translúcidos violetas y perfiles oscuros, vista frontal.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La repetición de planos vuelve la estructura legible sin hacerla pesada.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lvb-2",
+          "src": "assets/lvb-2.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB: vista axial de la mesa.",
+          "alt": "Mesa translúcida vista desde uno de sus extremos.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "El punto de fuga revela el orden del conjunto.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lvb-3",
+          "src": "assets/lvb-3.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB con figura en movimiento.",
+          "alt": "Mesa de planos translúcidos con una figura desenfocada al fondo.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La figura mide escala y vuelve visible el uso sin fijar la escena.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lvb-4",
+          "src": "assets/lvb-4.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB en perspectiva.",
+          "alt": "Mesa larga formada por paneles violetas translúcidos, vista oblicua.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "La retícula funciona como estructura y como filtro óptico.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lvb-5",
+          "src": "assets/lvb-5.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB: detalle de estructura y transparencia.",
+          "alt": "Detalle bajo el tablero con planos violetas transparentes y perfiles oscuros.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "El borde oscuro delimita el volumen traslúcido.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lvb-6",
+          "src": "assets/lvb-6.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lvb",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LVB: encuentro entre planos y perfil.",
+          "alt": "Detalle de tablero y apoyos de una mesa translúcida.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "Las intersecciones explican la construcción sin ocultarla.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bkl",
+      "title": "BKL",
+      "referenceId": "niko",
+      "role": "Diseño de mobiliario",
+      "source": "https://www.nikokoronis.com/",
+      "credits": {
+        "creator": "Studio Niko Koronis",
+        "status": "Studio Niko Koronis (archivo aportado; página específica pendiente)."
+      },
+      "operation": "Presentar una mesa baja por proyección, perfil y escala humana para que la silueta y la sombra sostengan la lectura.",
+      "application": "Para Szymon: registrar una pieza baja desde arriba, de canto y junto a una figura en movimiento. Cambiar de altura de cámara antes que añadir accesorios.",
+      "images": [
+        {
+          "id": "bkl-1",
+          "src": "assets/bkl-1.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/",
+          "credit": "Studio Niko Koronis (archivo aportado; página específica pendiente).",
+          "caption": "BKL: mesa azul, vista superior.",
+          "alt": "Mesa baja circular azul vista desde arriba.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La sombra de la base aparece dentro del plano y da profundidad a la superficie.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "bkl-2",
+          "src": "assets/bkl-2.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/",
+          "credit": "Studio Niko Koronis (archivo aportado; página específica pendiente).",
+          "caption": "BKL: perfil de mesa azul.",
+          "alt": "Mesa baja circular azul sobre un suelo gris.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "Una forma simple cambia por espesor y sombra.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "bkl-3",
+          "src": "assets/bkl-3.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/",
+          "credit": "Studio Niko Koronis (archivo aportado; página específica pendiente).",
+          "caption": "BKL: mesa azul y figura desenfocada.",
+          "alt": "Mesa baja circular azul junto a una figura desenfocada.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "La figura mide altura y mantiene el objeto como protagonista.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkm",
+      "title": "LKM",
+      "referenceId": "niko",
+      "role": "Diseño de mobiliario",
+      "source": "https://www.nikokoronis.com/works/p/lkm",
+      "credits": {
+        "creator": "Studio Niko Koronis",
+        "status": "Studio Niko Koronis (crédito de imagen pendiente)."
+      },
+      "operation": "Reducir la pieza a volumen, recorte y sombra; el hueco lateral es tan activo como la masa.",
+      "application": "Para Szymon: fotografiar piezas pequeñas en secuencia de masa, recorte y detalle. Usar luz lateral para que la sombra explique vacíos y espesor, sin convertirlo en render.",
+      "images": [
+        {
+          "id": "lkm-1",
+          "src": "assets/lkm-1.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lkm",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LKM: volumen completo y sombra proyectada.",
+          "alt": "Mesa auxiliar geométrica en tonos rosados con sombra larga.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El hueco lateral tiene tanto peso visual como la masa.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lkm-2",
+          "src": "assets/lkm-2.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lkm",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LKM: dos volúmenes ensamblados.",
+          "alt": "Mesa auxiliar geométrica formada por dos cuerpos de tonos rosados.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La pieza se entiende por la relación entre sus bloques y vacíos.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lkm-3",
+          "src": "assets/lkm-3.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lkm",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LKM: cambio de ángulo sobre la misma geometría.",
+          "alt": "Mesa auxiliar geométrica vista en ángulo alto.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "Cambiar la cámara hace aparecer una nueva secuencia de planos.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "lkm-4",
+          "src": "assets/lkm-4.jpg",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/lkm",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "LKM: recorte de masa y abertura.",
+          "alt": "Detalle de la abertura entre dos volúmenes de una mesa auxiliar.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "El detalle aísla el espesor y el vacío.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rgd",
+      "title": "RGD",
+      "referenceId": "niko",
+      "role": "Diseño de mobiliario",
+      "source": "https://www.nikokoronis.com/works/p/rgd",
+      "credits": {
+        "creator": "Studio Niko Koronis",
+        "status": "Studio Niko Koronis (crédito de imagen pendiente)."
+      },
+      "operation": "Componer una mesa de gran escala con ritmos de planos azulados y contraponer vista entera, detalle, simetría y figura movida.",
+      "application": "Para Szymon: hacer que la mesa larga se lea por dos escalas: estructura completa para función y detalles de capas para materia. Usar una figura desplazada solo como medida, no como narrativa.",
+      "images": [
+        {
+          "id": "rgd-1",
+          "src": "assets/rgd-1.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: mesa de comedor y figura desenfocada.",
+          "alt": "Mesa larga de vidrio con apoyos azules y figura desenfocada.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La figura mide escala sin competir con el ritmo de los apoyos.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-2",
+          "src": "assets/rgd-2.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: vista superior de las capas estructurales.",
+          "alt": "Detalle superior de una mesa de vidrio y sus apoyos escalonados.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La vista cenital hace visible la secuencia de planos.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-3",
+          "src": "assets/rgd-3.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: detalle vertical de apoyos azulados.",
+          "alt": "Detalle de paneles verticales azules translúcidos.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "Las capas cambian de densidad según se superponen.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-4",
+          "src": "assets/rgd-4.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: detalle de extremo y perfiles.",
+          "alt": "Detalle de un apoyo azul translúcido bajo un tablero de vidrio.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "El borde oscuro contiene las variaciones de transparencia.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-5",
+          "src": "assets/rgd-5.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: vista frontal simétrica.",
+          "alt": "Mesa de vidrio vista frontalmente con apoyos azules a ambos lados.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "Dos agrupaciones de planos sostienen una superficie casi invisible.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-6",
+          "src": "assets/rgd-6.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: mesa completa en perspectiva.",
+          "alt": "Mesa larga de vidrio y apoyos azules, vista oblicua.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "La estructura completa permite leer la función antes de acercarse a la materia.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-7",
+          "src": "assets/rgd-7.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: gradiente azul en los planos de apoyo.",
+          "alt": "Detalle de paneles de vidrio azul en varios tonos.",
+          "annotations": [
+            {
+              "number": "07",
+              "text": "La gradación cromática revela la acumulación de capas.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "rgd-8",
+          "src": "assets/rgd-8.webp",
+          "originalUrl": null,
+          "source": "https://www.nikokoronis.com/works/p/rgd",
+          "credit": "Studio Niko Koronis (crédito de imagen pendiente).",
+          "caption": "RGD: mesa en frontal amplio.",
+          "alt": "Mesa larga de vidrio vista de frente con apoyos azules.",
+          "annotations": [
+            {
+              "number": "08",
+              "text": "La simetría deja que los apoyos formen un ritmo de color bajo la superficie.",
+              "position": {
+                "x": 0.52,
+                "y": 0.52
               }
             }
           ]
