@@ -18,7 +18,7 @@
       "id": "mathijs",
       "name": "Mathijs Labadie",
       "role": "Fotografía",
-      "fixedNote": "Fotógrafo recurrente de Sabine Marcelis. Lecturas cruzadas: Stacked Series, Honing Passage, Perfume Table, GST Sidetable de Niko Koronis y Metropolis Sidetable de Laurids Gallée."
+      "fixedNote": "Fotógrafo recurrente de Sabine Marcelis. Lecturas cruzadas: Stacked Series, Honing Passage, Perfume Table, GST Sidetable de Niko Koronis, Metropolis Sidetable y Pool Light 01 de Laurids Gallée, e Invisible Vases de Chris Kabel."
     },
     {
       "id": "scheltens",
@@ -199,6 +199,82 @@
               }
             }
           ]
+        },
+        {
+          "id": "stacked-series-new-1",
+          "src": "assets/stacked-series-sup-1.webp",
+          "originalUrl": null,
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Conjunto de piezas Stacked en el estudio.",
+          "alt": "Conjunto de piezas Stacked en el estudio.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Los vacíos entre bloques también forman parte de la composición.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-new-2",
+          "src": "assets/stacked-series-sup-2.webp",
+          "originalUrl": null,
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Dos mesas Stacked: piedra y resina ahumada.",
+          "alt": "Dos mesas Stacked: piedra y resina ahumada.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El desfase entre capas vuelve el borde un lugar de lectura material.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-new-3",
+          "src": "assets/stacked-series-sup-3.webp",
+          "originalUrl": null,
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Detalle azul grisáceo de resina y piedra.",
+          "alt": "Detalle azul grisáceo de resina y piedra.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Acercarse al contacto describe el material sin reducirlo a una muestra plana.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "stacked-series-new-4",
+          "src": "assets/stacked-series-sup-4.webp",
+          "originalUrl": null,
+          "source": "https://sabinemarcelis.com/projects/stacked-series",
+          "credit": "Pim Top y Mathijs Labadie (crédito de la serie; atribución individual pendiente)",
+          "caption": "Detalle ámbar de resina sobre piedra.",
+          "alt": "Detalle ámbar de resina sobre piedra.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La resina altera el tono del soporte y hace de la luz una variable de la pieza.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
         }
       ]
     },
@@ -264,6 +340,44 @@
               "position": {
                 "x": 0.6,
                 "y": 0.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "honing-passage-new-1",
+          "src": "assets/honing-passage-sup-1.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Paneles de color y reflejo en Honing Passage.",
+          "alt": "Paneles de color y reflejo en Honing Passage.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El ángulo mezcla paisaje reflejado y paisaje filtrado.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "honing-passage-new-2",
+          "src": "assets/honing-passage-sup-2.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
+          "credit": "Mathijs Labadie · Diseño: Studio Sabine Marcelis",
+          "caption": "Luz directa sobre los paneles de Honing Passage.",
+          "alt": "Luz directa sobre los paneles de Honing Passage.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La misma superficie cambia con el sol; registrar ese cambio puede ser parte de la secuencia.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
               }
             }
           ]
@@ -346,6 +460,44 @@
               "position": {
                 "x": 0.46,
                 "y": 0.43
+              }
+            }
+          ]
+        },
+        {
+          "id": "hot-stuff-new-1",
+          "src": "assets/hot-stuff-sup-1.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Lana roja atravesada por luz en Hot Stuff.",
+          "alt": "Lana roja atravesada por luz en Hot Stuff.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La textura amplía la percepción de temperatura de la lámpara.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hot-stuff-new-2",
+          "src": "assets/hot-stuff-sup-2.jpeg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-gentlewoman-hot-stuff",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Fuente de calor roja en Hot Stuff.",
+          "alt": "Fuente de calor roja en Hot Stuff.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Mostrar mecanismo luminoso y traducción táctil abre una vía de post-catálogo experimental.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
               }
             }
           ]
@@ -697,6 +849,44 @@
               }
             }
           ]
+        },
+        {
+          "id": "metropolis-sidetable-new-1",
+          "src": "assets/metropolis-sidetable-mathijs-1.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Metropolis circular activada por libro, flor y vaso.",
+          "alt": "Metropolis circular activada por libro, flor y vaso.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Los accesorios permiten medir escala, uso y convivencia material.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "metropolis-sidetable-new-2",
+          "src": "assets/metropolis-sidetable-mathijs-2.webp",
+          "originalUrl": null,
+          "source": "https://lauridsgallee.com/home/metropolis-sidetable",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Vista inferior de Metropolis circular con objetos de trabajo.",
+          "alt": "Vista inferior de Metropolis circular con objetos de trabajo.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Mirar desde debajo convierte el objeto-catálog​o en una situación de trabajo.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
         }
       ]
     },
@@ -830,6 +1020,718 @@
               "position": {
                 "x": 0.45,
                 "y": 0.64
+              }
+            }
+          ]
+        },
+        {
+          "id": "pool-light-01-new-1",
+          "src": "assets/pool-light-01-detail-1.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Detalle de Pool Light 01: capas azules y transparencia.",
+          "alt": "Detalle de Pool Light 01: capas azules y transparencia.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El encuadre cercano convierte la lámpara en capas, burbujas y refracciones.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "pool-light-01-new-2",
+          "src": "assets/pool-light-01-detail-2.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/pool-light-01-laurids-galle/",
+          "credit": "Mathijs Labadie · Diseño: Laurids Gallée",
+          "caption": "Detalle de Pool Light 01: luz azul a través del volumen.",
+          "alt": "Detalle de Pool Light 01: luz azul a través del volumen.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Cambiar el punto de vista altera la continuidad de los tubos.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invisible-vases",
+      "title": "Invisible Vases",
+      "referenceId": "mathijs",
+      "role": "Fotografía",
+      "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+      "operation": "Hacer que el contenedor retroceda y que el agua, los tallos y el vacío construyan el bodegón.",
+      "application": "Para jarrones de Szymon: alternar la presencia del objeto con su capacidad de ordenar flores, huecos y alturas. Fotografiar el conjunto como una constelación, no como una fila de producto.",
+      "images": [
+        {
+          "id": "invisible-vases-1",
+          "src": "assets/invisible-vases-1.webp",
+          "originalUrl": null,
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Conjunto de Invisible Vases con flores y estructuras finas.",
+          "alt": "Conjunto de Invisible Vases con flores y estructuras finas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La casi desaparición del recipiente hace visibles tallos, alturas y espacio entre piezas.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sabine-extralight",
+      "title": "Sabine Marcelis × Extralight",
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+      "operation": "Repetir un encuadre con objeto vacío, ocupado y desdoblado para que la función aparezca por comparación.",
+      "application": "Para Szymon: fotografiar una misma pieza vacía, activada y con una huella fantasma. La serie muestra qué cambia cuando el contenido entra en la forma.",
+      "images": [
+        {
+          "id": "sabine-extralight-1",
+          "src": "assets/sabine-extralight-1.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Macetero violeta con planta y reflejo.",
+          "alt": "Macetero violeta con planta y reflejo.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La planta activa el hueco; el espejo duplica el volumen.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "sabine-extralight-2",
+          "src": "assets/sabine-extralight-2.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Bandeja violeta en un interior tonal.",
+          "alt": "Bandeja violeta en un interior tonal.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El borde se lee por sombra y espesor.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "sabine-extralight-3",
+          "src": "assets/sabine-extralight-3.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Macetero violeta vacío con drenaje visible.",
+          "alt": "Macetero violeta vacío con drenaje visible.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El vacío deja ver la lógica de uso que la toma con planta oculta.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "sabine-extralight-4",
+          "src": "assets/sabine-extralight-4.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Bandeja clara en un espacio monocromo.",
+          "alt": "Bandeja clara en un espacio monocromo.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Reducir contraste desplaza atención hacia contorno, unión y sombra.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "sabine-extralight-5",
+          "src": "assets/sabine-extralight-5.jpg",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/sabine-marcelis",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Macetero claro en una superposición de estados.",
+          "alt": "Macetero claro en una superposición de estados.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La superposición condensa uso y forma en una lectura temporal.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hermes-colour-library",
+      "title": "Hermès Colour Library",
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+      "operation": "Convertir el archivo de muestras en imagen: ordenar, superponer, girar y dejar visibles las notas del proceso.",
+      "application": "Para Szymon: construir un archivo de pigmentos, espesores y transparencias como materia editorial. Que receta y descartes tengan lugar, sin volverlos paleta decorativa.",
+      "images": [
+        {
+          "id": "hermes-colour-library-1",
+          "src": "assets/hermes-colour-library-1.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Muestras violetas y amarillas en abanico.",
+          "alt": "Muestras violetas y amarillas en abanico.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La gradación se entiende por proximidad y superposición.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-2",
+          "src": "assets/hermes-colour-library-2.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Muestras azul-verdes desplegadas.",
+          "alt": "Muestras azul-verdes desplegadas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El abanico vuelve movimiento una familia cromática.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-3",
+          "src": "assets/hermes-colour-library-3.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Archivo naranja de muestras superpuestas.",
+          "alt": "Archivo naranja de muestras superpuestas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Transparencias y bordes repetidos muestran color como material y espesor.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-4",
+          "src": "assets/hermes-colour-library-4.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Secuencia de verdes a grises.",
+          "alt": "Secuencia de verdes a grises.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La organización escalonada convierte comparación técnica en composición.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-5",
+          "src": "assets/hermes-colour-library-5.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Muestras negras, rojas y amarillas en retícula.",
+          "alt": "Muestras negras, rojas y amarillas en retícula.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La retícula sostiene contrastes sin borrar las notas de proceso.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-6",
+          "src": "assets/hermes-colour-library-6.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Muestras pastel en abanico y columnas.",
+          "alt": "Muestras pastel en abanico y columnas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Archivo que combina gradación, geometría y rastros manuscritos.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "hermes-colour-library-7",
+          "src": "assets/hermes-colour-library-7.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Muestras de rosa a violeta en bloques.",
+          "alt": "Muestras de rosa a violeta en bloques.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La repetición da peso a desviaciones pequeñas entre tonos.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macguffin-1",
+      "title": "MacGuffin — The Ball",
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+      "operation": "Usar primer plano y corte editorial para que una esfera de vidrio pase de objeto a paisaje material y cromático.",
+      "application": "Para Szymon: probar cortes cercanos y dípticos que no expliquen la pieza de inmediato. Incluir burbujas, vetas y rayas como información material.",
+      "images": [
+        {
+          "id": "macguffin-1-1",
+          "src": "assets/macguffin-1-1.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Doble página de MacGuffin: esfera y diagrama.",
+          "alt": "Doble página de MacGuffin: esfera y diagrama.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Objeto y contexto editorial comparten página sin ficha de producto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "macguffin-1-2",
+          "src": "assets/macguffin-1-2.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Doble página de MacGuffin: dos esferas en gran escala.",
+          "alt": "Doble página de MacGuffin: dos esferas en gran escala.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El pliegue divide, pero la escala mantiene la respuesta entre mitades.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "macguffin-1-3",
+          "src": "assets/macguffin-1-3.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Díptico de esferas de vidrio azul y ámbar.",
+          "alt": "Díptico de esferas de vidrio azul y ámbar.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La unión vertical fuerza comparación entre colores y transparencias.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "macguffin-1-4",
+          "src": "assets/macguffin-1-4.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Díptico de esferas amarillas y ámbar.",
+          "alt": "Díptico de esferas amarillas y ámbar.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Burbujas y bordes internos dan escala a un objeto abstracto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "macguffin-1-5",
+          "src": "assets/macguffin-1-5.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Díptico de esfera azul y rojiza.",
+          "alt": "Díptico de esfera azul y rojiza.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Una veta de color funciona como línea de composición.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "macguffin-1-6",
+          "src": "assets/macguffin-1-6.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Díptico de esferas amarilla y verde.",
+          "alt": "Díptico de esferas amarilla y verde.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La comparación enseña cómo una forma reacciona a campos cromáticos.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bouquet-series",
+      "title": "Bouquet Series",
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+      "operation": "Tratar el bodegón como montaje: dejar visibles plano, sombra, hilo y artificio para que la imagen piense su construcción.",
+      "application": "Para Szymon: trabajar jarrones y lámparas como escena post-catálogo. Tomar la lógica de recorte, escenografía y equilibrio, no la estética barroca de los motivos.",
+      "images": [
+        {
+          "id": "bouquet-series-1",
+          "src": "assets/bouquet-series-1.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Flores y mariposas en una escena blanca.",
+          "alt": "Flores y mariposas en una escena blanca.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Soportes y sombras sostienen una ilusión que no pretende ocultar su artificio.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-2",
+          "src": "assets/bouquet-series-2.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Bodegón oscuro de vaso, plata y fruta.",
+          "alt": "Bodegón oscuro de vaso, plata y fruta.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Los reflejos separan escalas y superficies heterogéneas.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-3",
+          "src": "assets/bouquet-series-3.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Colección de recipientes sobre fondo negro.",
+          "alt": "Colección de recipientes sobre fondo negro.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La acumulación convierte objetos de procedencias distintas en una silueta común.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-4",
+          "src": "assets/bouquet-series-4.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Ramo de tulipanes recortados sobre fondo negro.",
+          "alt": "Ramo de tulipanes recortados sobre fondo negro.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Tallos y planos hacen del ramo una estructura por capas.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-5",
+          "src": "assets/bouquet-series-5.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Hojas y sombras sobre paneles blancos.",
+          "alt": "Hojas y sombras sobre paneles blancos.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La sombra funciona como segundo dibujo y desplaza el objeto.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-6",
+          "src": "assets/bouquet-series-6.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Bodegón floral con mariposas sobre mesa oscura.",
+          "alt": "Bodegón floral con mariposas sobre mesa oscura.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El borde de mesa extiende el bodegón más allá del recipiente.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-7",
+          "src": "assets/bouquet-series-7.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Frutas y hortalizas en una caja de cartón.",
+          "alt": "Frutas y hortalizas en una caja de cartón.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La caja actúa como teatro de escala y vuelve activo al fondo.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-8",
+          "src": "assets/bouquet-series-8.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Acumulación de flores, fruta y objetos.",
+          "alt": "Acumulación de flores, fruta y objetos.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La abundancia se ordena por diagonales y vacíos; referencia de composición, no de estilo.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bouquet-series-9",
+          "src": "assets/bouquet-series-9.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Ramo denso de flores y frutas sobre fondo negro.",
+          "alt": "Ramo denso de flores y frutas sobre fondo negro.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El recipiente queda absorbido en una convivencia de flor, fruto y color.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-plant",
+      "title": "The Plant / Journal Shakes, 2012",
+      "referenceId": "scheltens",
+      "role": "Fotografía",
+      "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+      "operation": "Descomponer un objeto mediante desplazamientos y repeticiones para volver visible el tiempo dentro de una imagen.",
+      "application": "Para Szymon: ensayar rotaciones o secciones de una pieza como registro de exploración. El objetivo es estudiar el objeto, no fingir perfección de catálogo.",
+      "images": [
+        {
+          "id": "the-plant-1",
+          "src": "assets/the-plant-1.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Frutas repetidas y desplazadas sobre fondo oscuro.",
+          "alt": "Frutas repetidas y desplazadas sobre fondo oscuro.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Cada posición deja rastro y convierte fruta en secuencia.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-plant-2",
+          "src": "assets/the-plant-2.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Coco, fruta y secciones repetidas.",
+          "alt": "Coco, fruta y secciones repetidas.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "La variación por capas conecta superficies y cortes.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-plant-3",
+          "src": "assets/the-plant-3.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Tomate, cítrico y hojas en desplazamiento.",
+          "alt": "Tomate, cítrico y hojas en desplazamiento.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "El gesto repetido crea ritmo y revela geometría interna.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-plant-4",
+          "src": "assets/the-plant-4.webp",
+          "originalUrl": null,
+          "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
+          "credit": "Scheltens & Abbenes (crédito de imagen pendiente)",
+          "caption": "Manzana, jengibre y zanahoria con repeticiones.",
+          "alt": "Manzana, jengibre y zanahoria con repeticiones.",
+          "annotations": [
+            {
+              "number": "01",
+              "text": "Objetos distintos comparten una regla y pasan a ser sistema.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
               }
             }
           ]

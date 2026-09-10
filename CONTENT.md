@@ -32,11 +32,21 @@ Estas notas son decisiones del usuario, no citas atribuidas a las fuentes. Las a
 - Perfume Table: solo se publica un montaje en la fuente autorizada; no se inventan fotografías individuales. Las láminas de su pila reutilizan esa misma fuente, y la ficha indica una imagen.
 - Studio Kleiner: conservar atribución de estudio; no inferir roles individuales. Garden Companions cita @linazedig, @juliankomosa, @evelinakleiner y Allan, sin desglose de roles.
 
-## Selección v2
-12 fichas / 8 referentes / 31 imágenes verificadas visualmente: Waves House; Stacked Series; Honing Passage; Perfume Table; The Gentlewoman, Hot Stuff; Postures Vases; Garden Companions; Plissè Block; GST Sidetable; Metropolis Sidetable; PL 09; Pool Light 01.
+## Selección v3
+18 fichas / 8 referentes / 75 imágenes: Waves House; Stacked Series; Honing Passage; Perfume Table; The Gentlewoman, Hot Stuff; Postures Vases; Garden Companions; Plissè Block; GST Sidetable; Metropolis Sidetable; PL 09; Pool Light 01; Invisible Vases; Sabine Marcelis × Extralight; Hermès Colour Library; MacGuffin — The Ball; Bouquet Series; The Plant / Journal Shakes, 2012.
 Se priorizan fotografías de páginas oficiales de proyectos; Yatzer se utiliza para Luca Ricci y Marina por ser las fuentes facilitadas. Se conservan originales locales y URLs de procedencia. No se generan imágenes. Plissè Block incluye un render claramente identificado y una fotografía de Nicolò Panzeri.
 Metropolis: Labadie publica una geometría circular y Gallée una rectilínea bajo el mismo título. No se afirma que sean la misma pieza; la distinción aparece en el texto y los captions.
 Las anotaciones describen operaciones observadas. Las coordenadas se editan en los datos, relativas a la imagen, y no a su contenedor.
+
+## Ampliación autorizada — 10.09.2026
+Las imágenes nuevas llegan de archivos proporcionados por Rodrigo y de las páginas enlazadas: Mathijs Labadie (Invisible Vases, Pool Light 01, Metropolis, GST, Honing Passage), Sabine Marcelis (Stacked Series) y Scheltens & Abbenes (Sabine Marcelis, Hermès Colour Library, MacGuffin, Bouquet Series, The Plant y Hot Stuff).
+
+- GST Sidetable ya contaba con el mismo montaje; se mantiene como fuente y no se duplica visualmente.
+- Stacked Series incorpora grupo, mesa y detalles de unión: piedra/resina, masa/transmisión y borde como zona de lectura.
+- Honing Passage y Pool Light 01 amplían el estudio de luz filtrada, reflejo y refracción con cambio de distancia.
+- Metropolis circular queda marcado con crédito Mathijs Labadie y se mantiene separado de la versión rectilínea publicada por Laurids Gallée bajo el mismo título.
+- Invisible Vases propone contenedor casi ausente, tallos, agua y vacío como estructura de una composición de jarrones.
+- En Scheltens & Abbenes se incorporan seis series para estudiar archivo cromático, transparencia imperfecta, montaje de bodegón, doble página, desplazamiento y objeto vacío/ocupado. Se usan como método de investigación visual, no como estilo a copiar.
 
 ## Registro vivo 1–8
 1. Diagnóstico: reunión con Szymon; comparación material y comunicación de objetos. Audiencia inmediata: participantes de la reunión; público comercial pendiente.
@@ -52,6 +62,8 @@ Las anotaciones describen operaciones observadas. Las coordenadas se editan en l
 Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su autor y por Labadie; estudiar lo que la resina oculta en lugar de solo lo que transmite; tratar una serie de objetos como una secuencia de encuentros y ausencias. Ubicación: fichas enlazadas de Sabine, Mathijs, Niko y Laurids.
 
 ## Cambios
+- 10.09.2026, v3: incorporadas seis fichas y ampliadas cinco secuencias existentes con imágenes aportadas por Rodrigo. Se actualizan las lecturas cruzadas para que se agrupen automáticamente por autor. No cambian las reglas visuales ni las notas fijas. Los créditos individuales no publicados se mantienen como pendientes.
+- 10.09.2026, acceso: vista previa reactivada en http://127.0.0.1:4173/ y carga del índice verificada (12 fichas, sin imágenes fallidas). Primera versión guardada en Sites. La publicación falló por timeout al emitir el certificado TLS del dominio; no hay URL online confirmada. No se modifican reglas visuales ni contenido.
 - 10.09.2026: se reactiva el acceso tras detenerse la vista previa local y se prepara la primera publicación privada. Sin cambios editoriales ni visuales.
 - v1: arquitectura, notas fijas, límites de fuentes y registro inicial establecidos.
 - v2: autorización de Waves House; selección visual de 31 imágenes, captions y anotaciones; registro de créditos y de las dos geometrías de Metropolis. Se mantienen intactas las notas fijas.
