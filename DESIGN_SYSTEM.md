@@ -21,3 +21,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v9: las categorías se presentan en una columna, alineada con el margen de «Szymon Keller» y «Archivo de investigación», sin rótulo adicional. Al filtrar, la cuadrícula conserva las posiciones y numeración originales; las fichas no coincidentes dejan un hueco en vez de provocar reordenamiento.
 - v11: el control «Guardar» aparece bajo el número de ficha durante hover o foco.
 - v12: las pilas del índice usan miniaturas cuadradas. El hover abre el acordeón sin alterar el orden de las capas; tras 0,7 segundos, la portada se desvanece para revelar la imagen siguiente. Los metadatos se sitúan próximos a la pila.
+- v13: se ocultan los números superpuestos en las fotografías de las fichas. Se conservan los números de las anotaciones editoriales y los controles de navegación.

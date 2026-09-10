@@ -37,3 +37,6 @@
 @media(hover:none){.favorite-button{opacity:1}}
 @media(max-width:700px){.project-card{min-height:300px;padding-top:34px;padding-bottom:86px}.project-card:nth-child(n) .image-stack{width:118px;height:118px;aspect-ratio:1}.favorite-button{opacity:1;left:-6px}.card-meta{bottom:10px}}
 @media(max-width:360px){.project-card:nth-child(n) .image-stack{width:94px;height:94px}.project-card{min-height:292px}}
+
+/* Las llamadas editoriales quedan en el pie; no se superponen a las fotografías. */
+.photo-field .image-marker{display:none}
