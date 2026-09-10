@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "v7 · 10.09.2026",
+  "edition": "v8 · 10.09.2026",
   "references": [
     {
       "id": "marina",
@@ -180,7 +180,12 @@
       "referenceId": "marina",
       "role": "Fotografía",
       "operation": "Integrar distintas piezas sin igualar su presencia. Una imagen construye coexistencia; la siguiente concede un momento propio a un objeto.",
-      "application": "Partir del conjunto y acercarse por turnos a las piezas. Alternar vistas compartidas y momentos individuales para que cada objeto mantenga su carácter."
+      "application": "Partir del conjunto y acercarse por turnos a las piezas. Alternar vistas compartidas y momentos individuales para que cada objeto mantenga su carácter.",
+      "categories": [
+        "Iluminación",
+        "Bodegón",
+        "Proporción"
+      ]
     },
     {
       "id": "stacked-series",
@@ -324,6 +329,9 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Materialidad"
       ]
     },
     {
@@ -430,6 +438,11 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -460,6 +473,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Bodegón"
       ]
     },
     {
@@ -558,7 +575,10 @@
       "referenceId": "scheltens",
       "role": "Fotografía",
       "operation": "Desmontar la lectura habitual del objeto. Frontalidad, sombra y punto de vista convierten un utensilio en una presencia escultórica.",
-      "application": "Antes de fotografiar una pieza de Szymon, estudiar silueta, reverso, textura y modo de emitir luz. Tomar el método de investigación; no copiar la limpieza estética."
+      "application": "Antes de fotografiar una pieza de Szymon, estudiar silueta, reverso, textura y modo de emitir luz. Tomar el método de investigación; no copiar la limpieza estética.",
+      "categories": [
+        "Bodegón"
+      ]
     },
     {
       "id": "postures-vases",
@@ -617,7 +637,10 @@
       "referenceId": "kleiner",
       "role": "Fotografía y diseño",
       "operation": "Construir un equilibrio entre gesto orgánico y soporte geométrico. El vacío sostiene la tensión de la composición.",
-      "application": "Probar bodegones con los nuevos jarrones y lámparas de Szymon donde el equilibrio entre piezas sugiera una acción. Pensar en post-catálogo."
+      "application": "Probar bodegones con los nuevos jarrones y lámparas de Szymon donde el equilibrio entre piezas sugiera una acción. Pensar en post-catálogo.",
+      "categories": [
+        "Bodegón"
+      ]
     },
     {
       "id": "bodabana",
@@ -677,7 +700,10 @@
       "referenceId": "kleiner",
       "role": "Fotografía y escenografía",
       "operation": "Hacer del objeto un pequeño escenario. Materia artificial y elementos orgánicos provocan encuentros de escala y color.",
-      "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración."
+      "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración.",
+      "categories": [
+        "Bodegón"
+      ]
     },
     {
       "id": "bungenas-arrangements",
@@ -749,6 +775,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Exterior"
       ]
     },
     {
@@ -891,7 +921,11 @@
       "referenceId": "luca",
       "role": "Diseño de mobiliario",
       "operation": "Mostrar y ocultar a la vez. El vidrio estriado fragmenta el color de lo que contiene y convierte el interior en parte de la superficie.",
-      "application": "Para Szymon: ensayar imágenes con un objeto contenido o detrás de resina y piezas traslúcidas; no solo mostrar transparencia sino su capacidad de comprimir, estriar y alterar la escena."
+      "application": "Para Szymon: ensayar imágenes con un objeto contenido o detrás de resina y piezas traslúcidas; no solo mostrar transparencia sino su capacidad de comprimir, estriar y alterar la escena.",
+      "categories": [
+        "Proporción",
+        "Materialidad"
+      ]
     },
     {
       "id": "gst-sidetable",
@@ -959,6 +993,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1088,6 +1126,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1160,6 +1202,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1251,6 +1297,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1418,6 +1468,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1543,6 +1597,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1630,6 +1688,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Materialidad"
       ]
     },
     {
@@ -1759,6 +1821,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -1850,6 +1916,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Materialidad"
       ]
     },
     {
@@ -2036,6 +2106,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Materialidad"
       ]
     },
     {
@@ -2108,6 +2182,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -2214,6 +2292,9 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación"
       ]
     },
     {
@@ -2244,6 +2325,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -2350,6 +2435,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Materialidad"
       ]
     },
     {
@@ -2494,6 +2583,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -2619,6 +2712,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -2801,6 +2898,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -2888,6 +2989,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Materialidad"
       ]
     },
     {
@@ -2920,6 +3025,11 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior",
+        "Materialidad"
       ]
     },
     {
@@ -2952,6 +3062,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Exterior",
+        "Proporción"
       ]
     },
     {
@@ -2984,6 +3098,11 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior",
+        "Materialidad"
       ]
     },
     {
@@ -3016,6 +3135,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Exterior",
+        "Proporción"
       ]
     },
     {
@@ -3108,6 +3231,11 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Exterior",
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -3280,6 +3408,12 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior",
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -3412,6 +3546,11 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Bodegón",
+        "Exterior",
+        "Materialidad"
       ]
     },
     {
@@ -3624,6 +3763,12 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior",
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -3816,6 +3961,13 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Bodegón",
+        "Exterior",
+        "Proporción",
+        "Materialidad"
       ]
     },
     {
@@ -4088,6 +4240,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior"
       ]
     },
     {
@@ -4300,6 +4456,10 @@
             }
           ]
         }
+      ],
+      "categories": [
+        "Iluminación",
+        "Exterior"
       ]
     }
   ]

@@ -74,6 +74,11 @@ Rodrigo aporta 64 imágenes y enlaces para abrir una línea diferenciada: el obj
 - Se incorpora una instalación doméstica exterior de archivo local aportado por Rodrigo. Su URL y crédito permanecen pendientes; no se atribuye por el nombre del archivo.
 - Las fichas nuevas muestran la etiqueta editorial “Exterior / …” en el encabezado para distinguirlas del resto del archivo. Las operaciones y aplicaciones son propuestas de lectura para Szymon, no descripciones oficiales de las obras.
 
+## Clasificación para reunión
+El índice permite filtrar fichas por una categoría cada vez: Iluminación, Bodegón, Exterior, Proporción y Materialidad. Las categorías son etiquetas de lectura para conversación, no taxonomías oficiales de autores o proyectos. Cada ficha conserva al menos una; una referencia puede pertenecer a varias cuando la comparación lo requiere.
+
+Línea sugerida para una siguiente decisión: «Puesta en escena», destinada a composición, encuadre, secuencia y uso de soporte. Se mantiene fuera del filtro hasta que Rodrigo decida incorporarla.
+
 ## Registro vivo 1–8
 1. Diagnóstico: reunión con Szymon; comparación material y comunicación de objetos. Audiencia inmediata: participantes de la reunión; público comercial pendiente.
 2. Segmentación: pendiente; no inferir arquetipos.
@@ -89,6 +94,7 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 
 ## Cambios
 - 10.09.2026, v7: incorporadas 11 fichas y 64 imágenes en la línea “objeto en exterior, instalación y paisaje”. El archivo pasa a 38 fichas, 16 referentes y 190 imágenes. Los créditos se mantienen pendientes cuando no están publicados en las fuentes aportadas.
+- 10.09.2026, v8: añadido filtro lateral del índice para Iluminación, Bodegón, Exterior, Proporción y Materialidad. La selección se actualiza sin abandonar el índice.
 - 10.09.2026, v5: incorporadas cuatro fichas de Laurids Gallée —Meld Fishies, PL 02, Axis y Morph Horsies— y una imagen aportada a PL 09. El archivo pasa a 27 fichas y 126 imágenes. Los créditos individuales de las nuevas imágenes quedan pendientes de confirmación.
 - 10.09.2026, v4: incorporadas cinco fichas —Bungenäs Arrangements, LVB, BKL, LKM y RGD— y cuatro imágenes nuevas a Plissè Block. El archivo pasa a 23 fichas y 103 imágenes. BKL mantiene su página específica pendiente; los créditos de imagen que no aparecen en los enlaces aportados se conservan como pendientes.
 - 10.09.2026, v3: incorporadas seis fichas y ampliadas cinco secuencias existentes con imágenes aportadas por Rodrigo. Se actualizan las lecturas cruzadas para que se agrupen automáticamente por autor. No cambian las reglas visuales ni las notas fijas. Los créditos individuales no publicados se mantienen como pendientes.
