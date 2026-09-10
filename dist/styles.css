@@ -42,3 +42,9 @@
 
 /* Las llamadas editoriales quedan en el pie; no se superponen a las fotografías. */
 .photo-field .image-marker{display:none}
+
+@media(max-width:700px){
+  .project-card{min-height:286px;padding-top:60px}
+  .project-card:nth-child(n) .image-stack{margin-left:30px;margin-right:0}
+  .favorite-button{top:32px}
+}

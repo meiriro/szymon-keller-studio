@@ -23,3 +23,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v12: las pilas del índice usan miniaturas cuadradas. El hover abre el acordeón sin alterar el orden de las capas; tras 0,7 segundos, la portada se desvanece para revelar la imagen siguiente. Los metadatos se sitúan próximos a la pila.
 - v13: se ocultan los números superpuestos en las fotografías de las fichas. Se conservan los números de las anotaciones editoriales y los controles de navegación.
 - v14: solo en móvil, se compacta la altura de las fichas para dejar aproximadamente 20 px entre la pila y los metadatos. «Guardar» se representa con un corazón negro de 17 px; queda delineado al inicio y se rellena al guardar.
+- v15: las pilas de previsualización usan exactamente tres imágenes. En móvil, la pila se desplaza para separar el número y el corazón de las capas.
