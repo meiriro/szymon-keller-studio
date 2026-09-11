@@ -24,3 +24,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v13: se ocultan los números superpuestos en las fotografías de las fichas. Se conservan los números de las anotaciones editoriales y los controles de navegación.
 - v14: solo en móvil, se compacta la altura de las fichas para dejar aproximadamente 20 px entre la pila y los metadatos. «Guardar» se representa con un corazón negro de 17 px; queda delineado al inicio y se rellena al guardar.
 - v15: las pilas de previsualización usan exactamente tres imágenes. En móvil, la pila se desplaza para separar el número y el corazón de las capas.
+- v16: el sitio usa una imagen social para vistas previas compartidas y un favicon propio.

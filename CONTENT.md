@@ -113,3 +113,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 10.09.2026: se reactiva el acceso tras detenerse la vista previa local y se prepara la primera publicación privada. Sin cambios editoriales ni visuales.
 - v1: arquitectura, notas fijas, límites de fuentes y registro inicial establecidos.
 - v2: autorización de Waves House; selección visual de 31 imágenes, captions y anotaciones; registro de créditos y de las dos geometrías de Metropolis. Se mantienen intactas las notas fijas.
+- 11.09.2026, v16: se añaden imagen de vista previa para enlaces compartidos y favicon del sitio.
