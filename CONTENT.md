@@ -117,3 +117,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 11.09.2026, v17: favicon circular con la pieza luminosa aislada sobre fondo transparente.
 - 13.09.2026, v18: la pila de miniaturas revela nuevas portadas cada 0,5 segundos de interacción, manteniendo siempre tres capas.
 - 13.09.2026, v19: se ralentiza el recorrido de las portadas para un fundido más continuo y pausado.
+- 13.09.2026, v20: la animación de miniaturas releva las tres capas: portada, segundo plano y fondo nuevo.

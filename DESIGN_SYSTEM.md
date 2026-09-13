@@ -28,3 +28,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v17: el favicon usa la figura luminosa recortada y fondo transparente.
 - v18: al mantener el cursor sobre una pila, la portada se aparta a los 0,5 s y el recorrido continúa sin superar tres capas ni bajar de dos visibles.
 - v19: la rotación de portadas usa un fundido de 0,45 s y una pausa de 1,8 s entre cambios.
+- v20: cada relevo desplaza la segunda imagen al frente, la tercera al plano medio y suma una nueva imagen al fondo; el fundido inicial empieza a los 0,5 s.

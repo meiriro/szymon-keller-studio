@@ -27,8 +27,8 @@
 .project-card:nth-child(n) .image-stack{width:162px;height:162px;aspect-ratio:1;margin:0 auto}
 .stack-image{z-index:auto;transform:translate(calc(var(--layer) * -7px),calc(var(--layer) * -7px));transition:transform .25s ease,opacity .45s ease}
 .project-tile:hover .stack-image,.project-tile:focus-within .stack-image{transform:translate(calc(var(--layer) * -12px),calc(var(--layer) * -8px))}
-.project-tile.is-revealing .front-image{opacity:0;transition:opacity .45s ease,transform .35s ease}
-.project-tile:not(.is-revealing) .front-image{opacity:1;transition:opacity .45s ease,transform .35s ease}
+.stack-image.is-fading{opacity:0;transition:opacity .45s ease,transform .45s ease}
+.stack-image:not(.is-fading){opacity:1;transition:opacity .45s ease,transform .45s ease}
 .project-tile:hover .card-meta,.project-tile:focus-within .card-meta{opacity:1}
 .card-meta{bottom:10px}
 .favorite-button{position:absolute;top:44px;left:6px;z-index:8;width:17px;height:17px;padding:0;display:grid;place-items:center;color:#111;opacity:0;transition:opacity .18s ease}

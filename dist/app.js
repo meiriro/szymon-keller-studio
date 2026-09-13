@@ -26,21 +26,35 @@ function attachStackPreviews(){
   if(!supportsPreview)return;
   document.querySelectorAll('[data-stack-id]').forEach(tile=>{
     const project=archive.projects.find(p=>p.id===tile.dataset.stackId);
-    const front=tile.querySelector('.front-image');
-    if(!project||!front)return;
+    if(!project)return;
+    let [back,middle,front]=[...tile.querySelectorAll('.stack-image')];
+    if(!back||!middle||!front)return;
     let revealTimer,advanceTimer,nextImage=3;
-    const clear=()=>{clearTimeout(revealTimer);clearTimeout(advanceTimer);tile.classList.remove('is-revealing')};
+    const setLayer=(image,layer)=>{image.style.setProperty('--layer',layer);image.style.zIndex=String(3-layer)};
+    const reset=()=>{
+      [back,middle,front].forEach(image=>image.classList.remove('is-fading','front-image'));
+      back.src=safeUrl(project.images[2%project.images.length].src);
+      middle.src=safeUrl(project.images[1%project.images.length].src);
+      front.src=safeUrl(project.images[0].src);
+      setLayer(back,2);setLayer(middle,1);setLayer(front,0);front.classList.add('front-image');nextImage=3;
+    };
+    const clear=()=>{clearTimeout(revealTimer);clearTimeout(advanceTimer)};
     const advance=()=>{
-      tile.classList.add('is-revealing');
+      front.classList.add('is-fading');
       advanceTimer=setTimeout(()=>{
-        front.src=safeUrl(project.images[nextImage%project.images.length].src);
+        const outgoing=front;
+        outgoing.src=safeUrl(project.images[nextImage%project.images.length].src);
         nextImage+=1;
-        tile.classList.remove('is-revealing');
+        outgoing.classList.remove('front-image');
+        setLayer(middle,0);setLayer(back,1);setLayer(outgoing,2);
+        middle.classList.add('front-image');
+        [front,middle,back]=[middle,back,outgoing];
+        requestAnimationFrame(()=>outgoing.classList.remove('is-fading'));
         revealTimer=setTimeout(advance,1800);
       },480);
     };
-    const start=()=>{clear();nextImage=3;revealTimer=setTimeout(advance,500)};
-    const stop=()=>{clear();nextImage=3;front.src=safeUrl(project.images[0].src)};
+    const start=()=>{clear();reset();revealTimer=setTimeout(advance,500)};
+    const stop=()=>{clear();reset()};
     tile.addEventListener('pointerenter',start);
     tile.addEventListener('pointerleave',stop);
     tile.addEventListener('focusin',start);
@@ -50,4 +64,4 @@ function attachStackPreviews(){
 function positionMarkers(){document.querySelectorAll(".photo-field").forEach(field=>{const img=field.querySelector("img"),marker=field.querySelector(".image-marker");if(!img||!marker||!img.naturalWidth)return;const scale=Math.min(field.clientWidth/img.naturalWidth,field.clientHeight/img.naturalHeight),w=img.naturalWidth*scale,h=img.naturalHeight*scale;marker.style.left=((field.clientWidth-w)/2+w*Number(marker.dataset.x))+"px";marker.style.top=((field.clientHeight-h)/2+h*Number(marker.dataset.y))+"px"})}
 function render(){photoObserver?.disconnect();const hash=location.hash;filmstrip=null;slideIndex=0;if(hash.startsWith('#proyecto/')){const id=hash.slice(10);activeIndex=archive.projects.findIndex(p=>p.id===id);if(activeIndex<0){app.innerHTML=`${SiteHeader('')}<main class="fatal"><h1>Este proyecto no está en el archivo.</h1><a href="#">Volver al índice</a></main>`;return}const p=archive.projects[activeIndex];lastProject=p.id;app.innerHTML=ProjectDetail(p);document.title=`${p.title} — Szymon Keller`;filmstrip=document.querySelector('.filmstrip');filmstrip.addEventListener('scroll',updateSlide,{passive:true});document.querySelector('#previous-image').onclick=()=>goSlide(-1);document.querySelector('#next-image').onclick=()=>goSlide(1);updateSlide();document.querySelector('h1').focus({preventScroll:true})}else if(hash==='#fuentes'){app.innerHTML=Sources();document.title='Fuentes y notas — Szymon Keller'}else{app.innerHTML=Index();document.title='Szymon Keller — Referencias';document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{activeFilter=button.dataset.filter;render()}));document.querySelectorAll('[data-favorite]').forEach(button=>button.addEventListener('click',()=>{const id=button.dataset.favorite;favoriteIds.has(id)?favoriteIds.delete(id):favoriteIds.add(id);try{localStorage.setItem('szymon-favorites',JSON.stringify([...favoriteIds]))}catch{}const saved=favoriteIds.has(id);button.setAttribute('aria-pressed',saved);button.setAttribute('aria-label',`${saved?'Quitar de guardados':'Guardar'}: ${archive.projects.find(p=>p.id===id)?.title||''}`);button.setAttribute('title',saved?'Quitar de guardados':'Guardar')}));attachStackPreviews();if(lastProject)document.querySelector(`a[href="#proyecto/${lastProject}"]`)?.focus({preventScroll:true})}window.scrollTo(0,0);photoObserver=new ResizeObserver(positionMarkers);document.querySelectorAll(".photo-field").forEach(field=>photoObserver.observe(field));document.querySelectorAll(".photo-field img").forEach(img=>img.addEventListener("load",positionMarkers));positionMarkers();document.querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{if(img.closest('.photo-field')){const message=document.createElement('p');message.className='image-unavailable';message.textContent='Imagen no disponible. Consultá la fuente original en el pie.';img.replaceWith(message)}else{img.style.visibility='hidden'}},{once:true}))}
 window.addEventListener('hashchange',()=>{if(archive)render()});window.addEventListener('keydown',e=>{if(!filmstrip||e.altKey||e.metaKey||e.ctrlKey)return;if(e.key==='ArrowRight'){e.preventDefault();goSlide(1)}if(e.key==='ArrowLeft'){e.preventDefault();goSlide(-1)}if(e.key==='Escape'){location.hash=''}});
-try{const response=await fetch('data/references.json?v=20260911-v19');if(!response.ok)throw Error('Archive unavailable');archive=await response.json();render()}catch{app.innerHTML='<main class="fatal"><h1>No se pudo abrir el archivo.</h1><p>Recargá la página para volver a intentarlo.</p></main>'}
+try{const response=await fetch('data/references.json?v=20260913-v20');if(!response.ok)throw Error('Archive unavailable');archive=await response.json();render()}catch{app.innerHTML='<main class="fatal"><h1>No se pudo abrir el archivo.</h1><p>Recargá la página para volver a intentarlo.</p></main>'}
