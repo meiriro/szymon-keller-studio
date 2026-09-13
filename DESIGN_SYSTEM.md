@@ -26,3 +26,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v15: las pilas de previsualización usan exactamente tres imágenes. En móvil, la pila se desplaza para separar el número y el corazón de las capas.
 - v16: el sitio usa una imagen social para vistas previas compartidas y un favicon propio.
 - v17: el favicon usa la figura luminosa recortada y fondo transparente.
+- v18: al mantener el cursor sobre una pila, la portada se aparta a los 0,5 s y el recorrido continúa sin superar tres capas ni bajar de dos visibles.
