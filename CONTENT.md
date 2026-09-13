@@ -116,3 +116,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 11.09.2026, v16: se añaden imagen de vista previa para enlaces compartidos y favicon del sitio.
 - 11.09.2026, v17: favicon circular con la pieza luminosa aislada sobre fondo transparente.
 - 13.09.2026, v18: la pila de miniaturas revela nuevas portadas cada 0,5 segundos de interacción, manteniendo siempre tres capas.
+- 13.09.2026, v19: se ralentiza el recorrido de las portadas para un fundido más continuo y pausado.
