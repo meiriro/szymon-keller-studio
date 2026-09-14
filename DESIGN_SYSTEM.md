@@ -30,3 +30,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v19: la rotación de portadas usa un fundido de 0,45 s y una pausa de 1,8 s entre cambios.
 - v20: cada relevo desplaza la segunda imagen al frente, la tercera al plano medio y suma una nueva imagen al fondo; el fundido inicial empieza a los 0,5 s.
 - v21: el índice incorpora el filtro Escenografía con las etiquetas revisadas proyecto por proyecto.
+- v22: el favicon conserva únicamente el aro luminoso; el centro es transparente.

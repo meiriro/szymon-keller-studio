@@ -119,3 +119,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 13.09.2026, v19: se ralentiza el recorrido de las portadas para un fundido más continuo y pausado.
 - 13.09.2026, v20: la animación de miniaturas releva las tres capas: portada, segundo plano y fondo nuevo.
 - 14.09.2026, v21: etiquetas revisadas proyecto por proyecto por Rodrigo; se añade Escenografía al filtro del índice.
+- 14.09.2026, v22: favicon ajustado; el hueco central queda transparente, sin material gris.
