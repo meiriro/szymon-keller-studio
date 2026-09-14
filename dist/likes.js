@@ -52,9 +52,10 @@
     const button = node.querySelector('button');
     const count = node.querySelector('[data-like-count]');
     button.setAttribute('aria-pressed', String(state.liked));
-    button.setAttribute('aria-label', `${state.liked ? 'Quitar me gusta' : 'Dar me gusta'} · ${state.likes} ${state.likes === 1 ? 'me gusta' : 'me gusta'}`);
+    button.classList.toggle('is-empty', state.likes === 0 && !state.liked);
+    button.setAttribute('aria-label', `${state.liked ? 'Quitar me gusta' : 'Dar me gusta'} · ${state.likes} me gusta`);
     button.title = state.liked ? 'Quitar me gusta' : 'Dar me gusta';
-    count.textContent = String(state.likes);
+    count.textContent = state.likes ? String(state.likes) : '';
   }
 
   window.initialiseProjectLikes = async function initialiseProjectLikes(project) {
@@ -92,7 +93,7 @@
 window.initialiseIndexLikes = async function initialiseIndexLikes(projects) {
   const nodes = [...document.querySelectorAll('[data-card-likes]')];
   if (!nodes.length || !enabled) return;
-  const card = (state) => `<button type="button" class="card-like-button" aria-pressed="${state.liked}" aria-label="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'} · ${state.likes} me gusta" title="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'}">${icon}<span data-card-like-count>${state.likes}</span></button>`;
+  const card = (state) => `<button type="button" class="card-like-button${state.likes === 0 && !state.liked ? ' is-empty' : ''}" aria-pressed="${state.liked}" aria-label="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'} · ${state.likes} me gusta" title="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'}">${icon}<span data-card-like-count>${state.likes ? state.likes : ''}</span></button>`;
   const nodesFor = (id) => nodes.filter(node => node.dataset.cardLikes === id);
   const paintCards = (id, state) => nodesFor(id).forEach(node => {
     node.innerHTML = card(state);
@@ -112,13 +113,14 @@ window.initialiseIndexLikes = async function initialiseIndexLikes(projects) {
       }
     });
   });
-  nodes.forEach(node => { node.innerHTML = card({ likes: '—', liked: false }); });
+  nodes.forEach(node => { node.innerHTML = card({ likes: 0, liked: false }); });
   try {
     const rows = await rpc('project_like_summaries', { p_project_ids: projects.map(project => project.id) });
     const summaries = new Map(rows.map(row => [row.project_id, { likes: Number(row.likes || 0), liked: Boolean(row.liked) }]));
     projects.forEach(project => paintCards(project.id, summaries.get(project.id) || { likes: 0, liked: false }));
     const totalNode = document.querySelector('[data-likes-total]');
-    if (totalNode) totalNode.textContent = ` · ${[...summaries.values()].reduce((total, state) => total + state.likes, 0)} me gusta`;
+    const totalLikes = [...summaries.values()].reduce((total, state) => total + state.likes, 0);
+    if (totalNode) totalNode.textContent = totalLikes ? ` · ${totalLikes} me gusta` : '';
   } catch {
     nodes.forEach(node => node.replaceChildren());
   }

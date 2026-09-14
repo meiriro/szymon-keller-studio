@@ -125,3 +125,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 14.09.2026, v25: añadidas imágenes para Catifa Carta, Light Horizon / Noor Riyadh e Invisible Vases, con nuevas lecturas por imagen.
 - 14.09.2026, v26: preparado el contador compartido de likes por proyecto mediante Supabase; el corazón aparece en la ficha al activar la configuración de la base de datos.
 - 14.09.2026, v27: los likes compartidos se muestran en el índice y en cada ficha; el índice suma el total acumulado.
+- 14.09.2026, v28: los corazones y recuentos sin likes se ocultan en reposo y se descubren al pasar por la miniatura; los proyectos con likes quedan visibles.
