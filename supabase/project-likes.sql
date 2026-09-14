@@ -47,7 +47,7 @@ begin
   end if;
 
   if exists (
-    select 1 from public.project_likes
+    select 1 from public.project_likes l
     where l.project_id = p_project_id and l.visitor_id = v_visitor_id
   ) then
     delete from public.project_likes l
