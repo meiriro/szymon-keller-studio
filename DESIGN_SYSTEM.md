@@ -31,3 +31,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v20: cada relevo desplaza la segunda imagen al frente, la tercera al plano medio y suma una nueva imagen al fondo; el fundido inicial empieza a los 0,5 s.
 - v21: el índice incorpora el filtro Escenografía con las etiquetas revisadas proyecto por proyecto.
 - v22: el favicon conserva únicamente el aro luminoso; el centro es transparente.
+- v23: navegación con Índice, Briefing y Fuentes y notas; la página Briefing usa secciones numeradas y jerarquía editorial.

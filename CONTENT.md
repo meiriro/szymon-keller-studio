@@ -120,3 +120,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 13.09.2026, v20: la animación de miniaturas releva las tres capas: portada, segundo plano y fondo nuevo.
 - 14.09.2026, v21: etiquetas revisadas proyecto por proyecto por Rodrigo; se añade Escenografía al filtro del índice.
 - 14.09.2026, v22: favicon ajustado; el hueco central queda transparente, sin material gris.
+- 14.09.2026, v23: añadida la pestaña Briefing con preguntas para la reunión; la cabecera simplifica su navegación y el pie acredita a Rodrigo Meiriño.
