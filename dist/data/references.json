@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "v24 · 14.09.2026",
+  "edition": "v25 · 14.09.2026",
   "references": [
     {
       "id": "marina",
@@ -2320,6 +2320,106 @@
               }
             }
           ]
+        },
+        {
+          "id": "invisible-vases-2",
+          "src": "assets/invisible-vases-2.jpeg",
+          "url": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "originalUrl": "/Users/rodrigo/Downloads/hidden vases by chris kabel1.jpeg",
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "alt": "Conjunto de Invisible Vases con flores amarillas y tallos largos.",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Invisible Vases: un conjunto abierto de flores, tallos y recipientes.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La composición deja que los tallos y las alturas hagan el trabajo. El recipiente aparece como una estructura ligera dentro de un bodegón desbordado.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "invisible-vases-3",
+          "src": "assets/invisible-vases-3.jpg",
+          "url": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "originalUrl": "/Users/rodrigo/Downloads/hidden vases by chris kabel2.jpg",
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "alt": "Bodegón de Invisible Vases con flores, plantas y recipientes de colores.",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Invisible Vases: bodegón expandido de flores y recipientes.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "El conjunto funciona como un bodegón amplio y despreocupado: color, flores y recipientes conviven sin ordenarse como un catálogo.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "invisible-vases-4",
+          "src": "assets/invisible-vases-4.jpg",
+          "url": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "originalUrl": "/Users/rodrigo/Downloads/hidden vases by chris kabel3.jpg",
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "alt": "Dos composiciones de Invisible Vases con flores y recipientes.",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Invisible Vases: dos variaciones de soporte, flor y color.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "La comparación muestra cómo una misma estructura puede sostener especies, alturas y colores distintos sin perder ligereza.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "invisible-vases-5",
+          "src": "assets/invisible-vases-5.jpg",
+          "url": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "originalUrl": "/Users/rodrigo/Downloads/hidden vases by chris kabel4.jpg",
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "alt": "Gran arreglo floral en Invisible Vases sobre fondo blanco.",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Invisible Vases: abundancia floral sostenida por estructuras casi invisibles.",
+          "annotations": [
+            {
+              "number": "05",
+              "text": "La estructura se retira para dejar que la abundancia de flores y tallos construya un bodegón libre, vertical y lleno de variaciones.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "invisible-vases-6",
+          "src": "assets/invisible-vases-6.jpg",
+          "url": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "originalUrl": "/Users/rodrigo/Downloads/hidden vases by chris kabel5.jpg",
+          "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
+          "alt": "Detalle de flores y tallos sostenidos por Invisible Vases.",
+          "credit": "Mathijs Labadie · Diseño: Chris Kabel",
+          "caption": "Invisible Vases: detalle de equilibrio entre flor, agua y soporte.",
+          "annotations": [
+            {
+              "number": "06",
+              "text": "El detalle revela cómo agua, tallos y soporte comparten el peso visual. La escena mantiene una fragilidad controlada.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
         }
       ],
       "categories": [
@@ -3017,6 +3117,66 @@
               }
             }
           ]
+        },
+        {
+          "id": "light-horizon-2",
+          "src": "assets/light-horizon-2.jpg",
+          "url": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "originalUrl": "/Users/rodrigo/Downloads/Light Horizon : Noor Riyadh — Sabine Marcelis1.jpg",
+          "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "alt": "Instalación Light Horizon iluminada en el paisaje rocoso al anochecer.",
+          "credit": "Fotografía © Rubén P. Bescós",
+          "caption": "Light Horizon: luz cálida y relieve al anochecer.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "El crepúsculo transforma la instalación: la luz artificial adquiere escala frente a la roca y convierte el exterior en parte de la imagen.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "light-horizon-3",
+          "src": "assets/light-horizon-3.jpg",
+          "url": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "originalUrl": "/Users/rodrigo/Downloads/Light Horizon : Noor Riyadh — Sabine Marcelis2.jpg",
+          "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "alt": "Paneles reflectantes de Light Horizon en un paisaje árido.",
+          "credit": "Fotografía © Rubén P. Bescós",
+          "caption": "Light Horizon: los paneles recogen el color del terreno.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "Los planos reflectantes toman arena, cielo y roca. El exterior no acompaña a la pieza: modifica su color y la lectura de sus superficies.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "light-horizon-4",
+          "src": "assets/light-horizon-4.jpg",
+          "url": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "originalUrl": "/Users/rodrigo/Downloads/Light Horizon : Noor Riyadh — Sabine Marcelis3.jpg",
+          "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
+          "alt": "Detalle nocturno de los planos iluminados de Light Horizon.",
+          "credit": "Fotografía © Rubén P. Bescós",
+          "caption": "Light Horizon: detalle nocturno de luz, espejo y profundidad.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "El encuadre cercano permite leer capas, reflejos y profundidad; una misma instalación puede pasar de paisaje a detalle material.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
         }
       ],
       "categories": [
@@ -3046,6 +3206,66 @@
             {
               "number": "01",
               "text": "La silla funciona como figura y el montículo como pedestal paisajístico.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "catifa-carta-2",
+          "src": "assets/catifa-carta-2.jpg",
+          "url": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "originalUrl": "/Users/rodrigo/Downloads/Catifa Carta_ Redefiniendo la Belleza _ Arper ES1.jpg",
+          "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "alt": "Silla Catifa Carta negra integrada entre hierbas.",
+          "credit": "Crédito de imagen pendiente",
+          "caption": "Catifa Carta: la pieza mantiene un vínculo directo con el paisaje.",
+          "annotations": [
+            {
+              "number": "02",
+              "text": "La vegetación rodea la silla sin disolver su silueta: el objeto conserva el paisaje del que toma su referencia.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "catifa-carta-3",
+          "src": "assets/catifa-carta-3.jpg",
+          "url": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "originalUrl": "/Users/rodrigo/Downloads/Catifa Carta_ Redefiniendo la Belleza _ Arper ES2.jpg",
+          "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "alt": "Detalle de la silla Catifa Carta y del papel reciclado que compone el asiento.",
+          "credit": "Crédito de imagen pendiente",
+          "caption": "Catifa Carta: detalle de estructura y materia reciclada.",
+          "annotations": [
+            {
+              "number": "03",
+              "text": "El detalle acerca estructura, borde y material reciclado. Es una imagen útil para explicar de qué está hecha la pieza sin perder su presencia.",
+              "position": {
+                "x": 0.5,
+                "y": 0.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "catifa-carta-4",
+          "src": "assets/catifa-carta-4.jpg",
+          "url": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "originalUrl": "/Users/rodrigo/Downloads/Catifa Carta_ Redefiniendo la Belleza _ Arper ES3.jpg",
+          "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
+          "alt": "Silla Catifa Carta con capas de papel reciclado desplegadas alrededor.",
+          "credit": "Crédito de imagen pendiente",
+          "caption": "Catifa Carta: el material se convierte en puesta en escena.",
+          "annotations": [
+            {
+              "number": "04",
+              "text": "Las capas de papel prolongan la silla hacia la escena y hacen visible el material como origen, proceso y gesto espacial.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
