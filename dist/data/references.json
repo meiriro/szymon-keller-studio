@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "v20 · 13.09.2026",
+  "edition": "v21 · 14.09.2026",
   "references": [
     {
       "id": "marina",
@@ -182,9 +182,7 @@
       "operation": "Integrar distintas piezas sin igualar su presencia. Una imagen construye coexistencia; la siguiente concede un momento propio a un objeto.",
       "application": "Partir del conjunto y acercarse por turnos a las piezas. Alternar vistas compartidas y momentos individuales para que cada objeto mantenga su carácter.",
       "categories": [
-        "Iluminación",
-        "Bodegón",
-        "Proporción"
+        "Escenografía"
       ]
     },
     {
@@ -331,6 +329,7 @@
         }
       ],
       "categories": [
+        "Catálogo",
         "Materialidad"
       ]
     },
@@ -440,9 +439,7 @@
         }
       ],
       "categories": [
-        "Iluminación",
-        "Bodegón",
-        "Materialidad"
+        "Exterior"
       ]
     },
     {
@@ -475,8 +472,9 @@
         }
       ],
       "categories": [
-        "Iluminación",
-        "Bodegón"
+        "Catálogo",
+        "Materialidad",
+        "Proporción"
       ]
     },
     {
@@ -577,8 +575,7 @@
       "operation": "Desmontar la lectura habitual del objeto. Frontalidad, sombra y punto de vista convierten un utensilio en una presencia escultórica.",
       "application": "Antes de fotografiar una pieza de Szymon, estudiar silueta, reverso, textura y modo de emitir luz. Tomar el método de investigación; no copiar la limpieza estética.",
       "categories": [
-        "Bodegón",
-        "Catálogo"
+        "Iluminación"
       ]
     },
     {
@@ -640,8 +637,7 @@
       "operation": "Construir un equilibrio entre gesto orgánico y soporte geométrico. El vacío sostiene la tensión de la composición.",
       "application": "Probar bodegones con los nuevos jarrones y lámparas de Szymon donde el equilibrio entre piezas sugiera una acción. Pensar en post-catálogo.",
       "categories": [
-        "Bodegón",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -704,8 +700,7 @@
       "operation": "Hacer del objeto un pequeño escenario. Materia artificial y elementos orgánicos provocan encuentros de escala y color.",
       "application": "Ensayar una escena inesperada sobre o junto a un jarrón. Que el acompañamiento active una cualidad del objeto y no sea simple decoración.",
       "categories": [
-        "Bodegón",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -780,9 +775,7 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Exterior",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -927,9 +920,9 @@
       "operation": "Mostrar y ocultar a la vez. El vidrio estriado fragmenta el color de lo que contiene y convierte el interior en parte de la superficie.",
       "application": "Para Szymon: ensayar imágenes con un objeto contenido o detrás de resina y piezas traslúcidas; no solo mostrar transparencia sino su capacidad de comprimir, estriar y alterar la escena.",
       "categories": [
-        "Proporción",
         "Materialidad",
-        "Catálogo"
+        "Catálogo",
+        "Escenografía"
       ]
     },
     {
@@ -1000,9 +993,9 @@
         }
       ],
       "categories": [
-        "Proporción",
         "Materialidad",
-        "Catálogo"
+        "Catálogo",
+        "Iluminación"
       ]
     },
     {
@@ -1134,9 +1127,8 @@
         }
       ],
       "categories": [
-        "Proporción",
-        "Materialidad",
-        "Catálogo"
+        "Catálogo",
+        "Proporción"
       ]
     },
     {
@@ -1211,9 +1203,8 @@
         }
       ],
       "categories": [
-        "Proporción",
-        "Materialidad",
-        "Catálogo"
+        "Catálogo",
+        "Proporción"
       ]
     },
     {
@@ -1307,9 +1298,9 @@
         }
       ],
       "categories": [
-        "Proporción",
+        "Catálogo",
         "Materialidad",
-        "Catálogo"
+        "Iluminación"
       ]
     },
     {
@@ -1479,9 +1470,10 @@
         }
       ],
       "categories": [
-        "Proporción",
+        "Catálogo",
         "Materialidad",
-        "Catálogo"
+        "Proporción",
+        "Iluminación"
       ]
     },
     {
@@ -1610,8 +1602,10 @@
       ],
       "categories": [
         "Proporción",
+        "Iluminación",
+        "Catálogo",
         "Materialidad",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -1701,8 +1695,9 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Materialidad",
+        "Iluminación",
+        "Escenografía",
         "Catálogo"
       ]
     },
@@ -1835,9 +1830,9 @@
         }
       ],
       "categories": [
-        "Proporción",
-        "Materialidad",
-        "Catálogo"
+        "Iluminación",
+        "Catálogo",
+        "Proporción"
       ]
     },
     {
@@ -1931,8 +1926,9 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Materialidad",
+        "Iluminación",
+        "Escenografía",
         "Catálogo"
       ]
     },
@@ -2122,8 +2118,9 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Materialidad",
+        "Iluminación",
+        "Proporción",
         "Catálogo"
       ]
     },
@@ -2199,9 +2196,9 @@
         }
       ],
       "categories": [
+        "Catálogo",
         "Proporción",
-        "Materialidad",
-        "Catálogo"
+        "Iluminación"
       ]
     },
     {
@@ -2310,7 +2307,10 @@
         }
       ],
       "categories": [
-        "Iluminación"
+        "Materialidad",
+        "Iluminación",
+        "Escenografía",
+        "Catálogo"
       ]
     },
     {
@@ -2343,8 +2343,7 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Materialidad"
+        "Bodegón"
       ]
     },
     {
@@ -2455,7 +2454,7 @@
       "categories": [
         "Iluminación",
         "Materialidad",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -2602,9 +2601,8 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Materialidad",
-        "Catálogo"
+        "Escenografía",
+        "Bodegón"
       ]
     },
     {
@@ -2732,9 +2730,7 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Materialidad",
-        "Catálogo"
+        "Materialidad"
       ]
     },
     {
@@ -2919,9 +2915,7 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Materialidad",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -3011,9 +3005,7 @@
         }
       ],
       "categories": [
-        "Bodegón",
-        "Materialidad",
-        "Catálogo"
+        "Bodegón"
       ]
     },
     {
@@ -3048,9 +3040,7 @@
         }
       ],
       "categories": [
-        "Iluminación",
-        "Exterior",
-        "Materialidad"
+        "Exterior"
       ]
     },
     {
@@ -3086,7 +3076,8 @@
       ],
       "categories": [
         "Exterior",
-        "Proporción"
+        "Escenografía",
+        "Catálogo"
       ]
     },
     {
@@ -3121,7 +3112,6 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Exterior",
         "Materialidad"
       ]
@@ -3159,7 +3149,7 @@
       ],
       "categories": [
         "Exterior",
-        "Proporción"
+        "Escenografía"
       ]
     },
     {
@@ -3254,9 +3244,7 @@
         }
       ],
       "categories": [
-        "Exterior",
-        "Proporción",
-        "Materialidad"
+        "Exterior"
       ]
     },
     {
@@ -3431,10 +3419,9 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Exterior",
-        "Proporción",
-        "Materialidad"
+        "Catálogo",
+        "Escenografía"
       ]
     },
     {
@@ -3569,9 +3556,9 @@
         }
       ],
       "categories": [
-        "Bodegón",
         "Exterior",
-        "Materialidad"
+        "Escenografía",
+        "Catálogo"
       ]
     },
     {
@@ -3786,10 +3773,8 @@
         }
       ],
       "categories": [
-        "Iluminación",
         "Exterior",
-        "Proporción",
-        "Materialidad"
+        "Escenografía"
       ]
     },
     {
@@ -3984,11 +3969,10 @@
         }
       ],
       "categories": [
-        "Iluminación",
-        "Bodegón",
         "Exterior",
-        "Proporción",
-        "Materialidad"
+        "Bodegón",
+        "Catálogo",
+        "Escenografía"
       ]
     },
     {
@@ -4263,8 +4247,7 @@
         }
       ],
       "categories": [
-        "Iluminación",
-        "Exterior"
+        "Iluminación"
       ]
     },
     {
@@ -4480,7 +4463,8 @@
       ],
       "categories": [
         "Iluminación",
-        "Exterior"
+        "Exterior",
+        "Escenografía"
       ]
     }
   ]
