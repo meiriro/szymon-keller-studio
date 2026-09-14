@@ -1,6 +1,6 @@
 {
   "title": "Szymon Keller",
-  "edition": "v23 · 14.09.2026",
+  "edition": "v24 · 14.09.2026",
   "references": [
     {
       "id": "marina",
@@ -150,26 +150,6 @@
               }
             }
           ]
-        },
-        {
-          "url": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
-          "alt": "Cojines de esfera y pirámide sobre sofá de tonos arena, con espejo orgánico y lámpara lineal.",
-          "credit": "Fotografía © Marina Denisova",
-          "id": "waves-house-3",
-          "src": "assets/waves-house-3.jpg",
-          "originalUrl": "https://media.yatzer.com/28_s_waves_house_szymon_keller_marina_denisova_yatzer-1-1400x2100.jpg",
-          "source": "https://www.yatzer.com/waves-house?utm_source=chatgpt.com",
-          "caption": "Waves House: geometrías blandas y un espejo orgánico.",
-          "annotations": [
-            {
-              "number": "01",
-              "text": "Esfera, pirámide y espejo orgánico introducen relaciones escultóricas dentro de una escena habitable.",
-              "position": {
-                "x": 0.58,
-                "y": 0.67
-              }
-            }
-          ]
         }
       ],
       "observations": [
@@ -262,7 +242,7 @@
           "annotations": [
             {
               "number": "01",
-              "text": "Los vacíos entre bloques también forman parte de la composición.",
+              "text": "La puesta en escena organizada por bloques, vacíos y distancias convierte la serie en una composición y no en una suma de objetos.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -281,7 +261,7 @@
           "annotations": [
             {
               "number": "01",
-              "text": "El desfase entre capas vuelve el borde un lugar de lectura material.",
+              "text": "El peso aparente cambia entre piedra opaca y resina translúcida: la unión deja leer densidad, espesor y transmisión de luz.",
               "position": {
                 "x": 0.5,
                 "y": 0.55
@@ -339,8 +319,8 @@
       "referenceId": "mathijs",
       "role": "Fotografía",
       "source": "https://mathijslabadie.com/honing-passage-studio-sabine-marcelis/",
-      "operation": "Hacer que el material construya un espacio. La repetición y la luz convierten una superficie en una experiencia de recorrido.",
-      "application": "Ensayar una secuencia con las lámparas: vista de conjunto, distancia intermedia y encuentro cercano con la resina.",
+      "operation": "Llevar objetos de superficie pulida al exterior para que contrasten con vegetación, cielo y terreno. El paisaje no es fondo: el reflejo y el color lo incorporan a la pieza.",
+      "application": "Ensayar una secuencia con piezas de Szymon en naturaleza: plano general para el contraste con el paisaje, distancia intermedia para la escala y acercamiento para registrar cómo el entorno entra en la materia.",
       "images": [
         {
           "id": "honing-passage-new-1",
@@ -448,8 +428,8 @@
       "referenceId": "mathijs",
       "role": "Fotografía",
       "source": "https://mathijslabadie.com/perfume-table-studio-sabine-marcelis/",
-      "operation": "Desplegar una pieza en una secuencia de usos y detalles. El montaje del fotógrafo muestra cómo el volumen cilíndrico contiene, expone y acompaña los frascos.",
-      "application": "Preparar un pequeño ensayo visual donde un objeto de Szymon cambie de lectura al variar lo que lo acompaña.",
+      "operation": "Construir una puesta en escena precisa: iluminación, fondos y frascos de perfume convierten una pieza funcional en una escena con escala y uso.",
+      "application": "Usar elementos pequeños y reconocibles —como frascos, flores o recipientes— para dar escala a un mueble de Szymon y revelar cómo cambia su sentido bajo una iluminación controlada.",
       "images": [
         {
           "id": "perfume-table-1",
@@ -682,7 +662,7 @@
           "annotations": [
             {
               "number": "01",
-              "text": "Rosa translúcido, verde vegetal y sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica.",
+              "text": "La base es rosa mate, no translúcida; el verde vegetal y la sombra recortada permiten ensayar bodegones donde conviven materia artificial y orgánica.",
               "position": {
                 "x": 0.52,
                 "y": 0.7
@@ -931,8 +911,8 @@
       "referenceId": "niko",
       "role": "Diseño de mobiliario",
       "source": "https://www.nikokoronis.com/works/p/gst",
-      "operation": "Cruzar precisión geométrica y variación óptica. Una forma utilitaria puede cambiar de densidad aparente según la iluminación.",
-      "application": "Comparar una pieza de Szymon con una geometría más funcional. Fotografiar el canto y el vacío para discutir dónde comienza la expresión artística.",
+      "operation": "Construir la iluminación del set para que una geometría funcional cambie de densidad aparente. Luz lateral, fondo y sombra hacen visible el espesor, el vacío y los bordes.",
+      "application": "Fotografiar una pieza de Szymon con una luz de set deliberada: variar dirección e intensidad para discutir cómo el canto, el vacío y la sombra desplazan la lectura entre función y presencia escultórica.",
       "images": [
         {
           "id": "gst-sidetable-2",
@@ -1217,8 +1197,8 @@
         "creator": "Studio Niko Koronis",
         "status": "Studio Niko Koronis (crédito de imagen pendiente)."
       },
-      "operation": "Reducir la pieza a volumen, recorte y sombra; el hueco lateral es tan activo como la masa.",
-      "application": "Para Szymon: fotografiar piezas pequeñas en secuencia de masa, recorte y detalle. Usar luz lateral para que la sombra explique vacíos y espesor, sin convertirlo en render.",
+      "operation": "Usar la iluminación del set para reducir la pieza a volumen, recorte y sombra; el hueco lateral tiene tanto peso visual como la masa.",
+      "application": "Fotografiar piezas pequeñas de Szymon en secuencia de masa, recorte y detalle. Una luz lateral controlada debe explicar vacíos, espesor y sombra sin convertir la imagen en un render.",
       "images": [
         {
           "id": "lkm-1",
@@ -1553,7 +1533,7 @@
           "annotations": [
             {
               "number": "01",
-              "text": "Seguir el límite entre superficie y profundidad.",
+              "text": "La transparencia ayuda a percibir el volumen: el canto, los reflejos internos y lo que se ve a través de la pieza hacen legible su profundidad.",
               "position": {
                 "x": 0.38,
                 "y": 0.52
@@ -1614,8 +1594,8 @@
       "referenceId": "laurids",
       "role": "Diseño de iluminación",
       "source": "https://lauridsgallee.com/home/pl-09",
-      "operation": "Comparar la pieza encendida y bajo luz ambiente: la misma materia puede operar como masa, filtro y fuente luminosa.",
-      "application": "Mostrar una lámpara nueva de Szymon en dos estados equivalentes, manteniendo el encuadre para que el cambio lo produzca la luz.",
+      "operation": "Comparar la pieza encendida y bajo luz ambiente. El ambiente entra en la refracción del material, mientras la iluminación del set define cómo se leen tubos, reflejos y color.",
+      "application": "Mostrar una lámpara nueva de Szymon en dos estados equivalentes, manteniendo el encuadre: primero bajo luz ambiente y después encendida. Dejar que entorno, reflejos y luz propia produzcan el cambio.",
       "images": [
         {
           "id": "pl-09-3",
@@ -1763,7 +1743,7 @@
           "annotations": [
             {
               "number": "02",
-              "text": "El recorte permite leer textura y silueta sin explicar toda la pieza.",
+              "text": "El recorte cercano permite leer textura, silueta y acabado; es una forma de estudiar la pieza sin tener que mostrarla entera.",
               "position": {
                 "x": 0.52,
                 "y": 0.52
@@ -1942,8 +1922,8 @@
         "creator": "Laurids Gallée",
         "status": "Laurids Gallée × Moser (crédito de imagen pendiente)."
       },
-      "operation": "Usar retícula, transparencia y curvatura como una misma gramática, mostrando tanto objeto terminado como proceso.",
-      "application": "Para Szymon: construir una secuencia que vaya de taller a detalle y conjunto. La fabricación puede sostener la lectura de la pieza sin convertirse en making-of ornamental.",
+      "operation": "Usar retícula, transparencia y curvatura como una misma gramática. Los detalles cercanos hacen visibles espesor, juntas, borde y proceso sin perder la lectura del conjunto.",
+      "application": "Construir una secuencia que vaya de taller a detalle y conjunto. Acercarse a las uniones, curvaturas y reflejos permite que la fabricación sostenga la lectura de la pieza sin convertirse en making-of ornamental.",
       "images": [
         {
           "id": "axis-6",
@@ -2319,8 +2299,8 @@
       "referenceId": "mathijs",
       "role": "Fotografía",
       "source": "https://mathijslabadie.com/invisible-vases-chris-kabel/",
-      "operation": "Hacer que el contenedor retroceda y que el agua, los tallos y el vacío construyan el bodegón.",
-      "application": "Para jarrones de Szymon: alternar la presencia del objeto con su capacidad de ordenar flores, huecos y alturas. Fotografiar el conjunto como una constelación, no como una fila de producto.",
+      "operation": "Tomar el bodegón como una escena más salvaje y despreocupada: flores, tallos, agua y estructuras finas se organizan sin la rigidez de una fila de producto.",
+      "application": "Para jarrones de Szymon: alternar presencia del objeto con su capacidad de ordenar flores, huecos y alturas. Construir un bodegón vivo, con desborde y variación, antes que una composición demasiado cerrada.",
       "images": [
         {
           "id": "invisible-vases-1",
@@ -2463,8 +2443,8 @@
       "referenceId": "scheltens",
       "role": "Fotografía",
       "source": "https://www.scheltens-abbenes.com/work/hermes-colour-library",
-      "operation": "Convertir el archivo de muestras en imagen: ordenar, superponer, girar y dejar visibles las notas del proceso.",
-      "application": "Para Szymon: construir un archivo de pigmentos, espesores y transparencias como materia editorial. Que receta y descartes tengan lugar, sin volverlos paleta decorativa.",
+      "operation": "Desglosar materialidad, proceso e investigación: ordenar, superponer y girar muestras, dejando visibles pruebas, notas y decisiones intermedias.",
+      "application": "Para Szymon: construir un archivo de pigmentos, espesores, transparencias y pruebas de taller. Que receta, muestra y descarte expliquen cómo se investiga una pieza, sin convertirse en paleta decorativa.",
       "images": [
         {
           "id": "hermes-colour-library-1",
@@ -2611,8 +2591,8 @@
       "referenceId": "scheltens",
       "role": "Fotografía",
       "source": "https://www.scheltens-abbenes.com/work/macguffin-1",
-      "operation": "Usar primer plano y corte editorial para que una esfera de vidrio pase de objeto a paisaje material y cromático.",
-      "application": "Para Szymon: probar cortes cercanos y dípticos que no expliquen la pieza de inmediato. Incluir burbujas, vetas y rayas como información material.",
+      "operation": "Usar primer plano, detalle y corte editorial para que una esfera de vidrio pase de objeto a paisaje material y cromático. La maquetación también organiza el contraste entre imágenes.",
+      "application": "Para Szymon: probar detalles cercanos y dípticos que no expliquen la pieza de inmediato. Burbujas, vetas y contrastes de color pueden sostener una composición editorial.",
       "images": [
         {
           "id": "macguffin-1-4",
@@ -2739,8 +2719,8 @@
       "referenceId": "scheltens",
       "role": "Fotografía",
       "source": "https://www.scheltens-abbenes.com/work/bouquet-series",
-      "operation": "Tratar el bodegón como montaje: dejar visibles plano, sombra, hilo y artificio para que la imagen piense su construcción.",
-      "application": "Para Szymon: trabajar jarrones y lámparas como escena post-catálogo. Tomar la lógica de recorte, escenografía y equilibrio, no la estética barroca de los motivos.",
+      "operation": "Construir bodegones más dramáticos mediante fondo oscuro, luz dirigida y claroscuro, en diálogo con la tradición del bodegón barroco.",
+      "application": "Para Szymon: trabajar jarrones y lámparas como un bodegón de luz y sombra. Tomar el dramatismo, los reflejos y la profundidad de la escena sin copiar sus motivos.",
       "images": [
         {
           "id": "bouquet-series-1",
@@ -2924,8 +2904,8 @@
       "referenceId": "scheltens",
       "role": "Fotografía",
       "source": "https://www.scheltens-abbenes.com/work/the-plant-journal-shakes-2012",
-      "operation": "Descomponer un objeto mediante desplazamientos y repeticiones para volver visible el tiempo dentro de una imagen.",
-      "application": "Para Szymon: ensayar rotaciones o secciones de una pieza como registro de exploración. El objetivo es estudiar el objeto, no fingir perfección de catálogo.",
+      "operation": "Usar color, desplazamiento y repetición para construir ritmo. Los tonos de fruta, hoja y fondo convierten cada variación en una referencia cromática.",
+      "application": "Para Szymon: ensayar una paleta de color a través de rotaciones, secciones o repeticiones de una pieza. El color debe registrar cambios de luz y materia, no decorar la imagen.",
       "images": [
         {
           "id": "the-plant-3",
@@ -3015,8 +2995,8 @@
       "role": "Instalación lumínica",
       "context": "Exterior / instalación / paisaje",
       "source": "https://sabinemarcelis.com/projects/light-horizon-noor-riyadh",
-      "operation": "Insertar planos de espejo bidireccional y LED en una topografía árida para que reflejo, color y horizonte se vuelvan una misma escena.",
-      "application": "Para Szymon: probar una pieza lumínica fuera del estudio y fotografiarla a distancia; el paisaje debe afectar el color y la lectura de sus bordes.",
+      "operation": "Insertar planos de espejo bidireccional y LED en una topografía exterior para que reflejo, color y horizonte se vuelvan una misma escena.",
+      "application": "Para Szymon: probar una pieza lumínica fuera del estudio y fotografiarla a distancia. El exterior debe afectar el color, los bordes y la escala de la pieza.",
       "images": [
         {
           "id": "light-horizon-1",
@@ -3050,8 +3030,8 @@
       "role": "Silla",
       "context": "Objeto / paisaje",
       "source": "https://www.dezeen.com/2024/09/25/catifa-carta-chair-marks-a-milestone-in-arpers-sustainability-journey/",
-      "operation": "Aislar una silla negra sobre un montículo cubierto de hierba para desplazar la escala habitual del mobiliario y volver visible su silueta.",
-      "application": "Para Szymon: ensayar una pieza única contra un terreno continuo. El vacío alrededor y la altura del soporte pueden narrar uso sin mostrar un interior.",
+      "operation": "Traer el objeto al interior sin desprenderlo del paisaje que lo inspira. La silla y el montículo convierten una referencia exterior en una puesta en escena contenida.",
+      "application": "Para Szymon: trasladar al set materiales y gestos del paisaje de origen —por ejemplo, trigo de los campos polacos— para que el objeto conserve esa memoria sin necesidad de fotografiarlo siempre fuera.",
       "images": [
         {
           "id": "catifa-carta-1",
@@ -3087,8 +3067,8 @@
       "role": "Arquitectura para insectos",
       "context": "Exterior / instalación / paisaje",
       "source": "https://sabinemarcelis.com/projects/bee-house",
-      "operation": "Agrupar módulos reflectantes verdes en el césped para que una infraestructura para abejas se lea también como señal, patrón y espejismo.",
-      "application": "Para Szymon: pensar una función pequeña con escala visual amplia. Repetir un módulo permite que la pieza actúe como arquitectura temporal.",
+      "operation": "Agrupar módulos reflectantes en el exterior para que una infraestructura para abejas se lea como señal, patrón y reflejo del entorno.",
+      "application": "Para Szymon: pensar una función pequeña con escala visual amplia. La pradera, el cielo y la vegetación pueden entrar en la superficie reflectante y cambiar la pieza según el lugar.",
       "images": [
         {
           "id": "bee-house-1",
@@ -3123,8 +3103,8 @@
       "role": "Instalación / espacio doméstico",
       "context": "Exterior / instalación",
       "source": "",
-      "operation": "Trasladar una pared de salón, mobiliario y luces al parque sin disimular apoyos, estructura ni condición efímera.",
-      "application": "Para Szymon: usar el objeto como parte de un set temporal en paisaje real. Dejar que los soportes y la construcción entren en la imagen.",
+      "operation": "Trasladar una pared de salón, mobiliario y luces al parque sin disimular apoyos, estructura ni condición temporal. El contexto exterior cambia el sentido de la escena doméstica.",
+      "application": "Para Szymon: usar el objeto como parte de un set temporal en paisaje real. Dejar que contexto, soportes y construcción entren en la imagen.",
       "images": [
         {
           "id": "interior-provisional-exterior-1",
@@ -3159,8 +3139,8 @@
       "role": "Mobiliario",
       "context": "Exterior / paisaje rocoso",
       "source": "https://www.domusweb.it/it/product-news/gallery/2023/05/01/daft-about-draft-arredi-per-gli-spazi-angusti-delle-citt.html",
-      "operation": "Fotografiar asientos de líneas fluidas entre piedra y lava para contrastar superficie industrial, color y geología.",
-      "application": "Para Szymon: colocar una familia de objetos en una topografía áspera. La roca puede ser compañero material y no simple fondo.",
+      "operation": "Fotografiar asientos de líneas fluidas en exterior como una puesta en escena que contrasta superficie industrial, color y geología.",
+      "application": "Para Szymon: colocar una familia de objetos en una topografía áspera. El exterior y la disposición de las piezas deben construir la escena, no actuar como simple fondo.",
       "images": [
         {
           "id": "daft-about-draft-3",
@@ -3254,8 +3234,8 @@
       "role": "Objeto y luminaria",
       "context": "Exterior / material / paisaje",
       "source": "https://www.earthtopeople.studio/",
-      "operation": "Situar madera recuperada, metal y luz entre árboles, musgo y roca para que el objeto parezca un habitante temporal del lugar.",
-      "application": "Para Szymon: secuenciar primer plano, escala media y horizonte. El material puede tomar información de humedad, corteza y suelo.",
+      "operation": "Situar madera recuperada, metal y luz entre árboles, musgo y roca. Exterior y puesta en escena hacen que el objeto parezca un habitante temporal del lugar.",
+      "application": "Para Szymon: secuenciar primer plano, escala media y horizonte. La disposición de objetos puede tomar información de humedad, corteza y suelo para construir una escena exterior.",
       "images": [
         {
           "id": "earth-to-people-1",
@@ -3431,8 +3411,8 @@
       "role": "Objeto decorativo",
       "context": "Exterior / objeto / paisaje",
       "source": "https://fr.lalique.com/en/pages/terramineral-decorative-objects",
-      "operation": "Enfrentar superficies de cristal y acabados minerales con roca, agua y suelo agrietado para que el objeto se lea como fragmento geológico.",
-      "application": "Para Szymon: usar el terreno como contraparte material. Buscar escalas ambiguas entre recipiente, piedra y reflejo antes de decidir el encuadre final.",
+      "operation": "Enfrentar cristal y acabados minerales con roca, agua y suelo agrietado. Exterior y puesta en escena convierten el objeto en un contraste entre recurso natural, materia prima y acabado pulido.",
+      "application": "Para Szymon: usar el terreno como contraparte material y escenográfica. Buscar contrastes entre recipiente, piedra, reflejo y materia prima antes de decidir el encuadre final.",
       "images": [
         {
           "id": "terramineral-6",
@@ -3568,8 +3548,8 @@
       "role": "Mobiliario y luminaria",
       "context": "Exterior / puesta en paisaje",
       "source": "https://www.natanmoss.com/",
-      "operation": "Sacar mesas, asientos y luminarias a praderas, caminos y horizontes abiertos para que el mobiliario opere como composición de escala.",
-      "application": "Para Szymon: probar agrupaciones en campo, carretera o paisaje seco. La cámara puede usar horizonte y distancia para organizar función, volumen y silencio.",
+      "operation": "Sacar mesas, asientos y luminarias a praderas, caminos y horizontes abiertos. El exterior y la puesta en escena contrastan mobiliario, paisaje y materiales sin perder la función.",
+      "application": "Para Szymon: probar agrupaciones en campo, carretera o paisaje seco. Usar horizonte, distancia y materiales del lugar para organizar función, volumen y contraste con el entorno.",
       "images": [
         {
           "id": "natan-moss-furniture-1",
@@ -3784,8 +3764,8 @@
       "role": "Mobiliario",
       "context": "Exterior / instalación temporal",
       "source": "https://www.domusweb.it/it/product-news/gallery/2024/07/03/la-bellezza-e-la-resistenza-dellaccciaio-nelle-serie-di-design-di-inoxeart.html",
-      "operation": "Combinar acero, vidrio y ladrillo perforado en una pradera: las piezas funcionales y su plataforma construyen una instalación de uso temporal.",
-      "application": "Para Szymon: convertir agrupación, suelo y utilería en una sola escena. Alternar plano general, mesa habitada y detalle de estructura.",
+      "operation": "Combinar acero, vidrio y ladrillo perforado en una pradera: piezas funcionales, plataforma y utilería forman una referencia completa de exterior, bodegón y puesta en escena.",
+      "application": "Para Szymon: convertir agrupación, suelo y utilería en una sola escena. Alternar plano general, mesa habitada y detalle de estructura para que exterior y bodegón funcionen juntos.",
       "images": [
         {
           "id": "inoxeart-outdoors-7",
@@ -3982,8 +3962,8 @@
       "role": "Fotografía",
       "context": "Exterior / luz / paisaje",
       "source": "https://francoisollivier.com/summer-daze",
-      "operation": "Construir una secuencia a partir de cambios entre tarde, noche y amanecer: nubes, luces aisladas, destellos y fuego articulan el paisaje cotidiano.",
-      "application": "Para Szymon: trabajar una campaña exterior como gradiente tonal, no como un único hero shot. Una luz puntual puede ser objeto, personaje o corte de ritmo.",
+      "operation": "Construir una secuencia en exterior a partir de la golden hour: la transición de tarde a noche usa nubes, destellos y luz cálida para transformar un paisaje cotidiano.",
+      "application": "Para Szymon: trabajar fotografías en exterior durante la golden hour. El entorno y la luz baja pueden dar unidad a una campaña sin depender de un único hero shot.",
       "images": [
         {
           "id": "summer-daze-3",
@@ -4257,8 +4237,8 @@
       "role": "Instalación lumínica",
       "context": "Exterior / instalación / land art",
       "source": "https://francoisollivier.com/memory-lapses",
-      "operation": "Introducir barras de luz blanca en playa, montaña, bosque y agua para dibujar líneas temporales contra una topografía existente.",
-      "application": "Para Szymon: ensayar luz portátil fuera del estudio al crepúsculo. Cada emplazamiento debe cambiar la geometría y exposición de la misma herramienta.",
+      "operation": "Introducir barras de luz blanca en playa, montaña, bosque y agua. Exterior y puesta en escena convierten la luz en una intervención precisa sobre la topografía.",
+      "application": "Para Szymon: ensayar luz portátil fuera del estudio al crepúsculo. Cada emplazamiento debe cambiar la geometría, la escala y la exposición de la misma herramienta.",
       "images": [
         {
           "id": "memory-lapses-1",

@@ -32,3 +32,4 @@ Reglas fijadas por el usuario. Cualquier cambio sustancial debe registrarse aqu�
 - v21: el índice incorpora el filtro Escenografía con las etiquetas revisadas proyecto por proyecto.
 - v22: el favicon conserva únicamente el aro luminoso; el centro es transparente.
 - v23: navegación con Índice, Briefing y Fuentes y notas; la página Briefing usa secciones numeradas y jerarquía editorial.
+- v24: Fuentes y notas termina con los registros de fuente, sin bloque editorial adicional.
