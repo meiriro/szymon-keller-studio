@@ -48,10 +48,10 @@ begin
 
   if exists (
     select 1 from public.project_likes
-    where project_id = p_project_id and visitor_id = v_visitor_id
+    where l.project_id = p_project_id and l.visitor_id = v_visitor_id
   ) then
-    delete from public.project_likes
-    where project_id = p_project_id and visitor_id = v_visitor_id;
+    delete from public.project_likes l
+    where l.project_id = p_project_id and l.visitor_id = v_visitor_id;
     v_liked := false;
   else
     insert into public.project_likes (project_id, visitor_id)

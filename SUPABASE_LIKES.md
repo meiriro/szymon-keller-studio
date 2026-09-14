@@ -12,6 +12,10 @@ La web ya contiene el botón de corazón y está preparada para contar un único
 
 Las claves publishable son seguras para incluir en una web pública porque las funciones de la base de datos limitan cada like al usuario anónimo que lo creó. El contador no pide nombre, correo ni registro al visitante.
 
+## Corrección
+
+Si creaste la base de datos antes del 14.09.2026 a las 16:00, ejecuta también [`supabase/fix-project-like-function.sql`](supabase/fix-project-like-function.sql) en **SQL Editor**.
+
 ## Funcionamiento
 
 - Un visitante puede dar o retirar un like en cada proyecto desde su ficha.
