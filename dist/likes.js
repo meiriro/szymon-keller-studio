@@ -87,4 +87,40 @@
       }
     });
   };
+
+// El índice muestra el mismo recuento y permite votar sin abrir la ficha.
+window.initialiseIndexLikes = async function initialiseIndexLikes(projects) {
+  const nodes = [...document.querySelectorAll('[data-card-likes]')];
+  if (!nodes.length || !enabled) return;
+  const card = (state) => `<button type="button" class="card-like-button" aria-pressed="${state.liked}" aria-label="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'} · ${state.likes} me gusta" title="${state.liked ? 'Quitar me gusta' : 'Dar me gusta'}">${icon}<span data-card-like-count>${state.likes}</span></button>`;
+  const nodesFor = (id) => nodes.filter(node => node.dataset.cardLikes === id);
+  const paintCards = (id, state) => nodesFor(id).forEach(node => {
+    node.innerHTML = card(state);
+    const button = node.querySelector('button');
+    button.addEventListener('click', async () => {
+      if (button.disabled) return;
+      button.disabled = true;
+      try {
+        const rows = await rpc('toggle_project_like', { p_project_id: id });
+        const row = rows[0] || state;
+        const next = { likes: Number(row.likes || 0), liked: Boolean(row.liked) };
+        paintCards(id, next);
+      } catch {
+        button.title = 'No se pudo actualizar el me gusta';
+      } finally {
+        button.disabled = false;
+      }
+    });
+  });
+  nodes.forEach(node => { node.innerHTML = card({ likes: '—', liked: false }); });
+  try {
+    const rows = await rpc('project_like_summaries', { p_project_ids: projects.map(project => project.id) });
+    const summaries = new Map(rows.map(row => [row.project_id, { likes: Number(row.likes || 0), liked: Boolean(row.liked) }]));
+    projects.forEach(project => paintCards(project.id, summaries.get(project.id) || { likes: 0, liked: false }));
+    const totalNode = document.querySelector('[data-likes-total]');
+    if (totalNode) totalNode.textContent = ` · ${[...summaries.values()].reduce((total, state) => total + state.likes, 0)} me gusta`;
+  } catch {
+    nodes.forEach(node => node.replaceChildren());
+  }
+};
 })();
