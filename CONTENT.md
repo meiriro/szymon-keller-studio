@@ -123,3 +123,4 @@ Dentro de las fuentes autorizadas: comparar una misma pieza fotografiada por su 
 - 14.09.2026, v23: añadida la pestaña Briefing con preguntas para la reunión; la cabecera simplifica su navegación y el pie acredita a Rodrigo Meiriño.
 - 14.09.2026, v24: retirado el criterio de archivo de Fuentes y notas; revisadas anotaciones y operaciones editoriales de las referencias indicadas, y eliminada la tercera imagen de Waves House.
 - 14.09.2026, v25: añadidas imágenes para Catifa Carta, Light Horizon / Noor Riyadh e Invisible Vases, con nuevas lecturas por imagen.
+- 14.09.2026, v26: preparado el contador compartido de likes por proyecto mediante Supabase; el corazón aparece en la ficha al activar la configuración de la base de datos.
